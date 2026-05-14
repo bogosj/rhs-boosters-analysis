@@ -1,0 +1,896 @@
+Date,Transaction ID,Number,Description,Notes,Commodity/Currency,Void Reason,Action,Memo,Full Account Name,Account Name,Amount With Sym,Amount Num.,Value With Sym,Value Num.,Reconcile,Reconcile Date,Rate/Price
+05/28/2025,1abe3d6e73724516be167421809fb38c,Z2425011, Zelle To BRYON COLE +1-888-931-2583 ,,CURRENCY::USD,,,Gift for Deb Jimenez,Expenses:Administrative:Board Member Appreciation,Board Member Appreciation,$257.50,257.50,$257.50,257.50,n,,1.0000
+05/28/2025,1abe3d6e73724516be167421809fb38c,Z2425011, Zelle To BRYON COLE +1-888-931-2583 ,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$257.50,-257.50,-$257.50,-257.50,y,06/20/2025,1.0000
+07/01/2025,3f3d82934eb44d20a226c091f768579f,,Income from 2024/2025 School Year,,CURRENCY::USD,,,,Expenses:Administrative:Board Member Appreciation,Board Member Appreciation,-$257.50,-257.50,-$257.50,-257.50,n,,1.0000
+07/01/2025,3f3d82934eb44d20a226c091f768579f,,Income from 2024/2025 School Year,,CURRENCY::USD,,,,Equity:Current Year Net Income,Current Year Net Income,"$91,257.18",91257.18,"$91,257.18",91257.18,n,,1.0000
+07/01/2025,3f3d82934eb44d20a226c091f768579f,,Income from 2024/2025 School Year,,CURRENCY::USD,,,,Expenses:Raffles,Raffles,"-$1,848.00",-1848.00,"-$1,848.00",-1848.00,n,,1.0000
+07/01/2025,3f3d82934eb44d20a226c091f768579f,,Income from 2024/2025 School Year,,CURRENCY::USD,,,,Expenses:Administrative:Office Supplies,Office Supplies,-$239.90,-239.90,-$239.90,-239.90,n,,1.0000
+07/01/2025,3f3d82934eb44d20a226c091f768579f,,Income from 2024/2025 School Year,,CURRENCY::USD,,,,Expenses:Administrative:Other,Other,-$102.57,-102.57,-$102.57,-102.57,n,,1.0000
+07/01/2025,3f3d82934eb44d20a226c091f768579f,,Income from 2024/2025 School Year,,CURRENCY::USD,,,,Expenses:Administrative:Fees,Fees,-$145.00,-145.00,-$145.00,-145.00,n,,1.0000
+07/01/2025,3f3d82934eb44d20a226c091f768579f,,Income from 2024/2025 School Year,,CURRENCY::USD,,,,Expenses:Administrative:Insurance,Insurance,-$395.00,-395.00,-$395.00,-395.00,n,,1.0000
+07/01/2025,3f3d82934eb44d20a226c091f768579f,,Income from 2024/2025 School Year,,CURRENCY::USD,,,,Expenses:Program Services:Varsity Dinners,Varsity Dinners,-$658.81,-658.81,-$658.81,-658.81,n,,1.0000
+07/01/2025,3f3d82934eb44d20a226c091f768579f,,Income from 2024/2025 School Year,,CURRENCY::USD,,,,Expenses:Program Services:Varsity Dinners,Varsity Dinners,-$654.01,-654.01,-$654.01,-654.01,n,,1.0000
+07/01/2025,3f3d82934eb44d20a226c091f768579f,,Income from 2024/2025 School Year,,CURRENCY::USD,,,,Expenses:Program Services:Varsity Dinners,Varsity Dinners,-$614.14,-614.14,-$614.14,-614.14,n,,1.0000
+07/01/2025,3f3d82934eb44d20a226c091f768579f,,Income from 2024/2025 School Year,,CURRENCY::USD,,,,Expenses:Program Services:Varsity Dinners,Varsity Dinners,"-$14,030.74",-14030.74,"-$14,030.74",-14030.74,n,,1.0000
+07/01/2025,3f3d82934eb44d20a226c091f768579f,,Income from 2024/2025 School Year,,CURRENCY::USD,,,,Expenses:Program Services:Varsity Dinners,Varsity Dinners,"-$13,851.08",-13851.08,"-$13,851.08",-13851.08,n,,1.0000
+07/01/2025,3f3d82934eb44d20a226c091f768579f,,Income from 2024/2025 School Year,,CURRENCY::USD,,,,Expenses:Program Services:Varsity Dinners,Varsity Dinners,"-$14,377.87",-14377.87,"-$14,377.87",-14377.87,n,,1.0000
+07/01/2025,3f3d82934eb44d20a226c091f768579f,,Income from 2024/2025 School Year,,CURRENCY::USD,,,,Expenses:Fundraising:Sponsorships,Sponsorships,-$27.00,-27.00,-$27.00,-27.00,n,,1.0000
+07/01/2025,3f3d82934eb44d20a226c091f768579f,,Income from 2024/2025 School Year,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,"-$11,258.28",-11258.28,"-$11,258.28",-11258.28,n,,1.0000
+07/01/2025,3f3d82934eb44d20a226c091f768579f,,Income from 2024/2025 School Year,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,"-$6,478.35",-6478.35,"-$6,478.35",-6478.35,n,,1.0000
+07/01/2025,3f3d82934eb44d20a226c091f768579f,,Income from 2024/2025 School Year,,CURRENCY::USD,,,,Expenses:Donations,Donations,-$3.98,-3.98,-$3.98,-3.98,n,,1.0000
+07/01/2025,3f3d82934eb44d20a226c091f768579f,,Income from 2024/2025 School Year,,CURRENCY::USD,,,,Expenses:Program Services:Scholarships,Scholarships,"-$12,000.00",-12000.00,"-$12,000.00",-12000.00,n,,1.0000
+07/01/2025,3f3d82934eb44d20a226c091f768579f,,Income from 2024/2025 School Year,,CURRENCY::USD,,,,Expenses:Program Services:Student / Coach Awards,Student / Coach Awards,-$979.60,-979.60,-$979.60,-979.60,n,,1.0000
+07/01/2025,3f3d82934eb44d20a226c091f768579f,,Income from 2024/2025 School Year,,CURRENCY::USD,,,,Expenses:Program Services:Student / Coach Awards,Student / Coach Awards,"-$9,620.00",-9620.00,"-$9,620.00",-9620.00,n,,1.0000
+07/01/2025,3f3d82934eb44d20a226c091f768579f,,Income from 2024/2025 School Year,,CURRENCY::USD,,,,Expenses:Program Services:Athletic Department Donations,Athletic Department Donations,"-$3,700.00",-3700.00,"-$3,700.00",-3700.00,n,,1.0000
+07/01/2025,3f3d82934eb44d20a226c091f768579f,,Income from 2024/2025 School Year,,CURRENCY::USD,,,,Expenses:Fundraising:Sponsorships,Sponsorships,-$15.35,-15.35,-$15.35,-15.35,n,,1.0000
+08/22/2024,e6a13aba9a7d48f99018608b437d4a2c,3127,James Bogosian,,CURRENCY::USD,,,2022/2023 CRI Filing Fee,Expenses:Administrative:Fees,Fees,$85.00,85.00,$85.00,85.00,n,,1.0000
+08/22/2024,e6a13aba9a7d48f99018608b437d4a2c,3127,James Bogosian,,CURRENCY::USD,,,Domain Name - 10 Years,Expenses:Administrative:Other,Other,$102.57,102.57,$102.57,102.57,n,,1.0000
+08/22/2024,e6a13aba9a7d48f99018608b437d4a2c,3127,James Bogosian,,CURRENCY::USD,,,Walmart Checks (240),Expenses:Administrative:Office Supplies,Office Supplies,$30.42,30.42,$30.42,30.42,n,,1.0000
+08/22/2024,e6a13aba9a7d48f99018608b437d4a2c,3127,James Bogosian,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$217.99,-217.99,-$217.99,-217.99,y,09/01/2024,1.0000
+09/15/2024,a9c19f406d824b2db1c33807d0c92d37,,NJ CRI Registration Fee,,CURRENCY::USD,,,,Expenses:Administrative:Fees,Fees,$60.00,60.00,$60.00,60.00,n,,1.0000
+09/15/2024,a9c19f406d824b2db1c33807d0c92d37,,NJ CRI Registration Fee,,CURRENCY::USD,,,,Liabilities:Accounts Payable:James Bogosian,James Bogosian,-$60.00,-60.00,-$60.00,-60.00,n,,1.0000
+09/17/2024,a5dd49339c824a6b9ce92a844535ac4f,3132,VOID - Benevity account renewal,,CURRENCY::USD,,,,Expenses:Administrative:Fees,Fees,$0.00,0.00,$0.00,0.00,n,,0.0000
+09/17/2024,a5dd49339c824a6b9ce92a844535ac4f,3132,VOID - Benevity account renewal,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,$0.00,0.00,$0.00,0.00,y,10/01/2024,0.0000
+07/10/2025,02d57ba59731474da004f86f7cbca0d4,Z2526001, Zelle To JAMES BOGOSIAN +1-888-931-2583 ,,CURRENCY::USD,,,24-25 990EZ file990.org,Expenses:Administrative:Fees,Fees,$84.99,84.99,$84.99,84.99,n,,1.0000
+07/10/2025,02d57ba59731474da004f86f7cbca0d4,Z2526001, Zelle To JAMES BOGOSIAN +1-888-931-2583 ,,CURRENCY::USD,,,24-25 NJ-CRI Filing,Expenses:Administrative:Fees,Fees,$60.00,60.00,$60.00,60.00,n,,1.0000
+07/10/2025,02d57ba59731474da004f86f7cbca0d4,Z2526001, Zelle To JAMES BOGOSIAN +1-888-931-2583 ,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$144.99,-144.99,-$144.99,-144.99,y,07/31/2025,1.0000
+12/21/2024,c844a796b8964501a1b7537fc1e61a19,3156,AIM Insurance Company,,CURRENCY::USD,,,,Expenses:Administrative:Insurance,Insurance,$395.00,395.00,$395.00,395.00,n,,1.0000
+12/21/2024,c844a796b8964501a1b7537fc1e61a19,3156,AIM Insurance Company,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$395.00,-395.00,-$395.00,-395.00,y,02/03/2025,1.0000
+12/19/2025,c4847ad25eba4457b91d483ceafc7ab0,EFT2526002,AIM Insurance Company,,CURRENCY::USD,,,,Expenses:Administrative:Insurance,Insurance,$395.00,395.00,$395.00,395.00,n,,1.0000
+12/19/2025,c4847ad25eba4457b91d483ceafc7ab0,EFT2526002,AIM Insurance Company,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$395.00,-395.00,-$395.00,-395.00,y,01/01/2026,1.0000
+10/03/2024,a0b421feab124583a1b4cd02e4984994,,Cash Counting Machine,,CURRENCY::USD,,,,Expenses:Administrative:Office Supplies,Office Supplies,$81.02,81.02,$81.02,81.02,n,,1.0000
+10/03/2024,a0b421feab124583a1b4cd02e4984994,,Cash Counting Machine,,CURRENCY::USD,,,,Liabilities:Accounts Payable:James Bogosian,James Bogosian,-$81.02,-81.02,-$81.02,-81.02,n,,1.0000
+04/08/2025,230497ab712c4a12888046fac719685a,Z2425004,Zelle To BRYON COLE +1-888-931-2583,,CURRENCY::USD,,,,Expenses:Administrative:Office Supplies,Office Supplies,$128.46,128.46,$128.46,128.46,n,,1.0000
+04/08/2025,230497ab712c4a12888046fac719685a,Z2425004,Zelle To BRYON COLE +1-888-931-2583,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$128.46,-128.46,-$128.46,-128.46,y,05/01/2025,1.0000
+08/28/2024,a11e4b4d0a654c668ece8a3804f1e23d,,PAYPAL VERIFYBANK ACCTVERIFY,,CURRENCY::USD,,,,Expenses:Administrative:Other,Other,$0.34,0.34,$0.34,0.34,n,,1.0000
+08/28/2024,a11e4b4d0a654c668ece8a3804f1e23d,,PAYPAL VERIFYBANK ACCTVERIFY,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$0.34,-0.34,-$0.34,-0.34,y,09/23/2024,1.0000
+08/28/2024,87f0438205e64fa09d1170a9da6656e9,,PAYPAL VERIFYBANK ACCTVERIFY,,CURRENCY::USD,,,,Expenses:Administrative:Other,Other,-$0.16,-0.16,-$0.16,-0.16,n,,1.0000
+08/28/2024,87f0438205e64fa09d1170a9da6656e9,,PAYPAL VERIFYBANK ACCTVERIFY,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,$0.16,0.16,$0.16,0.16,y,09/23/2024,1.0000
+08/28/2024,d10f929b9bb14ba3a497c2a41f6729ff,,PAYPAL VERIFYBANK ACCTVERIFY,,CURRENCY::USD,,,,Expenses:Administrative:Other,Other,-$0.18,-0.18,-$0.18,-0.18,n,,1.0000
+08/28/2024,d10f929b9bb14ba3a497c2a41f6729ff,,PAYPAL VERIFYBANK ACCTVERIFY,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,$0.18,0.18,$0.18,0.18,y,09/23/2024,1.0000
+08/30/2024,29d01517532c4b93a063fa5651dcb4ad,,VENMO ACCTVERIFY,,CURRENCY::USD,,,,Expenses:Administrative:Other,Other,-$0.10,-0.10,-$0.10,-0.10,n,,1.0000
+08/30/2024,29d01517532c4b93a063fa5651dcb4ad,,VENMO ACCTVERIFY,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,$0.10,0.10,$0.10,0.10,y,09/23/2024,1.0000
+08/30/2024,ba57c1b091b5483fb7f873b6e0f521b2,,VENMO ACCTVERIFY,,CURRENCY::USD,,,,Expenses:Administrative:Other,Other,-$0.07,-0.07,-$0.07,-0.07,n,,1.0000
+08/30/2024,ba57c1b091b5483fb7f873b6e0f521b2,,VENMO ACCTVERIFY,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,$0.07,0.07,$0.07,0.07,y,09/23/2024,1.0000
+08/30/2024,9a9ae7912cd24018bf8c1236e5b0d071,,VENMO ACCTVERIFY,,CURRENCY::USD,,,,Expenses:Administrative:Other,Other,$0.07,0.07,$0.07,0.07,n,,1.0000
+08/30/2024,9a9ae7912cd24018bf8c1236e5b0d071,,VENMO ACCTVERIFY,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$0.07,-0.07,-$0.07,-0.07,y,09/23/2024,1.0000
+08/30/2024,9220ad5f4d7540beb24d9bf7b5ccb519,,VENMO ACCTVERIFY,,CURRENCY::USD,,,,Expenses:Administrative:Other,Other,$0.10,0.10,$0.10,0.10,n,,1.0000
+08/30/2024,9220ad5f4d7540beb24d9bf7b5ccb519,,VENMO ACCTVERIFY,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$0.10,-0.10,-$0.10,-0.10,y,09/23/2024,1.0000
+08/19/2025,beba1c6740064ecd851718a56377a2ad,Z2526003,James Bogosian,,CURRENCY::USD,,,Overnight check mailed to NJ LGCCC,Expenses:Administrative:Other,Other,$31.40,31.40,$31.40,31.40,n,,1.0000
+08/19/2025,beba1c6740064ecd851718a56377a2ad,Z2526003,James Bogosian,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$31.40,-31.40,-$31.40,-31.40,y,08/31/2025,1.0000
+08/29/2025,2b65abc814594984854381d2b41e482c,Z2526005, Zelle To BRYON COLE +1-888-931-2583 ,,CURRENCY::USD,,,Newspaper Subscriptions,Expenses:Administrative:Other,Other,$289.00,289.00,$289.00,289.00,n,,1.0000
+08/29/2025,2b65abc814594984854381d2b41e482c,Z2526005, Zelle To BRYON COLE +1-888-931-2583 ,,CURRENCY::USD,,,Snack shack,Expenses:Fundraising:Snack Shack,Snack Shack,$188.32,188.32,$188.32,188.32,n,,1.0000
+08/29/2025,2b65abc814594984854381d2b41e482c,Z2526005, Zelle To BRYON COLE +1-888-931-2583 ,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$477.32,-477.32,-$477.32,-477.32,y,09/22/2025,1.0000
+12/11/2025,0d465a6923fd46c0896666dec250f405,Z2526025,Christina Cole - Club Sweatshirts,,CURRENCY::USD,,,,Expenses:Administrative:Other,Other,$765.00,765.00,$765.00,765.00,n,,1.0000
+12/11/2025,0d465a6923fd46c0896666dec250f405,Z2526025,Christina Cole - Club Sweatshirts,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$765.00,-765.00,-$765.00,-765.00,y,01/01/2026,1.0000
+08/29/2024,3826c46f973342128a7617826e1c97db,,James Bogosian,,CURRENCY::USD,,,,Expenses:Donations,Donations,$0.19,0.19,$0.19,0.19,n,,1.0000
+08/29/2024,3826c46f973342128a7617826e1c97db,,James Bogosian,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$4.81,4.81,$4.81,4.81,y,09/01/2024,1.0000
+08/29/2024,3826c46f973342128a7617826e1c97db,,James Bogosian,,CURRENCY::USD,,,,Income:Donations,Donations,-$5.00,-5.00,-$5.00,-5.00,c,,1.0000
+09/20/2024,623e53d4bfcd4e4296af6c548db34676,,Eileen Bogosian,,CURRENCY::USD,,,,Expenses:Donations,Donations,$2.00,2.00,$2.00,2.00,n,,1.0000
+09/20/2024,623e53d4bfcd4e4296af6c548db34676,,Eileen Bogosian,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$98.00,98.00,$98.00,98.00,y,09/21/2024,1.0000
+09/20/2024,623e53d4bfcd4e4296af6c548db34676,,Eileen Bogosian,,CURRENCY::USD,,,,Income:Donations,Donations,-$100.00,-100.00,-$100.00,-100.00,n,,1.0000
+03/23/2025,1bb415242773493095f9581e9f043e8b,,Transactions through 03/23/2025 15:13:15,,CURRENCY::USD,,,,Expenses:Donations,Donations,$1.79,1.79,$1.79,1.79,n,,1.0000
+03/23/2025,1bb415242773493095f9581e9f043e8b,,Transactions through 03/23/2025 15:13:15,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$145.88,145.88,$145.88,145.88,y,09/25/2025,1.0000
+03/23/2025,1bb415242773493095f9581e9f043e8b,,Transactions through 03/23/2025 15:13:15,,CURRENCY::USD,,,,Expenses:Program Services:Varsity Dinners,Varsity Dinners,$1.33,1.33,$1.33,1.33,n,,1.0000
+03/23/2025,1bb415242773493095f9581e9f043e8b,,Transactions through 03/23/2025 15:13:15,,CURRENCY::USD,,,,Income:Program Services:Varsity Dinners,Varsity Dinners,-$65.00,-65.00,-$65.00,-65.00,n,,1.0000
+03/23/2025,1bb415242773493095f9581e9f043e8b,,Transactions through 03/23/2025 15:13:15,,CURRENCY::USD,,,,Income:Donations,Donations,-$84.00,-84.00,-$84.00,-84.00,n,,1.0000
+10/14/2025,5b663f853bee4bc3b1fa808c953e36ea,C2526001,Cash for Elia Event Payment,,CURRENCY::USD,,,,Expenses:Fundraising:Event Sales,Event Sales,$910.00,910.00,$910.00,910.00,n,,1.0000
+10/14/2025,5b663f853bee4bc3b1fa808c953e36ea,C2526001,Cash for Elia Event Payment,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$910.00,-910.00,-$910.00,-910.00,y,10/31/2025,1.0000
+10/17/2025,a9896d9f2d264c23b451305e691b3d80,,Transactions through 10/17/2025 23:47:52,,CURRENCY::USD,,,,Expenses:Fundraising:Event Sales,Event Sales,$3.90,3.90,$3.90,3.90,n,,1.0000
+10/17/2025,a9896d9f2d264c23b451305e691b3d80,,Transactions through 10/17/2025 23:47:52,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$919.06,919.06,$919.06,919.06,y,10/23/2025,1.0000
+10/17/2025,a9896d9f2d264c23b451305e691b3d80,,Transactions through 10/17/2025 23:47:52,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$5.00,5.00,$5.00,5.00,n,,1.0000
+10/17/2025,a9896d9f2d264c23b451305e691b3d80,,Transactions through 10/17/2025 23:47:52,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$12.04,12.04,$12.04,12.04,n,,1.0000
+10/17/2025,a9896d9f2d264c23b451305e691b3d80,,Transactions through 10/17/2025 23:47:52,,CURRENCY::USD,,,,Income:Fundraising:Event Sales,Event Sales,-$195.00,-195.00,-$195.00,-195.00,n,,1.0000
+10/17/2025,a9896d9f2d264c23b451305e691b3d80,,Transactions through 10/17/2025 23:47:52,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$172.00,-172.00,-$172.00,-172.00,n,,1.0000
+10/17/2025,a9896d9f2d264c23b451305e691b3d80,,Transactions through 10/17/2025 23:47:52,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$573.00,-573.00,-$573.00,-573.00,n,,1.0000
+09/02/2024,07a879937779405f815ab4f1cc31495d,3129,Christina Cole,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$117.29,117.29,$117.29,117.29,n,,1.0000
+09/02/2024,07a879937779405f815ab4f1cc31495d,3129,Christina Cole,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$117.29,-117.29,-$117.29,-117.29,y,10/01/2024,1.0000
+09/13/2024,2f4690549d2745f0928f4fdbec596b2c,,Propane for Snack Shack,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$40.00,40.00,$40.00,40.00,n,,1.0000
+09/13/2024,2f4690549d2745f0928f4fdbec596b2c,,Propane for Snack Shack,,CURRENCY::USD,,,,Liabilities:Accounts Payable:James Bogosian,James Bogosian,-$40.00,-40.00,-$40.00,-40.00,n,,1.0000
+09/13/2024,f9149b2684904da081d752a0311e6bf6,,Carlos Jr Aymat,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$0.13,0.13,$0.13,0.13,n,,1.0000
+09/13/2024,f9149b2684904da081d752a0311e6bf6,,Carlos Jr Aymat,,CURRENCY::USD,,,soda,Assets:Venmo,Venmo,$1.87,1.87,$1.87,1.87,y,09/21/2024,1.0000
+09/13/2024,f9149b2684904da081d752a0311e6bf6,,Carlos Jr Aymat,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$2.00,-2.00,-$2.00,-2.00,n,,1.0000
+09/13/2024,7e1cf912fe02424ba1aebef649273dca,,Cesar A Rodriguez,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$0.29,0.29,$0.29,0.29,n,,1.0000
+09/13/2024,7e1cf912fe02424ba1aebef649273dca,,Cesar A Rodriguez,,CURRENCY::USD,,,Food,Assets:Venmo,Venmo,$9.71,9.71,$9.71,9.71,y,09/21/2024,1.0000
+09/13/2024,7e1cf912fe02424ba1aebef649273dca,,Cesar A Rodriguez,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$10.00,-10.00,-$10.00,-10.00,n,,1.0000
+09/13/2024,aed15b9df4d645f88298220e42a6ae0d,,Dawn Montalbano cuce,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$0.23,0.23,$0.23,0.23,n,,1.0000
+09/13/2024,aed15b9df4d645f88298220e42a6ae0d,,Dawn Montalbano cuce,,CURRENCY::USD,,,Food,Assets:Venmo,Venmo,$6.77,6.77,$6.77,6.77,y,09/21/2024,1.0000
+09/13/2024,aed15b9df4d645f88298220e42a6ae0d,,Dawn Montalbano cuce,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$7.00,-7.00,-$7.00,-7.00,n,,1.0000
+09/13/2024,824abdf1612f4fc88c519c9168fcf1e7,,Fiorella Giordano,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$0.25,0.25,$0.25,0.25,n,,1.0000
+09/13/2024,824abdf1612f4fc88c519c9168fcf1e7,,Fiorella Giordano,,CURRENCY::USD,,,Ruthford food,Assets:Venmo,Venmo,$7.75,7.75,$7.75,7.75,y,09/21/2024,1.0000
+09/13/2024,824abdf1612f4fc88c519c9168fcf1e7,,Fiorella Giordano,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$8.00,-8.00,-$8.00,-8.00,n,,1.0000
+09/13/2024,4f32045ffe1f4cc28732a4831e6839d8,,James Spanarkel,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$0.17,0.17,$0.17,0.17,n,,1.0000
+09/13/2024,4f32045ffe1f4cc28732a4831e6839d8,,James Spanarkel,,CURRENCY::USD,,,Food,Assets:Venmo,Venmo,$3.83,3.83,$3.83,3.83,y,09/21/2024,1.0000
+09/13/2024,4f32045ffe1f4cc28732a4831e6839d8,,James Spanarkel,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$4.00,-4.00,-$4.00,-4.00,n,,1.0000
+09/13/2024,0e4716e26da64d03a02d34936c0c1364,,John Ahearn,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$0.19,0.19,$0.19,0.19,n,,1.0000
+09/13/2024,0e4716e26da64d03a02d34936c0c1364,,John Ahearn,,CURRENCY::USD,,,Food,Assets:Venmo,Venmo,$4.81,4.81,$4.81,4.81,y,09/21/2024,1.0000
+09/13/2024,0e4716e26da64d03a02d34936c0c1364,,John Ahearn,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$5.00,-5.00,-$5.00,-5.00,n,,1.0000
+09/13/2024,620eaa6195fe4323be207a9219aadc6f,,John Ahearn,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$0.21,0.21,$0.21,0.21,n,,1.0000
+09/13/2024,620eaa6195fe4323be207a9219aadc6f,,John Ahearn,,CURRENCY::USD,,,Food,Assets:Venmo,Venmo,$5.79,5.79,$5.79,5.79,y,09/21/2024,1.0000
+09/13/2024,620eaa6195fe4323be207a9219aadc6f,,John Ahearn,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$6.00,-6.00,-$6.00,-6.00,n,,1.0000
+09/13/2024,4cc129e4625448fd9b1a78ac380bce9d,,Johnny O'Hanlon,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$0.13,0.13,$0.13,0.13,n,,1.0000
+09/13/2024,4cc129e4625448fd9b1a78ac380bce9d,,Johnny O'Hanlon,,CURRENCY::USD,,,Water,Assets:Venmo,Venmo,$1.87,1.87,$1.87,1.87,y,09/21/2024,1.0000
+09/13/2024,4cc129e4625448fd9b1a78ac380bce9d,,Johnny O'Hanlon,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$2.00,-2.00,-$2.00,-2.00,n,,1.0000
+09/13/2024,c74c188a01b94ce8be570e6fff094991,,Karina Mena,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$0.15,0.15,$0.15,0.15,n,,1.0000
+09/13/2024,c74c188a01b94ce8be570e6fff094991,,Karina Mena,,CURRENCY::USD,,,Food,Assets:Venmo,Venmo,$2.85,2.85,$2.85,2.85,y,09/21/2024,1.0000
+09/13/2024,c74c188a01b94ce8be570e6fff094991,,Karina Mena,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$3.00,-3.00,-$3.00,-3.00,n,,1.0000
+09/13/2024,2d9237ae6a50498b943f8563c496c356,,Kiara Ocasio,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$0.42,0.42,$0.42,0.42,n,,1.0000
+09/13/2024,2d9237ae6a50498b943f8563c496c356,,Kiara Ocasio,,CURRENCY::USD,,,Football game food,Assets:Venmo,Venmo,$16.58,16.58,$16.58,16.58,y,09/21/2024,1.0000
+09/13/2024,2d9237ae6a50498b943f8563c496c356,,Kiara Ocasio,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$17.00,-17.00,-$17.00,-17.00,n,,1.0000
+09/13/2024,472908454bf148dbbfc237f7ef795247,,Kiara Ocasio,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$0.36,0.36,$0.36,0.36,n,,1.0000
+09/13/2024,472908454bf148dbbfc237f7ef795247,,Kiara Ocasio,,CURRENCY::USD,,,Food,Assets:Venmo,Venmo,$13.64,13.64,$13.64,13.64,y,09/21/2024,1.0000
+09/13/2024,472908454bf148dbbfc237f7ef795247,,Kiara Ocasio,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$14.00,-14.00,-$14.00,-14.00,n,,1.0000
+09/13/2024,039c466bd6854bfc973b1d759998ad6b,,Lawrence Gress,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$0.38,0.38,$0.38,0.38,n,,1.0000
+09/13/2024,039c466bd6854bfc973b1d759998ad6b,,Lawrence Gress,,CURRENCY::USD,,,Food,Assets:Venmo,Venmo,$14.62,14.62,$14.62,14.62,y,09/21/2024,1.0000
+09/13/2024,039c466bd6854bfc973b1d759998ad6b,,Lawrence Gress,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$15.00,-15.00,-$15.00,-15.00,n,,1.0000
+09/13/2024,1c2d9d657a3a45e7b24d8e71b7d05600,,Leah De Bari,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$0.17,0.17,$0.17,0.17,n,,1.0000
+09/13/2024,1c2d9d657a3a45e7b24d8e71b7d05600,,Leah De Bari,,CURRENCY::USD,,,Water,Assets:Venmo,Venmo,$3.83,3.83,$3.83,3.83,y,09/21/2024,1.0000
+09/13/2024,1c2d9d657a3a45e7b24d8e71b7d05600,,Leah De Bari,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$4.00,-4.00,-$4.00,-4.00,n,,1.0000
+09/13/2024,c1f164ba46294e4b8ab57ee772cfa2b6,,Marcy Ski,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$0.21,0.21,$0.21,0.21,n,,1.0000
+09/13/2024,c1f164ba46294e4b8ab57ee772cfa2b6,,Marcy Ski,,CURRENCY::USD,,,🎉,Assets:Venmo,Venmo,$5.79,5.79,$5.79,5.79,y,09/21/2024,1.0000
+09/13/2024,c1f164ba46294e4b8ab57ee772cfa2b6,,Marcy Ski,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$6.00,-6.00,-$6.00,-6.00,n,,1.0000
+09/13/2024,186e0db3e1754e628f8d10bb4d8422bc,,Michelle Mannion,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$0.44,0.44,$0.44,0.44,n,,1.0000
+09/13/2024,186e0db3e1754e628f8d10bb4d8422bc,,Michelle Mannion,,CURRENCY::USD,,,Food,Assets:Venmo,Venmo,$17.56,17.56,$17.56,17.56,y,09/21/2024,1.0000
+09/13/2024,186e0db3e1754e628f8d10bb4d8422bc,,Michelle Mannion,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$18.00,-18.00,-$18.00,-18.00,n,,1.0000
+09/13/2024,926267a6b05d4af29dc20d906368730d,,Michelle Ryan,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$0.42,0.42,$0.42,0.42,n,,1.0000
+09/13/2024,926267a6b05d4af29dc20d906368730d,,Michelle Ryan,,CURRENCY::USD,,,Food,Assets:Venmo,Venmo,$16.58,16.58,$16.58,16.58,y,09/21/2024,1.0000
+09/13/2024,926267a6b05d4af29dc20d906368730d,,Michelle Ryan,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$17.00,-17.00,-$17.00,-17.00,n,,1.0000
+09/13/2024,9289ba904c0f41d4a4c5b3389c3f2a65,,Shalina Bell,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$0.36,0.36,$0.36,0.36,n,,1.0000
+09/13/2024,9289ba904c0f41d4a4c5b3389c3f2a65,,Shalina Bell,,CURRENCY::USD,,,Food,Assets:Venmo,Venmo,$13.64,13.64,$13.64,13.64,y,09/21/2024,1.0000
+09/13/2024,9289ba904c0f41d4a4c5b3389c3f2a65,,Shalina Bell,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$14.00,-14.00,-$14.00,-14.00,n,,1.0000
+09/13/2024,b64563ed052c4767be7cf915127d071a,,Shalina Bell,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$0.13,0.13,$0.13,0.13,n,,1.0000
+09/13/2024,b64563ed052c4767be7cf915127d071a,,Shalina Bell,,CURRENCY::USD,,,Candy,Assets:Venmo,Venmo,$1.87,1.87,$1.87,1.87,y,09/21/2024,1.0000
+09/13/2024,b64563ed052c4767be7cf915127d071a,,Shalina Bell,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$2.00,-2.00,-$2.00,-2.00,n,,1.0000
+09/13/2024,1f247e0bc03245feac6dc28e35203d77,3130,Meg Olivo,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,"$1,320.42",1320.42,"$1,320.42",1320.42,n,,1.0000
+09/13/2024,1f247e0bc03245feac6dc28e35203d77,3130,Meg Olivo,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,"-$1,320.42",-1320.42,"-$1,320.42",-1320.42,y,10/01/2024,1.0000
+09/19/2024,ac4a8c3a0e994742a677a3bd8546217a,,Michelle Taldelore,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$0.48,0.48,$0.48,0.48,n,,1.0000
+09/19/2024,ac4a8c3a0e994742a677a3bd8546217a,,Michelle Taldelore,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$19.52,19.52,$19.52,19.52,y,09/21/2024,1.0000
+09/19/2024,ac4a8c3a0e994742a677a3bd8546217a,,Michelle Taldelore,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$20.00,-20.00,-$20.00,-20.00,n,,1.0000
+09/19/2024,f32d182f498242cf8b4835a92a9ffdf4,3133,Christina Cole,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$226.12,226.12,$226.12,226.12,n,,1.0000
+09/19/2024,f32d182f498242cf8b4835a92a9ffdf4,3133,Christina Cole,,CURRENCY::USD,,,Table Cloths,Expenses:Fundraising:Spiritwear,Spiritwear,$235.79,235.79,$235.79,235.79,n,,1.0000
+09/19/2024,f32d182f498242cf8b4835a92a9ffdf4,3133,Christina Cole,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$461.91,-461.91,-$461.91,-461.91,y,10/01/2024,1.0000
+09/20/2024,2666fa067c49471095ab0afb46f890d1,,Eileen Bogosian,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$0.19,0.19,$0.19,0.19,n,,1.0000
+09/20/2024,2666fa067c49471095ab0afb46f890d1,,Eileen Bogosian,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$4.81,4.81,$4.81,4.81,y,09/21/2024,1.0000
+09/20/2024,2666fa067c49471095ab0afb46f890d1,,Eileen Bogosian,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$5.00,-5.00,-$5.00,-5.00,n,,1.0000
+09/20/2024,1f8a0ae7774d423689af2c01a393ba1e,,Teresa Dziob,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$0.61,0.61,$0.61,0.61,n,,1.0000
+09/20/2024,1f8a0ae7774d423689af2c01a393ba1e,,Teresa Dziob,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$26.39,26.39,$26.39,26.39,y,09/21/2024,1.0000
+09/20/2024,1f8a0ae7774d423689af2c01a393ba1e,,Teresa Dziob,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$27.00,-27.00,-$27.00,-27.00,n,,1.0000
+09/20/2024,36e7904bdea745829ddfe9245c2df17c,,Vinny Fuccilli,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$0.30,0.30,$0.30,0.30,n,,1.0000
+09/20/2024,36e7904bdea745829ddfe9245c2df17c,,Vinny Fuccilli,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$10.70,10.70,$10.70,10.70,y,09/21/2024,1.0000
+09/20/2024,36e7904bdea745829ddfe9245c2df17c,,Vinny Fuccilli,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$11.00,-11.00,-$11.00,-11.00,n,,1.0000
+09/20/2024,fa80311e5ba344a5a673b8dfc097f922,,Brenna Vivian,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$0.23,0.23,$0.23,0.23,n,,1.0000
+09/20/2024,fa80311e5ba344a5a673b8dfc097f922,,Brenna Vivian,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$6.77,6.77,$6.77,6.77,y,09/21/2024,1.0000
+09/20/2024,fa80311e5ba344a5a673b8dfc097f922,,Brenna Vivian,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$7.00,-7.00,-$7.00,-7.00,n,,1.0000
+09/20/2024,a3d407d154f3431e954670454a24b907,,Dawn Montalbano cuce,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$0.23,0.23,$0.23,0.23,n,,1.0000
+09/20/2024,a3d407d154f3431e954670454a24b907,,Dawn Montalbano cuce,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$6.77,6.77,$6.77,6.77,y,09/21/2024,1.0000
+09/20/2024,a3d407d154f3431e954670454a24b907,,Dawn Montalbano cuce,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$7.00,-7.00,-$7.00,-7.00,n,,1.0000
+09/20/2024,d6208875dd114a649ab95892f0002b96,,Dawn Montalbano cuce,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$0.25,0.25,$0.25,0.25,n,,1.0000
+09/20/2024,d6208875dd114a649ab95892f0002b96,,Dawn Montalbano cuce,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$7.75,7.75,$7.75,7.75,y,09/21/2024,1.0000
+09/20/2024,d6208875dd114a649ab95892f0002b96,,Dawn Montalbano cuce,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$8.00,-8.00,-$8.00,-8.00,n,,1.0000
+09/20/2024,31e9528d659442358c04a369866a82c5,,Cesar A Rodriguez,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$0.29,0.29,$0.29,0.29,n,,1.0000
+09/20/2024,31e9528d659442358c04a369866a82c5,,Cesar A Rodriguez,,CURRENCY::USD,,,Food,Assets:Venmo,Venmo,$9.71,9.71,$9.71,9.71,y,09/21/2024,1.0000
+09/20/2024,31e9528d659442358c04a369866a82c5,,Cesar A Rodriguez,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$10.00,-10.00,-$10.00,-10.00,n,,1.0000
+09/20/2024,ab8e3fb0de274088a61de44ea03da169,,Lisselot Almonte,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$0.25,0.25,$0.25,0.25,n,,1.0000
+09/20/2024,ab8e3fb0de274088a61de44ea03da169,,Lisselot Almonte,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$7.75,7.75,$7.75,7.75,y,09/21/2024,1.0000
+09/20/2024,ab8e3fb0de274088a61de44ea03da169,,Lisselot Almonte,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$8.00,-8.00,-$8.00,-8.00,n,,1.0000
+09/20/2024,329deefd98bc433587884b06527980e6,,Quinn Rolon,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$0.29,0.29,$0.29,0.29,n,,1.0000
+09/20/2024,329deefd98bc433587884b06527980e6,,Quinn Rolon,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$9.71,9.71,$9.71,9.71,y,09/21/2024,1.0000
+09/20/2024,329deefd98bc433587884b06527980e6,,Quinn Rolon,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$10.00,-10.00,-$10.00,-10.00,n,,1.0000
+09/20/2024,03d9f5976f8e4adba48034b994d15575,,Lisselot Almonte,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$0.13,0.13,$0.13,0.13,n,,1.0000
+09/20/2024,03d9f5976f8e4adba48034b994d15575,,Lisselot Almonte,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$1.87,1.87,$1.87,1.87,y,09/21/2024,1.0000
+09/20/2024,03d9f5976f8e4adba48034b994d15575,,Lisselot Almonte,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$2.00,-2.00,-$2.00,-2.00,n,,1.0000
+09/20/2024,ce387a31789e41c1b53cb32f86bbe979,,bennett holazo,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$0.13,0.13,$0.13,0.13,n,,1.0000
+09/20/2024,ce387a31789e41c1b53cb32f86bbe979,,bennett holazo,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$1.87,1.87,$1.87,1.87,y,09/21/2024,1.0000
+09/20/2024,ce387a31789e41c1b53cb32f86bbe979,,bennett holazo,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$2.00,-2.00,-$2.00,-2.00,n,,1.0000
+09/20/2024,0af8c11e550341bea954d0f59cc6a6e4,,Timothy Wilton,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$0.21,0.21,$0.21,0.21,n,,1.0000
+09/20/2024,0af8c11e550341bea954d0f59cc6a6e4,,Timothy Wilton,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$5.79,5.79,$5.79,5.79,y,09/21/2024,1.0000
+09/20/2024,0af8c11e550341bea954d0f59cc6a6e4,,Timothy Wilton,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$6.00,-6.00,-$6.00,-6.00,n,,1.0000
+09/20/2024,826dda483da341309799ae9d182e966d,,Ruth Rivera-Kyratzis,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$0.44,0.44,$0.44,0.44,n,,1.0000
+09/20/2024,826dda483da341309799ae9d182e966d,,Ruth Rivera-Kyratzis,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$17.56,17.56,$17.56,17.56,y,09/21/2024,1.0000
+09/20/2024,826dda483da341309799ae9d182e966d,,Ruth Rivera-Kyratzis,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$18.00,-18.00,-$18.00,-18.00,n,,1.0000
+09/20/2024,46676b80838f49028e26ebf19b84ebb7,,Michelle Ryan,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$0.32,0.32,$0.32,0.32,n,,1.0000
+09/20/2024,46676b80838f49028e26ebf19b84ebb7,,Michelle Ryan,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$11.68,11.68,$11.68,11.68,y,09/21/2024,1.0000
+09/20/2024,46676b80838f49028e26ebf19b84ebb7,,Michelle Ryan,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$12.00,-12.00,-$12.00,-12.00,n,,1.0000
+09/20/2024,e18c894c751342949bebd060b272b567,,Melisa Modica,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$0.30,0.30,$0.30,0.30,n,,1.0000
+09/20/2024,e18c894c751342949bebd060b272b567,,Melisa Modica,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$10.70,10.70,$10.70,10.70,y,09/21/2024,1.0000
+09/20/2024,e18c894c751342949bebd060b272b567,,Melisa Modica,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$11.00,-11.00,-$11.00,-11.00,n,,1.0000
+09/20/2024,ed1d03977f864ec28539fb0aaba105ca,,Cesar A Rodriguez,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$0.29,0.29,$0.29,0.29,n,,1.0000
+09/20/2024,ed1d03977f864ec28539fb0aaba105ca,,Cesar A Rodriguez,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$9.71,9.71,$9.71,9.71,y,09/21/2024,1.0000
+09/20/2024,ed1d03977f864ec28539fb0aaba105ca,,Cesar A Rodriguez,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$10.00,-10.00,-$10.00,-10.00,n,,1.0000
+09/20/2024,433c8b1425114a7eb9f046bf979869ad,,Kathleen Foster,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$0.36,0.36,$0.36,0.36,n,,1.0000
+09/20/2024,433c8b1425114a7eb9f046bf979869ad,,Kathleen Foster,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$13.64,13.64,$13.64,13.64,y,09/21/2024,1.0000
+09/20/2024,433c8b1425114a7eb9f046bf979869ad,,Kathleen Foster,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$14.00,-14.00,-$14.00,-14.00,n,,1.0000
+09/20/2024,86530272eb1048efa02c9b9da109b55b,,Annalyn Kurtz,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$0.42,0.42,$0.42,0.42,n,,1.0000
+09/20/2024,86530272eb1048efa02c9b9da109b55b,,Annalyn Kurtz,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$16.58,16.58,$16.58,16.58,y,09/21/2024,1.0000
+09/20/2024,86530272eb1048efa02c9b9da109b55b,,Annalyn Kurtz,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$17.00,-17.00,-$17.00,-17.00,n,,1.0000
+09/20/2024,b9c524991c034051939cac51c19ad240,,Annalyn Kurtz,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$0.29,0.29,$0.29,0.29,n,,1.0000
+09/20/2024,b9c524991c034051939cac51c19ad240,,Annalyn Kurtz,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$9.71,9.71,$9.71,9.71,y,09/21/2024,1.0000
+09/20/2024,b9c524991c034051939cac51c19ad240,,Annalyn Kurtz,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$10.00,-10.00,-$10.00,-10.00,n,,1.0000
+09/20/2024,4fdfaec8e114405b9b62e3fca0fb3081,,Kimberly Cariaga,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$0.15,0.15,$0.15,0.15,n,,1.0000
+09/20/2024,4fdfaec8e114405b9b62e3fca0fb3081,,Kimberly Cariaga,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$2.85,2.85,$2.85,2.85,y,09/21/2024,1.0000
+09/20/2024,4fdfaec8e114405b9b62e3fca0fb3081,,Kimberly Cariaga,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$3.00,-3.00,-$3.00,-3.00,n,,1.0000
+09/20/2024,722e7acecf4a4e689f30c698a4032cdd,,Kimberly Cariaga,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$0.19,0.19,$0.19,0.19,n,,1.0000
+09/20/2024,722e7acecf4a4e689f30c698a4032cdd,,Kimberly Cariaga,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$4.81,4.81,$4.81,4.81,y,09/21/2024,1.0000
+09/20/2024,722e7acecf4a4e689f30c698a4032cdd,,Kimberly Cariaga,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$5.00,-5.00,-$5.00,-5.00,n,,1.0000
+09/20/2024,912692fbb7d245769d9e3a5f78f749af,,Angelina Antiorio,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$0.25,0.25,$0.25,0.25,n,,1.0000
+09/20/2024,912692fbb7d245769d9e3a5f78f749af,,Angelina Antiorio,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$7.75,7.75,$7.75,7.75,y,09/21/2024,1.0000
+09/20/2024,912692fbb7d245769d9e3a5f78f749af,,Angelina Antiorio,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$8.00,-8.00,-$8.00,-8.00,n,,1.0000
+09/20/2024,97d7ec25a16a4ac8b31fdb40eaa41a31,,Quinn Rolon,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$0.17,0.17,$0.17,0.17,n,,1.0000
+09/20/2024,97d7ec25a16a4ac8b31fdb40eaa41a31,,Quinn Rolon,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$3.83,3.83,$3.83,3.83,y,09/21/2024,1.0000
+09/20/2024,97d7ec25a16a4ac8b31fdb40eaa41a31,,Quinn Rolon,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$4.00,-4.00,-$4.00,-4.00,n,,1.0000
+09/20/2024,d03cb2f3489f46dcaf9455cc8f6e15f9,3134,Meg Olivo,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$704.19,704.19,$704.19,704.19,n,,1.0000
+09/20/2024,d03cb2f3489f46dcaf9455cc8f6e15f9,3134,Meg Olivo,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$704.19,-704.19,-$704.19,-704.19,y,10/01/2024,1.0000
+09/21/2024,0ca3fb2873cb4f2191db26959b677594,,Kurt Schwarz,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$0.13,0.13,$0.13,0.13,n,,1.0000
+09/21/2024,0ca3fb2873cb4f2191db26959b677594,,Kurt Schwarz,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$1.87,1.87,$1.87,1.87,y,09/21/2024,1.0000
+09/21/2024,0ca3fb2873cb4f2191db26959b677594,,Kurt Schwarz,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$2.00,-2.00,-$2.00,-2.00,n,,1.0000
+10/03/2024,c7367637f8954fac8e014f2f4ff3faaa,3139,Meg Olivo,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,"$1,267.36",1267.36,"$1,267.36",1267.36,n,,1.0000
+10/03/2024,c7367637f8954fac8e014f2f4ff3faaa,3139,Meg Olivo,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,"-$1,267.36",-1267.36,"-$1,267.36",-1267.36,y,10/31/2024,1.0000
+10/04/2024,41882399aa8a420cb4c4324d03431da6,,Square Inc Tx3340 SQx1004,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$2.81,2.81,$2.81,2.81,n,,1.0000
+10/04/2024,41882399aa8a420cb4c4324d03431da6,,Square Inc Tx3340 SQx1004,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,$52.19,52.19,$52.19,52.19,y,10/31/2024,1.0000
+10/04/2024,41882399aa8a420cb4c4324d03431da6,,Square Inc Tx3340 SQx1004,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$55.00,-55.00,-$55.00,-55.00,n,,1.0000
+10/05/2024,3d1486177d2a4a79a4febe1372629ec0,,Transactions through 10/05/2024 22:02:20,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$4.12,4.12,$4.12,4.12,n,,1.0000
+10/05/2024,3d1486177d2a4a79a4febe1372629ec0,,Transactions through 10/05/2024 22:02:20,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$12.37,12.37,$12.37,12.37,n,,1.0000
+10/05/2024,3d1486177d2a4a79a4febe1372629ec0,,Transactions through 10/05/2024 22:02:20,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$684.51,684.51,$684.51,684.51,y,02/28/2025,1.0000
+10/05/2024,3d1486177d2a4a79a4febe1372629ec0,,Transactions through 10/05/2024 22:02:20,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$575.00,-575.00,-$575.00,-575.00,n,,1.0000
+10/05/2024,3d1486177d2a4a79a4febe1372629ec0,,Transactions through 10/05/2024 22:02:20,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$126.00,-126.00,-$126.00,-126.00,n,,1.0000
+10/05/2024,acb3a940eddb4bc9bad0eb43a01426aa,3141,Christina Cole,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$258.74,258.74,$258.74,258.74,n,,1.0000
+10/05/2024,acb3a940eddb4bc9bad0eb43a01426aa,3141,Christina Cole,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$258.74,-258.74,-$258.74,-258.74,y,10/31/2024,1.0000
+10/07/2024,206995264c5945b1b90d6c1b0f17e5e9,,Square Inc Tx3609 SQx1007,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$12.87,12.87,$12.87,12.87,n,,1.0000
+10/07/2024,206995264c5945b1b90d6c1b0f17e5e9,,Square Inc Tx3609 SQx1007,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,$301.13,301.13,$301.13,301.13,y,10/31/2024,1.0000
+10/07/2024,206995264c5945b1b90d6c1b0f17e5e9,,Square Inc Tx3609 SQx1007,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$314.00,-314.00,-$314.00,-314.00,n,,1.0000
+10/13/2024,ac1a9aff913d43f99bc464de9f91aa9b,,Transactions through 10/13/2024 18:22:14,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$1.18,1.18,$1.18,1.18,n,,1.0000
+10/13/2024,ac1a9aff913d43f99bc464de9f91aa9b,,Transactions through 10/13/2024 18:22:14,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$35.82,35.82,$35.82,35.82,y,02/28/2025,1.0000
+10/13/2024,ac1a9aff913d43f99bc464de9f91aa9b,,Transactions through 10/13/2024 18:22:14,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$37.00,-37.00,-$37.00,-37.00,n,,1.0000
+10/15/2024,8bd1402f9453400c85288d506a73f1ec,,Square Inc Tx4421 SQx1014,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$6.71,6.71,$6.71,6.71,n,,1.0000
+10/15/2024,8bd1402f9453400c85288d506a73f1ec,,Square Inc Tx4421 SQx1014,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,$155.29,155.29,$155.29,155.29,y,10/31/2024,1.0000
+10/15/2024,8bd1402f9453400c85288d506a73f1ec,,Square Inc Tx4421 SQx1014,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$162.00,-162.00,-$162.00,-162.00,n,,1.0000
+10/15/2024,8b64b4686e8b40e4b9ab274081f0934d,3142,Christina Cole,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$100.84,100.84,$100.84,100.84,n,,1.0000
+10/15/2024,8b64b4686e8b40e4b9ab274081f0934d,3142,Christina Cole,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$100.84,-100.84,-$100.84,-100.84,y,10/31/2024,1.0000
+10/15/2024,d6bb6fb644b149288df19ed74cfb90dd,3144,Christina Cole,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$26.77,26.77,$26.77,26.77,n,,1.0000
+10/15/2024,d6bb6fb644b149288df19ed74cfb90dd,3144,Christina Cole,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$26.77,-26.77,-$26.77,-26.77,y,10/31/2024,1.0000
+10/18/2024,0f67c51960ab490ab1a9998430ab5a2c,,Transactions through 10/18/2024 23:10:54,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$1.85,1.85,$1.85,1.85,n,,1.0000
+10/18/2024,0f67c51960ab490ab1a9998430ab5a2c,,Transactions through 10/18/2024 23:10:54,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$1.32,1.32,$1.32,1.32,n,,1.0000
+10/18/2024,0f67c51960ab490ab1a9998430ab5a2c,,Transactions through 10/18/2024 23:10:54,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$122.83,122.83,$122.83,122.83,y,02/28/2025,1.0000
+10/18/2024,0f67c51960ab490ab1a9998430ab5a2c,,Transactions through 10/18/2024 23:10:54,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$66.00,-66.00,-$66.00,-66.00,n,,1.0000
+10/18/2024,0f67c51960ab490ab1a9998430ab5a2c,,Transactions through 10/18/2024 23:10:54,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$60.00,-60.00,-$60.00,-60.00,n,,1.0000
+10/18/2024,907f97817dc34d1da4fd89c827c4d499,,Square Inc Tx4979 SQx1018,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$0.95,0.95,$0.95,0.95,n,,1.0000
+10/18/2024,907f97817dc34d1da4fd89c827c4d499,,Square Inc Tx4979 SQx1018,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,$17.05,17.05,$17.05,17.05,y,10/31/2024,1.0000
+10/18/2024,907f97817dc34d1da4fd89c827c4d499,,Square Inc Tx4979 SQx1018,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$18.00,-18.00,-$18.00,-18.00,n,,1.0000
+10/18/2024,e00a94f059884654a7ae59df993890ee,3145,Meg Olivo,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$831.43,831.43,$831.43,831.43,n,,1.0000
+10/18/2024,e00a94f059884654a7ae59df993890ee,3145,Meg Olivo,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$831.43,-831.43,-$831.43,-831.43,y,10/31/2024,1.0000
+10/21/2024,7ba5039c205b4d6dad30a924b01d0fec,,Square Inc Tx5218 SQx1021,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$8.08,8.08,$8.08,8.08,n,,1.0000
+10/21/2024,7ba5039c205b4d6dad30a924b01d0fec,,Square Inc Tx5218 SQx1021,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,$179.92,179.92,$179.92,179.92,y,10/31/2024,1.0000
+10/21/2024,7ba5039c205b4d6dad30a924b01d0fec,,Square Inc Tx5218 SQx1021,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$188.00,-188.00,-$188.00,-188.00,n,,1.0000
+10/30/2024,47d6dec69ffc4728973ee5cb051aa610,,Transactions through 10/30/2024 23:49:08,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$4.57,4.57,$4.57,4.57,n,,1.0000
+10/30/2024,47d6dec69ffc4728973ee5cb051aa610,,Transactions through 10/30/2024 23:49:08,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$154.43,154.43,$154.43,154.43,y,02/28/2025,1.0000
+10/30/2024,47d6dec69ffc4728973ee5cb051aa610,,Transactions through 10/30/2024 23:49:08,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$159.00,-159.00,-$159.00,-159.00,n,,1.0000
+10/30/2024,ff2c5fb6d1394c97b634918420e93362,3147,Meg Olivo,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$738.57,738.57,$738.57,738.57,n,,1.0000
+10/30/2024,ff2c5fb6d1394c97b634918420e93362,3147,Meg Olivo,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$738.57,-738.57,-$738.57,-738.57,y,11/30/2024,1.0000
+10/30/2024,bfe5ab36ad0f48608da77160cc310ac5,3148,Christina Cole,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$358.41,358.41,$358.41,358.41,n,,1.0000
+10/30/2024,bfe5ab36ad0f48608da77160cc310ac5,3148,Christina Cole,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$358.41,-358.41,-$358.41,-358.41,y,10/31/2024,1.0000
+10/31/2024,4c244a6987a3480fb5afb53ce9449676,,Square Inc Tx6480 SQx1031,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$10.40,10.40,$10.40,10.40,n,,1.0000
+10/31/2024,4c244a6987a3480fb5afb53ce9449676,,Square Inc Tx6480 SQx1031,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,$260.60,260.60,$260.60,260.60,y,10/31/2024,1.0000
+10/31/2024,4c244a6987a3480fb5afb53ce9449676,,Square Inc Tx6480 SQx1031,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$271.00,-271.00,-$271.00,-271.00,n,,1.0000
+10/31/2024,f64ba9a4c091432b80cc4e793f4cc000,,Square Inc Tx6478 SQx1031,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$5.33,5.33,$5.33,5.33,n,,1.0000
+10/31/2024,f64ba9a4c091432b80cc4e793f4cc000,,Square Inc Tx6478 SQx1031,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,$110.67,110.67,$110.67,110.67,y,10/31/2024,1.0000
+10/31/2024,f64ba9a4c091432b80cc4e793f4cc000,,Square Inc Tx6478 SQx1031,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$116.00,-116.00,-$116.00,-116.00,n,,1.0000
+11/01/2024,8729a27722454bd696acef848cfcce52,,Square Inc Tx6624 SQx1101,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$1.65,1.65,$1.65,1.65,n,,1.0000
+11/01/2024,8729a27722454bd696acef848cfcce52,,Square Inc Tx6624 SQx1101,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,$27.35,27.35,$27.35,27.35,y,11/30/2024,1.0000
+11/01/2024,8729a27722454bd696acef848cfcce52,,Square Inc Tx6624 SQx1101,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$29.00,-29.00,-$29.00,-29.00,n,,1.0000
+11/02/2024,03db266bb483416dae2c7da4c4d46f36,3149,Meg Olivo,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$42.33,42.33,$42.33,42.33,n,,1.0000
+11/02/2024,03db266bb483416dae2c7da4c4d46f36,3149,Meg Olivo,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$42.33,-42.33,-$42.33,-42.33,y,11/30/2024,1.0000
+11/06/2024,31786b30e6f24080bfc0f2b25207cc0b,,Transactions through 11/04/2024 17:59:07,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$0.29,0.29,$0.29,0.29,n,,1.0000
+11/06/2024,31786b30e6f24080bfc0f2b25207cc0b,,Transactions through 11/04/2024 17:59:07,,CURRENCY::USD,,,,Expenses:Program Services:Varsity Dinners,Varsity Dinners,$3.15,3.15,$3.15,3.15,n,,1.0000
+11/06/2024,31786b30e6f24080bfc0f2b25207cc0b,,Transactions through 11/04/2024 17:59:07,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$156.56,156.56,$156.56,156.56,y,02/28/2025,1.0000
+11/06/2024,31786b30e6f24080bfc0f2b25207cc0b,,Transactions through 11/04/2024 17:59:07,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$10.00,-10.00,-$10.00,-10.00,n,,1.0000
+11/06/2024,31786b30e6f24080bfc0f2b25207cc0b,,Transactions through 11/04/2024 17:59:07,,CURRENCY::USD,,,,Income:Fundraising:Varsity Dinner Ad Book,Varsity Dinner Ad Book,-$150.00,-150.00,-$150.00,-150.00,n,,1.0000
+11/30/2024,24046affb6fd438891c6c957b3d185c8,,Transactions through 11/30/2024 22:31:32,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$3.00,3.00,$3.00,3.00,n,,1.0000
+11/30/2024,24046affb6fd438891c6c957b3d185c8,,Transactions through 11/30/2024 22:31:32,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$134.43,134.43,$134.43,134.43,y,02/28/2025,1.0000
+11/30/2024,24046affb6fd438891c6c957b3d185c8,,Transactions through 11/30/2024 22:31:32,,CURRENCY::USD,,,,Expenses:Program Services:Varsity Dinners,Varsity Dinners,$0.57,0.57,$0.57,0.57,n,,1.0000
+11/30/2024,24046affb6fd438891c6c957b3d185c8,,Transactions through 11/30/2024 22:31:32,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$113.00,-113.00,-$113.00,-113.00,n,,1.0000
+11/30/2024,24046affb6fd438891c6c957b3d185c8,,Transactions through 11/30/2024 22:31:32,,CURRENCY::USD,,,,Income:Fundraising:Varsity Dinner Ad Book,Varsity Dinner Ad Book,-$25.00,-25.00,-$25.00,-25.00,n,,1.0000
+12/02/2024,3a2df1c6a6fc4f73a180e5514f92e2ec,,Square Inc Tx0161 SQx1202,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$10.31,10.31,$10.31,10.31,n,,1.0000
+12/02/2024,3a2df1c6a6fc4f73a180e5514f92e2ec,,Square Inc Tx0161 SQx1202,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,$271.69,271.69,$271.69,271.69,y,12/31/2024,1.0000
+12/02/2024,3a2df1c6a6fc4f73a180e5514f92e2ec,,Square Inc Tx0161 SQx1202,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$165.00,-165.00,-$165.00,-165.00,n,,1.0000
+12/02/2024,3a2df1c6a6fc4f73a180e5514f92e2ec,,Square Inc Tx0161 SQx1202,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$117.00,-117.00,-$117.00,-117.00,n,,1.0000
+12/02/2024,fd6daadbaace4284b337bbf93331b9a3,3152,Christina Cole,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$465.84,465.84,$465.84,465.84,n,,1.0000
+12/02/2024,fd6daadbaace4284b337bbf93331b9a3,3152,Christina Cole,,CURRENCY::USD,,,,Expenses:Program Services:Varsity Dinners,Varsity Dinners,$159.59,159.59,$159.59,159.59,n,,1.0000
+12/02/2024,fd6daadbaace4284b337bbf93331b9a3,3152,Christina Cole,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$625.43,-625.43,-$625.43,-625.43,y,12/31/2024,1.0000
+12/03/2024,525a6cec048c4a388e4110b49665a15f,,Transactions through 12/04/2024 1:45:27,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$0.61,0.61,$0.61,0.61,n,,1.0000
+12/03/2024,525a6cec048c4a388e4110b49665a15f,,Transactions through 12/04/2024 1:45:27,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$363.96,363.96,$363.96,363.96,y,02/28/2025,1.0000
+12/03/2024,525a6cec048c4a388e4110b49665a15f,,Transactions through 12/04/2024 1:45:27,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$7.43,7.43,$7.43,7.43,n,,1.0000
+12/03/2024,525a6cec048c4a388e4110b49665a15f,,Transactions through 12/04/2024 1:45:27,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$27.00,-27.00,-$27.00,-27.00,n,,1.0000
+12/03/2024,525a6cec048c4a388e4110b49665a15f,,Transactions through 12/04/2024 1:45:27,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$345.00,-345.00,-$345.00,-345.00,n,,1.0000
+01/05/2025,df07670c7ade4f5eaef0a756deb8f50f,3158,Christina Cole,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$10.49,10.49,$10.49,10.49,n,,1.0000
+01/05/2025,df07670c7ade4f5eaef0a756deb8f50f,3158,Christina Cole,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$107.79,107.79,$107.79,107.79,n,,1.0000
+01/05/2025,df07670c7ade4f5eaef0a756deb8f50f,3158,Christina Cole,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$105.12,105.12,$105.12,105.12,n,,1.0000
+01/05/2025,df07670c7ade4f5eaef0a756deb8f50f,3158,Christina Cole,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$223.40,-223.40,-$223.40,-223.40,y,02/03/2025,1.0000
+01/21/2025,808478a569124455b661c11bac6927a6,3160,Christina Cole,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$163.33,163.33,$163.33,163.33,n,,1.0000
+01/21/2025,808478a569124455b661c11bac6927a6,3160,Christina Cole,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$163.33,-163.33,-$163.33,-163.33,y,02/01/2025,1.0000
+02/02/2025,8b24063910de453bbd46bbe02d34d6bf,3162,Christina Cole,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$280.53,280.53,$280.53,280.53,n,,1.0000
+02/02/2025,8b24063910de453bbd46bbe02d34d6bf,3162,Christina Cole,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$280.53,-280.53,-$280.53,-280.53,y,03/01/2025,1.0000
+02/03/2025,6c8016b4078a49009aecde609e3040e7,,Transactions through 01/28/2025 1:59:32,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$0.24,0.24,$0.24,0.24,n,,1.0000
+02/03/2025,6c8016b4078a49009aecde609e3040e7,,Transactions through 01/28/2025 1:59:32,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$2.76,2.76,$2.76,2.76,y,02/28/2025,1.0000
+02/03/2025,6c8016b4078a49009aecde609e3040e7,,Transactions through 01/28/2025 1:59:32,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$3.00,-3.00,-$3.00,-3.00,n,,1.0000
+03/01/2025,a6a90cb746834b05a83730b53e800aa4,,Transactions through 02/22/2025 16:47:52,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$0.17,0.17,$0.17,0.17,n,,1.0000
+03/01/2025,a6a90cb746834b05a83730b53e800aa4,,Transactions through 02/22/2025 16:47:52,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$3.83,3.83,$3.83,3.83,y,02/28/2025,1.0000
+03/01/2025,a6a90cb746834b05a83730b53e800aa4,,Transactions through 02/22/2025 16:47:52,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$4.00,-4.00,-$4.00,-4.00,n,,1.0000
+03/05/2025,0be50b373f9849d4ae13661d37e5a4e1,3164,Check 3164,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$111.37,111.37,$111.37,111.37,n,,1.0000
+03/05/2025,0be50b373f9849d4ae13661d37e5a4e1,3164,Check 3164,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$111.37,-111.37,-$111.37,-111.37,y,04/01/2025,1.0000
+03/25/2025,1ab9901df5d24305a9e6f57dee81058f,Z2425002,Christina Cole,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$897.87,897.87,$897.87,897.87,n,,1.0000
+03/25/2025,1ab9901df5d24305a9e6f57dee81058f,Z2425002,Christina Cole,,CURRENCY::USD,,,Tom Potor,Expenses:Program Services:Student / Coach Awards,Student / Coach Awards,$207.00,207.00,$207.00,207.00,n,,1.0000
+03/25/2025,1ab9901df5d24305a9e6f57dee81058f,Z2425002,Christina Cole,,CURRENCY::USD,,,Relay Record,Expenses:Program Services:Student / Coach Awards,Student / Coach Awards,$200.00,200.00,$200.00,200.00,n,,1.0000
+03/25/2025,1ab9901df5d24305a9e6f57dee81058f,Z2425002,Christina Cole,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,"-$1,304.87",-1304.87,"-$1,304.87",-1304.87,y,04/14/2025,1.0000
+04/07/2025,282bfb1ffb1e4506ba0653291de8386e,Z2425003, Zelle To BRYON COLE +1-888-931-2583 ,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$115.14,115.14,$115.14,115.14,n,,1.0000
+04/07/2025,282bfb1ffb1e4506ba0653291de8386e,Z2425003, Zelle To BRYON COLE +1-888-931-2583 ,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$115.14,-115.14,-$115.14,-115.14,y,05/01/2025,1.0000
+04/27/2025,e2f512dfb32047c19c790df2d37a91d6,,Transactions through 04/27/2025 21:16:55,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$12.51,12.51,$12.51,12.51,n,,1.0000
+04/27/2025,e2f512dfb32047c19c790df2d37a91d6,,Transactions through 04/27/2025 21:16:55,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$644.07,644.07,$644.07,644.07,y,09/25/2025,1.0000
+04/27/2025,e2f512dfb32047c19c790df2d37a91d6,,Transactions through 04/27/2025 21:16:55,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$3.59,3.59,$3.59,3.59,n,,1.0000
+04/27/2025,e2f512dfb32047c19c790df2d37a91d6,,Transactions through 04/27/2025 21:16:55,,CURRENCY::USD,,,,Expenses:Program Services:Varsity Dinners,Varsity Dinners,$1.33,1.33,$1.33,1.33,n,,1.0000
+04/27/2025,e2f512dfb32047c19c790df2d37a91d6,,Transactions through 04/27/2025 21:16:55,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$422.50,-422.50,-$422.50,-422.50,n,,1.0000
+04/27/2025,e2f512dfb32047c19c790df2d37a91d6,,Transactions through 04/27/2025 21:16:55,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$174.00,-174.00,-$174.00,-174.00,n,,1.0000
+04/27/2025,e2f512dfb32047c19c790df2d37a91d6,,Transactions through 04/27/2025 21:16:55,,CURRENCY::USD,,,,Income:Program Services:Varsity Dinners,Varsity Dinners,-$65.00,-65.00,-$65.00,-65.00,n,,1.0000
+04/28/2025,0207c2a3feb94a5581a2918bea031700,,STRIDERS SQUARE,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$33.19,33.19,$33.19,33.19,n,,1.0000
+04/28/2025,0207c2a3feb94a5581a2918bea031700,,STRIDERS SQUARE,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,$728.81,728.81,$728.81,728.81,y,05/19/2025,1.0000
+04/28/2025,0207c2a3feb94a5581a2918bea031700,,STRIDERS SQUARE,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$762.00,-762.00,-$762.00,-762.00,n,,1.0000
+04/28/2025,90309061d8864a5394111840de6d787c,Z2425007, Zelle To BRYON COLE +1-888-931-2583 ,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,"$2,762.54",2762.54,"$2,762.54",2762.54,n,,1.0000
+04/28/2025,90309061d8864a5394111840de6d787c,Z2425007, Zelle To BRYON COLE +1-888-931-2583 ,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,"-$2,762.54",-2762.54,"-$2,762.54",-2762.54,y,05/19/2025,1.0000
+05/10/2025,7a0ef2b7243141dcaadad1c281c273ac,,Transactions through 05/11/2025 0:23:56,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$0.90,0.90,$0.90,0.90,n,,1.0000
+05/10/2025,7a0ef2b7243141dcaadad1c281c273ac,,Transactions through 05/11/2025 0:23:56,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$56.14,56.14,$56.14,56.14,y,09/25/2025,1.0000
+05/10/2025,7a0ef2b7243141dcaadad1c281c273ac,,Transactions through 05/11/2025 0:23:56,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$0.96,0.96,$0.96,0.96,n,,1.0000
+05/10/2025,7a0ef2b7243141dcaadad1c281c273ac,,Transactions through 05/11/2025 0:23:56,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$40.00,-40.00,-$40.00,-40.00,n,,1.0000
+05/10/2025,7a0ef2b7243141dcaadad1c281c273ac,,Transactions through 05/11/2025 0:23:56,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$18.00,-18.00,-$18.00,-18.00,n,,1.0000
+05/12/2025,27ecaecb3b38425c8500d1f2daf82bef,,Square Inc T2159704 SQ250512,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$15.54,15.54,$15.54,15.54,n,,1.0000
+05/12/2025,27ecaecb3b38425c8500d1f2daf82bef,,Square Inc T2159704 SQ250512,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,$225.81,225.81,$225.81,225.81,y,06/01/2025,1.0000
+05/12/2025,27ecaecb3b38425c8500d1f2daf82bef,,Square Inc T2159704 SQ250512,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$241.35,-241.35,-$241.35,-241.35,n,,1.0000
+05/12/2025,9176dd470f804490963eb10ab69eb962,Z2425009, Zelle To BRYON COLE +1-888-931-2583 ,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$162.09,162.09,$162.09,162.09,n,,1.0000
+05/12/2025,9176dd470f804490963eb10ab69eb962,Z2425009, Zelle To BRYON COLE +1-888-931-2583 ,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$162.09,-162.09,-$162.09,-162.09,y,06/01/2025,1.0000
+08/27/2025,14a0cfc0c13a4a4c8677443eaffd277f,Z2526004, Zelle To MARY OLIVO +1-888-931-2583 ,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$433.95,433.95,$433.95,433.95,n,,1.0000
+08/27/2025,14a0cfc0c13a4a4c8677443eaffd277f,Z2526004, Zelle To MARY OLIVO +1-888-931-2583 ,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$433.95,-433.95,-$433.95,-433.95,y,09/22/2025,1.0000
+08/28/2025,711521696a50490ca015b9388d2b1c48,,Transactions through 08/29/2025 0:07:17,,CURRENCY::USD,,,Pompton Lakes Sales,Expenses:Fundraising:Snack Shack,Snack Shack,$5.78,5.78,$5.78,5.78,n,,1.0000
+08/28/2025,711521696a50490ca015b9388d2b1c48,,Transactions through 08/29/2025 0:07:17,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$545.61,545.61,$545.61,545.61,y,09/25/2025,1.0000
+08/28/2025,711521696a50490ca015b9388d2b1c48,,Transactions through 08/29/2025 0:07:17,,CURRENCY::USD,,,Pompton Lakes Sales,Expenses:Fundraising:Spiritwear,Spiritwear,$7.61,7.61,$7.61,7.61,n,,1.0000
+08/28/2025,711521696a50490ca015b9388d2b1c48,,Transactions through 08/29/2025 0:07:17,,CURRENCY::USD,,,Pompton Lakes Sales,Income:Fundraising:Spiritwear,Spiritwear,-$360.00,-360.00,-$360.00,-360.00,n,,1.0000
+08/28/2025,711521696a50490ca015b9388d2b1c48,,Transactions through 08/29/2025 0:07:17,,CURRENCY::USD,,,Pompton Lakes Sales,Income:Fundraising:Snack Shack,Snack Shack,-$199.00,-199.00,-$199.00,-199.00,n,,1.0000
+08/29/2025,a55bf3619e3347979da5d879bbf729f2,,Square Inc T2180022 SQ250829,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$3.01,3.01,$3.01,3.01,n,,1.0000
+08/29/2025,a55bf3619e3347979da5d879bbf729f2,,Square Inc T2180022 SQ250829,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,$42.99,42.99,$42.99,42.99,y,09/22/2025,1.0000
+08/29/2025,a55bf3619e3347979da5d879bbf729f2,,Square Inc T2180022 SQ250829,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$46.00,-46.00,-$46.00,-46.00,n,,1.0000
+09/25/2025,2052cd959b8249a59011b956dc8db1db,Z2526009, Zelle To MARY OLIVO +1-888-931-2583 ,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,"$1,160.68",1160.68,"$1,160.68",1160.68,n,,1.0000
+09/25/2025,2052cd959b8249a59011b956dc8db1db,Z2526009, Zelle To MARY OLIVO +1-888-931-2583 ,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,"-$1,160.68",-1160.68,"-$1,160.68",-1160.68,y,10/11/2025,1.0000
+09/27/2025,d08688579bb349209a0ab840c1b37377,,Transactions through 09/26/2025 23:52:16,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$4.05,4.05,$4.05,4.05,n,,1.0000
+09/27/2025,d08688579bb349209a0ab840c1b37377,,Transactions through 09/26/2025 23:52:16,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$1.52,1.52,$1.52,1.52,n,,1.0000
+09/27/2025,d08688579bb349209a0ab840c1b37377,,Transactions through 09/26/2025 23:52:16,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$207.43,207.43,$207.43,207.43,y,10/23/2025,1.0000
+09/27/2025,d08688579bb349209a0ab840c1b37377,,Transactions through 09/26/2025 23:52:16,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$143.00,-143.00,-$143.00,-143.00,n,,1.0000
+09/27/2025,d08688579bb349209a0ab840c1b37377,,Transactions through 09/26/2025 23:52:16,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$70.00,-70.00,-$70.00,-70.00,n,,1.0000
+09/27/2025,89c6e794a97b41c1b5cb685f58a9b8e1,Z2526010,Reimbursement to Christina Cole,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$118.66,118.66,$118.66,118.66,n,,1.0000
+09/27/2025,89c6e794a97b41c1b5cb685f58a9b8e1,Z2526010,Reimbursement to Christina Cole,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$118.66,-118.66,-$118.66,-118.66,y,10/11/2025,1.0000
+09/29/2025,dbbe1fac2951424ca69261e118a70f38,,Glen Rock Football Game Sales,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$22.91,22.91,$22.91,22.91,n,,1.0000
+09/29/2025,dbbe1fac2951424ca69261e118a70f38,,Glen Rock Football Game Sales,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,$398.09,398.09,$398.09,398.09,y,10/27/2025,1.0000
+09/29/2025,dbbe1fac2951424ca69261e118a70f38,,Glen Rock Football Game Sales,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$421.00,-421.00,-$421.00,-421.00,n,,1.0000
+09/29/2025,dd146892d2e34bc9953872e6467cd67a,,Glen Rock Football Game Sales,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$1.54,1.54,$1.54,1.54,n,,1.0000
+09/29/2025,dd146892d2e34bc9953872e6467cd67a,,Glen Rock Football Game Sales,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,$23.46,23.46,$23.46,23.46,y,10/27/2025,1.0000
+09/29/2025,dd146892d2e34bc9953872e6467cd67a,,Glen Rock Football Game Sales,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$25.00,-25.00,-$25.00,-25.00,n,,1.0000
+10/02/2025,f37e2d03c95649ae92105c684c8b8a46,Z2526011,Reimbursement to Meg Olivo,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,"$1,040.16",1040.16,"$1,040.16",1040.16,n,,1.0000
+10/02/2025,f37e2d03c95649ae92105c684c8b8a46,Z2526011,Reimbursement to Meg Olivo,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,"-$1,040.16",-1040.16,"-$1,040.16",-1040.16,y,10/31/2025,1.0000
+10/04/2025,77aaa77efaa54996a5b9e159c46d5536,,Transactions through 10/04/2025 20:47:06,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$2.48,2.48,$2.48,2.48,n,,1.0000
+10/04/2025,77aaa77efaa54996a5b9e159c46d5536,,Transactions through 10/04/2025 20:47:06,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$6.48,6.48,$6.48,6.48,n,,1.0000
+10/04/2025,77aaa77efaa54996a5b9e159c46d5536,,Transactions through 10/04/2025 20:47:06,,CURRENCY::USD,,,,Expenses:Fundraising:Sponsorships,Sponsorships,$3.90,3.90,$3.90,3.90,n,,1.0000
+10/04/2025,77aaa77efaa54996a5b9e159c46d5536,,Transactions through 10/04/2025 20:47:06,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$543.64,543.64,$543.64,543.64,y,10/23/2025,1.0000
+10/04/2025,77aaa77efaa54996a5b9e159c46d5536,,Transactions through 10/04/2025 20:47:06,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$66.00,-66.00,-$66.00,-66.00,n,,1.0000
+10/04/2025,77aaa77efaa54996a5b9e159c46d5536,,Transactions through 10/04/2025 20:47:06,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$290.50,-290.50,-$290.50,-290.50,n,,1.0000
+10/04/2025,77aaa77efaa54996a5b9e159c46d5536,,Transactions through 10/04/2025 20:47:06,,CURRENCY::USD,,,Jeff Jordan,Income:Fundraising:Sponsorships,Sponsorships,-$200.00,-200.00,-$200.00,-200.00,n,,1.0000
+10/06/2025,2d81e1f89b484800b75e257269e0e4cb,,Homecoming SnackShack Square,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$24.10,24.10,$24.10,24.10,n,,1.0000
+10/06/2025,2d81e1f89b484800b75e257269e0e4cb,,Homecoming SnackShack Square,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,$366.90,366.90,$366.90,366.90,y,10/31/2025,1.0000
+10/06/2025,2d81e1f89b484800b75e257269e0e4cb,,Homecoming SnackShack Square,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$391.00,-391.00,-$391.00,-391.00,n,,1.0000
+10/14/2025,2b225a61d20a4ca58bd7a86358842274,Z2526012,Reimbursement to Christina Cole - Misc Items,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$35.19,35.19,$35.19,35.19,n,,1.0000
+10/14/2025,2b225a61d20a4ca58bd7a86358842274,Z2526012,Reimbursement to Christina Cole - Misc Items,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$35.19,-35.19,-$35.19,-35.19,y,10/31/2025,1.0000
+10/17/2025,823375f78cef4caf89a241ffaf3b79c2,Z2526013,Meg Olivo,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$843.54,843.54,$843.54,843.54,n,,1.0000
+10/17/2025,823375f78cef4caf89a241ffaf3b79c2,Z2526013,Meg Olivo,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$843.54,-843.54,-$843.54,-843.54,y,10/31/2025,1.0000
+10/20/2025,308e2bcca2cd4ac28fe51fb789402507,,Square Inc T2188318 SQ251020,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$0.41,0.41,$0.41,0.41,n,,1.0000
+10/20/2025,308e2bcca2cd4ac28fe51fb789402507,,Square Inc T2188318 SQ251020,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,$37.52,37.52,$37.52,37.52,y,10/31/2025,1.0000
+10/20/2025,308e2bcca2cd4ac28fe51fb789402507,,Square Inc T2188318 SQ251020,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$1.06,1.06,$1.06,1.06,n,,1.0000
+10/20/2025,308e2bcca2cd4ac28fe51fb789402507,,Square Inc T2188318 SQ251020,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$34.99,-34.99,-$34.99,-34.99,n,,1.0000
+10/20/2025,308e2bcca2cd4ac28fe51fb789402507,,Square Inc T2188318 SQ251020,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$4.00,-4.00,-$4.00,-4.00,n,,1.0000
+10/20/2025,3406dc55bb0448c4ba277abc8eff9134,,Square Inc T2188318 SQ251020,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$31.55,31.55,$31.55,31.55,n,,1.0000
+10/20/2025,3406dc55bb0448c4ba277abc8eff9134,,Square Inc T2188318 SQ251020,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,"$1,092.97",1092.97,"$1,092.97",1092.97,y,10/31/2025,1.0000
+10/20/2025,3406dc55bb0448c4ba277abc8eff9134,,Square Inc T2188318 SQ251020,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$15.46,15.46,$15.46,15.46,n,,1.0000
+10/20/2025,3406dc55bb0448c4ba277abc8eff9134,,Square Inc T2188318 SQ251020,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$609.00,-609.00,-$609.00,-609.00,n,,1.0000
+10/20/2025,3406dc55bb0448c4ba277abc8eff9134,,Square Inc T2188318 SQ251020,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$530.98,-530.98,-$530.98,-530.98,n,,1.0000
+10/23/2025,01630c00cb0e481c90a5d6f5dfc490e5,Z2526015,Reimbursement to Meg Olivo,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,"$1,004.70",1004.70,"$1,004.70",1004.70,n,,1.0000
+10/23/2025,01630c00cb0e481c90a5d6f5dfc490e5,Z2526015,Reimbursement to Meg Olivo,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,"-$1,004.70",-1004.70,"-$1,004.70",-1004.70,y,10/31/2025,1.0000
+10/24/2025,1174005f90534bdfa2e266ff9c281208,,Transactions through 10/25/2025 0:24:55,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$5.03,5.03,$5.03,5.03,n,,1.0000
+10/24/2025,1174005f90534bdfa2e266ff9c281208,,Transactions through 10/25/2025 0:24:55,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$747.97,747.97,$747.97,747.97,y,11/16/2025,1.0000
+10/24/2025,1174005f90534bdfa2e266ff9c281208,,Transactions through 10/25/2025 0:24:55,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$12.00,12.00,$12.00,12.00,n,,1.0000
+10/24/2025,1174005f90534bdfa2e266ff9c281208,,Transactions through 10/25/2025 0:24:55,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$602.00,-602.00,-$602.00,-602.00,n,,1.0000
+10/24/2025,1174005f90534bdfa2e266ff9c281208,,Transactions through 10/25/2025 0:24:55,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$163.00,-163.00,-$163.00,-163.00,n,,1.0000
+10/25/2025,d712a150918b4c7ca0149d925c48400b,Z2526016,Reimbursement to Christina Cole,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$111.90,111.90,$111.90,111.90,n,,1.0000
+10/25/2025,d712a150918b4c7ca0149d925c48400b,Z2526016,Reimbursement to Christina Cole,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$111.90,-111.90,-$111.90,-111.90,y,10/31/2025,1.0000
+10/26/2025,1ae4618ad33a48f5a51c239d592997c1,Z2526017,Reimbursement to Kelly Lancaster,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$24.46,24.46,$24.46,24.46,n,,1.0000
+10/26/2025,1ae4618ad33a48f5a51c239d592997c1,Z2526017,Reimbursement to Kelly Lancaster,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$32.00,32.00,$32.00,32.00,n,,1.0000
+10/26/2025,1ae4618ad33a48f5a51c239d592997c1,Z2526017,Reimbursement to Kelly Lancaster,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$56.46,-56.46,-$56.46,-56.46,y,10/31/2025,1.0000
+10/27/2025,d66d9dbce8ca4b2ba12794ba43c46046,,Square Inc T2189272 SQ251027,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$3.75,3.75,$3.75,3.75,n,,1.0000
+10/27/2025,d66d9dbce8ca4b2ba12794ba43c46046,,Square Inc T2189272 SQ251027,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,$59.25,59.25,$59.25,59.25,y,10/31/2025,1.0000
+10/27/2025,d66d9dbce8ca4b2ba12794ba43c46046,,Square Inc T2189272 SQ251027,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$63.00,-63.00,-$63.00,-63.00,n,,1.0000
+10/27/2025,fc2285ee52854ddfb4daebb80faee065,,Square Inc T2189272 SQ251027,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$41.12,41.12,$41.12,41.12,n,,1.0000
+10/27/2025,fc2285ee52854ddfb4daebb80faee065,,Square Inc T2189272 SQ251027,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,$692.88,692.88,$692.88,692.88,y,10/31/2025,1.0000
+10/27/2025,fc2285ee52854ddfb4daebb80faee065,,Square Inc T2189272 SQ251027,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$734.00,-734.00,-$734.00,-734.00,n,,1.0000
+10/29/2025,94bee14bb68a4da2819d2f45d1929e40,,Girls Soccer Sales,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$4.15,4.15,$4.15,4.15,n,,1.0000
+10/29/2025,94bee14bb68a4da2819d2f45d1929e40,,Girls Soccer Sales,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,$68.85,68.85,$68.85,68.85,y,10/31/2025,1.0000
+10/29/2025,94bee14bb68a4da2819d2f45d1929e40,,Girls Soccer Sales,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$73.00,-73.00,-$73.00,-73.00,n,,1.0000
+10/29/2025,246a1079d640453bb299e0c3541cae82,Z2526019,Meg Olivo,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,"$1,498.69",1498.69,"$1,498.69",1498.69,n,,1.0000
+10/29/2025,246a1079d640453bb299e0c3541cae82,Z2526019,Meg Olivo,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,"-$1,498.69",-1498.69,"-$1,498.69",-1498.69,y,10/31/2025,1.0000
+10/30/2025,beb132750b6d48a2b5bff7957e52d6b5,Z2526020,Christina Cole,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$58.64,58.64,$58.64,58.64,n,,1.0000
+10/30/2025,beb132750b6d48a2b5bff7957e52d6b5,Z2526020,Christina Cole,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$58.64,-58.64,-$58.64,-58.64,y,10/31/2025,1.0000
+11/01/2025,79985dde43b447a29a2871334e04f217,,Transactions through 11/01/2025 18:05:25,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$2.28,2.28,$2.28,2.28,n,,1.0000
+11/01/2025,79985dde43b447a29a2871334e04f217,,Transactions through 11/01/2025 18:05:25,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$195.44,195.44,$195.44,195.44,y,11/16/2025,1.0000
+11/01/2025,79985dde43b447a29a2871334e04f217,,Transactions through 11/01/2025 18:05:25,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$2.28,2.28,$2.28,2.28,n,,1.0000
+11/01/2025,79985dde43b447a29a2871334e04f217,,Transactions through 11/01/2025 18:05:25,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$110.00,-110.00,-$110.00,-110.00,n,,1.0000
+11/01/2025,79985dde43b447a29a2871334e04f217,,Transactions through 11/01/2025 18:05:25,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$90.00,-90.00,-$90.00,-90.00,n,,1.0000
+11/01/2025,4bcc290a9fc24ec1907b1db9253a6b99,Z2526021,Christina Cole,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$47.96,47.96,$47.96,47.96,n,,1.0000
+11/01/2025,4bcc290a9fc24ec1907b1db9253a6b99,Z2526021,Christina Cole,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$47.96,-47.96,-$47.96,-47.96,y,11/30/2025,1.0000
+11/03/2025,e2613da215da43849fe72e9d88538ba1,,Square Inc T2190234 SQ251103,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$27.35,27.35,$27.35,27.35,n,,1.0000
+11/03/2025,e2613da215da43849fe72e9d88538ba1,,Square Inc T2190234 SQ251103,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,$515.65,515.65,$515.65,515.65,y,11/30/2025,1.0000
+11/03/2025,e2613da215da43849fe72e9d88538ba1,,Square Inc T2190234 SQ251103,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$543.00,-543.00,-$543.00,-543.00,n,,1.0000
+12/18/2025,dd967386d598425882c0379207bbcca7,,Square Inc T2196787 SQ251218,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$0.83,0.83,$0.83,0.83,n,,1.0000
+12/18/2025,dd967386d598425882c0379207bbcca7,,Square Inc T2196787 SQ251218,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,$8.17,8.17,$8.17,8.17,y,01/01/2026,1.0000
+12/18/2025,dd967386d598425882c0379207bbcca7,,Square Inc T2196787 SQ251218,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$9.00,-9.00,-$9.00,-9.00,n,,1.0000
+02/08/2026,bcf1432760f34c09a0f169955b2678fc,,Transactions through 02/07/2026 16:33:03,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$1.13,1.13,$1.13,1.13,n,,1.0000
+02/08/2026,bcf1432760f34c09a0f169955b2678fc,,Transactions through 02/07/2026 16:33:03,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$23.87,23.87,$23.87,23.87,y,03/01/2026,1.0000
+02/08/2026,bcf1432760f34c09a0f169955b2678fc,,Transactions through 02/07/2026 16:33:03,,CURRENCY::USD,,,Winter Basektball + Wrestling sales,Income:Fundraising:Snack Shack,Snack Shack,-$25.00,-25.00,-$25.00,-25.00,n,,1.0000
+02/09/2026,e2dd0dc95a454093a81e93cfd03ab822,,Square Inc T2203616 SQ260209,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$0.43,0.43,$0.43,0.43,n,,1.0000
+02/09/2026,e2dd0dc95a454093a81e93cfd03ab822,,Square Inc T2203616 SQ260209,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,$4.57,4.57,$4.57,4.57,y,03/01/2026,1.0000
+02/09/2026,e2dd0dc95a454093a81e93cfd03ab822,,Square Inc T2203616 SQ260209,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$5.00,-5.00,-$5.00,-5.00,n,,1.0000
+03/19/2026,64a7fbdcdb814c68b76575b92b1e5e78,,Transactions through 03/19/2026 0:11:53,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$2.00,2.00,$2.00,2.00,n,,1.0000
+03/19/2026,64a7fbdcdb814c68b76575b92b1e5e78,,Transactions through 03/19/2026 0:11:53,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$640.72,640.72,$640.72,640.72,y,04/01/2026,1.0000
+03/19/2026,64a7fbdcdb814c68b76575b92b1e5e78,,Transactions through 03/19/2026 0:11:53,,CURRENCY::USD,,,,Expenses:Fundraising:Varsity Dinner Ad Book,Varsity Dinner Ad Book,$12.28,12.28,$12.28,12.28,n,,1.0000
+03/19/2026,64a7fbdcdb814c68b76575b92b1e5e78,,Transactions through 03/19/2026 0:11:53,,CURRENCY::USD,,,,Income:Fundraising:Varsity Dinner Ad Book,Varsity Dinner Ad Book,-$600.00,-600.00,-$600.00,-600.00,n,,1.0000
+03/19/2026,64a7fbdcdb814c68b76575b92b1e5e78,,Transactions through 03/19/2026 0:11:53,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$55.00,-55.00,-$55.00,-55.00,n,,1.0000
+03/19/2026,55ae3c98b7984d3d9556fd7ff113eec8,,Square Inc T2209033 SQ260319,,CURRENCY::USD,,,Wizards Sales Fees,Expenses:Fundraising:Snack Shack,Snack Shack,$5.64,5.64,$5.64,5.64,n,,1.0000
+03/19/2026,55ae3c98b7984d3d9556fd7ff113eec8,,Square Inc T2209033 SQ260319,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,$102.36,102.36,$102.36,102.36,y,04/01/2026,1.0000
+03/19/2026,55ae3c98b7984d3d9556fd7ff113eec8,,Square Inc T2209033 SQ260319,,CURRENCY::USD,,,Wizards Sales,Income:Fundraising:Snack Shack,Snack Shack,-$108.00,-108.00,-$108.00,-108.00,n,,1.0000
+03/20/2026,095c2029ce7f43a8b91c1f15d31f2e73,Z2526026,Christina Cole,,CURRENCY::USD,,,Snack Shack refill,Expenses:Fundraising:Snack Shack,Snack Shack,$688.18,688.18,$688.18,688.18,n,,1.0000
+03/20/2026,095c2029ce7f43a8b91c1f15d31f2e73,Z2526026,Christina Cole,,CURRENCY::USD,,,Winter Varsity Dinner Gifts / Awards,Expenses:Program Services:Student / Coach Awards,Student / Coach Awards,"$1,014.78",1014.78,"$1,014.78",1014.78,n,,1.0000
+03/20/2026,095c2029ce7f43a8b91c1f15d31f2e73,Z2526026,Christina Cole,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,"-$1,702.96",-1702.96,"-$1,702.96",-1702.96,y,04/01/2026,1.0000
+04/05/2026,e2162447965942d1b5447aa0b5211183,Z2526028,Christina Cole,,CURRENCY::USD,,,Snack Shack refill,Expenses:Fundraising:Snack Shack,Snack Shack,$68.21,68.21,$68.21,68.21,n,,1.0000
+04/05/2026,e2162447965942d1b5447aa0b5211183,Z2526028,Christina Cole,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$68.21,-68.21,-$68.21,-68.21,y,04/30/2026,1.0000
+04/08/2026,a488f7e84a08499daf8fe669ca6289a6,,Track Meet Sales,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$12.95,12.95,$12.95,12.95,n,,1.0000
+04/08/2026,a488f7e84a08499daf8fe669ca6289a6,,Track Meet Sales,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,$152.05,152.05,$152.05,152.05,y,04/30/2026,1.0000
+04/08/2026,a488f7e84a08499daf8fe669ca6289a6,,Track Meet Sales,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$165.00,-165.00,-$165.00,-165.00,n,,1.0000
+04/23/2026,1ba3c65ac7634a58bc16c86ce32cd993,,Track Meet Sales,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$3.80,3.80,$3.80,3.80,n,,1.0000
+04/23/2026,1ba3c65ac7634a58bc16c86ce32cd993,,Track Meet Sales,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,$45.20,45.20,$45.20,45.20,y,04/30/2026,1.0000
+04/23/2026,1ba3c65ac7634a58bc16c86ce32cd993,,Track Meet Sales,,CURRENCY::USD,,,,Income:Fundraising:Snack Shack,Snack Shack,-$49.00,-49.00,-$49.00,-49.00,n,,1.0000
+04/25/2026,ec9418c7b4cf4eb19b1ac892cb3c3d21,Z2526030,Christina Cole,,CURRENCY::USD,,,,Expenses:Fundraising:Snack Shack,Snack Shack,$23.13,23.13,$23.13,23.13,n,,1.0000
+04/25/2026,ec9418c7b4cf4eb19b1ac892cb3c3d21,Z2526030,Christina Cole,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$23.13,-23.13,-$23.13,-23.13,y,04/30/2026,1.0000
+04/27/2026,c51e642606214ef18811ec7722d093b3,,Transactions through 04/26/2026 21:43:08,,CURRENCY::USD,,,Track Meet Sales,Expenses:Fundraising:Snack Shack,Snack Shack,$0.39,0.39,$0.39,0.39,n,,1.0000
+04/27/2026,c51e642606214ef18811ec7722d093b3,,Transactions through 04/26/2026 21:43:08,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$754.21,754.21,$754.21,754.21,n,,1.0000
+04/27/2026,c51e642606214ef18811ec7722d093b3,,Transactions through 04/26/2026 21:43:08,,CURRENCY::USD,,,Treefest Sales,Expenses:Fundraising:Spiritwear,Spiritwear,$16.40,16.40,$16.40,16.40,n,,1.0000
+04/27/2026,c51e642606214ef18811ec7722d093b3,,Transactions through 04/26/2026 21:43:08,,CURRENCY::USD,,,Track Meet Sales,Income:Fundraising:Snack Shack,Snack Shack,-$6.00,-6.00,-$6.00,-6.00,n,,1.0000
+04/27/2026,c51e642606214ef18811ec7722d093b3,,Transactions through 04/26/2026 21:43:08,,CURRENCY::USD,,,Treefest Sales,Income:Fundraising:Spiritwear,Spiritwear,-$765.00,-765.00,-$765.00,-765.00,n,,1.0000
+08/29/2024,4660a3620b4c409aa00e92cf2eeb0883,,Christina Cole,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$0.66,0.66,$0.66,0.66,n,,1.0000
+08/29/2024,4660a3620b4c409aa00e92cf2eeb0883,,Christina Cole,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$29.34,29.34,$29.34,29.34,y,09/01/2024,1.0000
+08/29/2024,4660a3620b4c409aa00e92cf2eeb0883,,Christina Cole,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$30.00,-30.00,-$30.00,-30.00,n,,1.0000
+09/01/2024,e26529dd8e4b421fa4d0b5e7599f3780,,Christina Cole,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$0.86,0.86,$0.86,0.86,n,,1.0000
+09/01/2024,e26529dd8e4b421fa4d0b5e7599f3780,,Christina Cole,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$39.14,39.14,$39.14,39.14,y,09/21/2024,1.0000
+09/01/2024,e26529dd8e4b421fa4d0b5e7599f3780,,Christina Cole,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$40.00,-40.00,-$40.00,-40.00,n,,1.0000
+09/01/2024,66eb15b2571b400ea8c7d23147fbc15a,3128,Immaculate Designs,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,"$2,860.00",2860.00,"$2,860.00",2860.00,n,,1.0000
+09/01/2024,66eb15b2571b400ea8c7d23147fbc15a,3128,Immaculate Designs,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,"-$2,860.00",-2860.00,"-$2,860.00",-2860.00,y,10/01/2024,1.0000
+09/03/2024,4d7dd161a32c44ff94552115e3eebe01,,Susan Muller,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$1.24,1.24,$1.24,1.24,n,,1.0000
+09/03/2024,4d7dd161a32c44ff94552115e3eebe01,,Susan Muller,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$58.76,58.76,$58.76,58.76,y,09/21/2024,1.0000
+09/03/2024,4d7dd161a32c44ff94552115e3eebe01,,Susan Muller,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$60.00,-60.00,-$60.00,-60.00,n,,1.0000
+09/08/2024,64a29815319f4501b4e0e0f341a247a8,,Stephanie McGowan,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$2.95,2.95,$2.95,2.95,n,,1.0000
+09/08/2024,64a29815319f4501b4e0e0f341a247a8,,Stephanie McGowan,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$147.05,147.05,$147.05,147.05,y,09/21/2024,1.0000
+09/08/2024,64a29815319f4501b4e0e0f341a247a8,,Stephanie McGowan,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$150.00,-150.00,-$150.00,-150.00,n,,1.0000
+09/08/2024,a3b23ed66e0f46459b99e824b56a1195,,Lori Rosario-Griffin,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$0.48,0.48,$0.48,0.48,n,,1.0000
+09/08/2024,a3b23ed66e0f46459b99e824b56a1195,,Lori Rosario-Griffin,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$19.52,19.52,$19.52,19.52,y,09/21/2024,1.0000
+09/08/2024,a3b23ed66e0f46459b99e824b56a1195,,Lori Rosario-Griffin,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$20.00,-20.00,-$20.00,-20.00,n,,1.0000
+09/08/2024,d3ee960c85ea4764a157b1911ed1ff48,,Jennifer Mazone,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$0.57,0.57,$0.57,0.57,n,,1.0000
+09/08/2024,d3ee960c85ea4764a157b1911ed1ff48,,Jennifer Mazone,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$24.43,24.43,$24.43,24.43,y,09/21/2024,1.0000
+09/08/2024,d3ee960c85ea4764a157b1911ed1ff48,,Jennifer Mazone,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$25.00,-25.00,-$25.00,-25.00,n,,1.0000
+09/08/2024,da560ffa2a82404ab233d09dbe698e75,,Frederic Uson,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$0.57,0.57,$0.57,0.57,n,,1.0000
+09/08/2024,da560ffa2a82404ab233d09dbe698e75,,Frederic Uson,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$24.43,24.43,$24.43,24.43,y,09/21/2024,1.0000
+09/08/2024,da560ffa2a82404ab233d09dbe698e75,,Frederic Uson,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$25.00,-25.00,-$25.00,-25.00,n,,1.0000
+09/08/2024,1c5308afe1de4b0192ba89140ec717a6,,Denada Aga,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$0.66,0.66,$0.66,0.66,n,,1.0000
+09/08/2024,1c5308afe1de4b0192ba89140ec717a6,,Denada Aga,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$29.34,29.34,$29.34,29.34,y,09/21/2024,1.0000
+09/08/2024,1c5308afe1de4b0192ba89140ec717a6,,Denada Aga,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$30.00,-30.00,-$30.00,-30.00,n,,1.0000
+09/08/2024,9cf639b2a4bc4da197ebd9f92b7cd12d,,Kim Serino,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$0.66,0.66,$0.66,0.66,n,,1.0000
+09/08/2024,9cf639b2a4bc4da197ebd9f92b7cd12d,,Kim Serino,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$29.34,29.34,$29.34,29.34,y,09/21/2024,1.0000
+09/08/2024,9cf639b2a4bc4da197ebd9f92b7cd12d,,Kim Serino,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$30.00,-30.00,-$30.00,-30.00,n,,1.0000
+09/08/2024,3b9bc7d8f0bf4b178396c1d0cbc468d6,,Kristie Damell,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$0.66,0.66,$0.66,0.66,n,,1.0000
+09/08/2024,3b9bc7d8f0bf4b178396c1d0cbc468d6,,Kristie Damell,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$29.34,29.34,$29.34,29.34,y,09/21/2024,1.0000
+09/08/2024,3b9bc7d8f0bf4b178396c1d0cbc468d6,,Kristie Damell,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$30.00,-30.00,-$30.00,-30.00,n,,1.0000
+09/08/2024,ec531990d7f948039df4db1133db68e4,,Jennifer Dunn,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$0.57,0.57,$0.57,0.57,n,,1.0000
+09/08/2024,ec531990d7f948039df4db1133db68e4,,Jennifer Dunn,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$24.43,24.43,$24.43,24.43,y,09/21/2024,1.0000
+09/08/2024,ec531990d7f948039df4db1133db68e4,,Jennifer Dunn,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$25.00,-25.00,-$25.00,-25.00,n,,1.0000
+09/08/2024,3f1a9cb2031242ca8dd51db45bbf16c1,,Lynn Maloney,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$1.05,1.05,$1.05,1.05,n,,1.0000
+09/08/2024,3f1a9cb2031242ca8dd51db45bbf16c1,,Lynn Maloney,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$48.95,48.95,$48.95,48.95,y,09/21/2024,1.0000
+09/08/2024,3f1a9cb2031242ca8dd51db45bbf16c1,,Lynn Maloney,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$50.00,-50.00,-$50.00,-50.00,n,,1.0000
+09/08/2024,bc571a7cfb4d415d870352dd07424418,,Biana Ioffe,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$0.66,0.66,$0.66,0.66,n,,1.0000
+09/08/2024,bc571a7cfb4d415d870352dd07424418,,Biana Ioffe,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$29.34,29.34,$29.34,29.34,y,09/21/2024,1.0000
+09/08/2024,bc571a7cfb4d415d870352dd07424418,,Biana Ioffe,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$30.00,-30.00,-$30.00,-30.00,n,,1.0000
+09/08/2024,aedcc8bde8444d1083fa2091c6b15dc4,,Laritza Lanchipa,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$0.66,0.66,$0.66,0.66,n,,1.0000
+09/08/2024,aedcc8bde8444d1083fa2091c6b15dc4,,Laritza Lanchipa,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$29.34,29.34,$29.34,29.34,y,09/21/2024,1.0000
+09/08/2024,aedcc8bde8444d1083fa2091c6b15dc4,,Laritza Lanchipa,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$30.00,-30.00,-$30.00,-30.00,n,,1.0000
+09/08/2024,40d6cd43c4dc4064a015b8a231c4a395,,Laritza Lanchipa,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$1.05,1.05,$1.05,1.05,n,,1.0000
+09/08/2024,40d6cd43c4dc4064a015b8a231c4a395,,Laritza Lanchipa,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$48.95,48.95,$48.95,48.95,y,09/21/2024,1.0000
+09/08/2024,40d6cd43c4dc4064a015b8a231c4a395,,Laritza Lanchipa,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$50.00,-50.00,-$50.00,-50.00,n,,1.0000
+09/08/2024,855c99a00c434ceb9038e41295d3c50b,,Christina Ortiz-Faria,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$0.66,0.66,$0.66,0.66,n,,1.0000
+09/08/2024,855c99a00c434ceb9038e41295d3c50b,,Christina Ortiz-Faria,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$29.34,29.34,$29.34,29.34,y,09/21/2024,1.0000
+09/08/2024,855c99a00c434ceb9038e41295d3c50b,,Christina Ortiz-Faria,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$30.00,-30.00,-$30.00,-30.00,n,,1.0000
+09/08/2024,a03aff20b77349059ba10f1ba83484b7,,Shayne Millington,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$0.86,0.86,$0.86,0.86,n,,1.0000
+09/08/2024,a03aff20b77349059ba10f1ba83484b7,,Shayne Millington,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$39.14,39.14,$39.14,39.14,y,09/21/2024,1.0000
+09/08/2024,a03aff20b77349059ba10f1ba83484b7,,Shayne Millington,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$40.00,-40.00,-$40.00,-40.00,n,,1.0000
+09/09/2024,99c6c1aaa8544c0e96263e58e1be064d,,Square Inc Tx9584 SQx0909,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$36.29,36.29,$36.29,36.29,n,,1.0000
+09/09/2024,99c6c1aaa8544c0e96263e58e1be064d,,Square Inc Tx9584 SQx0909,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,"$1,253.71",1253.71,"$1,253.71",1253.71,y,10/06/2024,1.0000
+09/09/2024,99c6c1aaa8544c0e96263e58e1be064d,,Square Inc Tx9584 SQx0909,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,"-$1,290.00",-1290.00,"-$1,290.00",-1290.00,n,,1.0000
+09/12/2024,0fecbef204fe40e6a2dd6bd57ee1d5ce,,LOGO KNITS,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,"$1,050.00",1050.00,"$1,050.00",1050.00,n,,1.0000
+09/12/2024,0fecbef204fe40e6a2dd6bd57ee1d5ce,,LOGO KNITS,,CURRENCY::USD,,,,Liabilities:Accounts Payable:James Bogosian,James Bogosian,"-$1,050.00",-1050.00,"-$1,050.00",-1050.00,n,,1.0000
+09/13/2024,19d98e18f93c4058a12a47c10741c438,,Christie Del Rey-Cone,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$0.38,0.38,$0.38,0.38,n,,1.0000
+09/13/2024,19d98e18f93c4058a12a47c10741c438,,Christie Del Rey-Cone,,CURRENCY::USD,,,T shirt,Assets:Venmo,Venmo,$14.62,14.62,$14.62,14.62,y,09/21/2024,1.0000
+09/13/2024,19d98e18f93c4058a12a47c10741c438,,Christie Del Rey-Cone,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$15.00,-15.00,-$15.00,-15.00,n,,1.0000
+09/13/2024,d3db238a2906471a9f50982a050b5a0a,,Dawn Montalbano cuce,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$0.95,0.95,$0.95,0.95,n,,1.0000
+09/13/2024,d3db238a2906471a9f50982a050b5a0a,,Dawn Montalbano cuce,,CURRENCY::USD,,,Hoodie/shirt,Assets:Venmo,Venmo,$44.05,44.05,$44.05,44.05,y,09/21/2024,1.0000
+09/13/2024,d3db238a2906471a9f50982a050b5a0a,,Dawn Montalbano cuce,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$45.00,-45.00,-$45.00,-45.00,n,,1.0000
+09/13/2024,55815d1fe4ab44c5955ba57664bebcce,,Lisa Schwartz,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$1.05,1.05,$1.05,1.05,n,,1.0000
+09/13/2024,55815d1fe4ab44c5955ba57664bebcce,,Lisa Schwartz,,CURRENCY::USD,,,Blanket,Assets:Venmo,Venmo,$48.95,48.95,$48.95,48.95,y,09/21/2024,1.0000
+09/13/2024,55815d1fe4ab44c5955ba57664bebcce,,Lisa Schwartz,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$50.00,-50.00,-$50.00,-50.00,n,,1.0000
+09/13/2024,45b31ca1bb5f4b00950abd4133ec7b52,,Marisa Barnes,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$0.48,0.48,$0.48,0.48,n,,1.0000
+09/13/2024,45b31ca1bb5f4b00950abd4133ec7b52,,Marisa Barnes,,CURRENCY::USD,,,Tshirt,Assets:Venmo,Venmo,$19.52,19.52,$19.52,19.52,y,09/21/2024,1.0000
+09/13/2024,45b31ca1bb5f4b00950abd4133ec7b52,,Marisa Barnes,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$20.00,-20.00,-$20.00,-20.00,n,,1.0000
+09/13/2024,df4b05dcfcda48438145e64f3e491bf6,,Shalina Bell,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$0.66,0.66,$0.66,0.66,n,,1.0000
+09/13/2024,df4b05dcfcda48438145e64f3e491bf6,,Shalina Bell,,CURRENCY::USD,,,Hoodie,Assets:Venmo,Venmo,$29.34,29.34,$29.34,29.34,y,09/21/2024,1.0000
+09/13/2024,df4b05dcfcda48438145e64f3e491bf6,,Shalina Bell,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$30.00,-30.00,-$30.00,-30.00,n,,1.0000
+09/13/2024,2c60993c58ff48b0a0204a62e5525801,,Stephanie Baumann,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$0.76,0.76,$0.76,0.76,n,,1.0000
+09/13/2024,2c60993c58ff48b0a0204a62e5525801,,Stephanie Baumann,,CURRENCY::USD,,,Tshirts,Assets:Venmo,Venmo,$34.24,34.24,$34.24,34.24,y,09/21/2024,1.0000
+09/13/2024,2c60993c58ff48b0a0204a62e5525801,,Stephanie Baumann,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$35.00,-35.00,-$35.00,-35.00,n,,1.0000
+09/15/2024,7273985d410b46f7afb5c143ff80e2bf,,Mary Hadrava,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$1.24,1.24,$1.24,1.24,n,,1.0000
+09/15/2024,7273985d410b46f7afb5c143ff80e2bf,,Mary Hadrava,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$58.76,58.76,$58.76,58.76,y,09/21/2024,1.0000
+09/15/2024,7273985d410b46f7afb5c143ff80e2bf,,Mary Hadrava,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$60.00,-60.00,-$60.00,-60.00,n,,1.0000
+09/16/2024,0eca93c7d1c04f5da83b29bdd6e7cbce,,Square Inc Tx0788 SQx0916,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$13.82,13.82,$13.82,13.82,n,,1.0000
+09/16/2024,0eca93c7d1c04f5da83b29bdd6e7cbce,,Square Inc Tx0788 SQx0916,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,$464.18,464.18,$464.18,464.18,y,10/11/2024,1.0000
+09/16/2024,0eca93c7d1c04f5da83b29bdd6e7cbce,,Square Inc Tx0788 SQx0916,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$478.00,-478.00,-$478.00,-478.00,n,,1.0000
+09/17/2024,95d166e955c44c5a9c7fc675c972b2d3,3131,NX Level Printing Group - VOID LOST,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$0.00,0.00,$0.00,0.00,n,,0.0000
+09/17/2024,95d166e955c44c5a9c7fc675c972b2d3,3131,NX Level Printing Group - VOID LOST,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,$0.00,0.00,$0.00,0.00,y,10/31/2024,0.0000
+09/19/2024,ba57efc631414845a53e884c5e1a51dc,,Brian Redington,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$0.86,0.86,$0.86,0.86,n,,1.0000
+09/19/2024,ba57efc631414845a53e884c5e1a51dc,,Brian Redington,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$39.14,39.14,$39.14,39.14,y,09/21/2024,1.0000
+09/19/2024,ba57efc631414845a53e884c5e1a51dc,,Brian Redington,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$40.00,-40.00,-$40.00,-40.00,n,,1.0000
+09/19/2024,566e780c9e8b4adfa1a4d4cdebe2289e,,Christina Cole,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$1.05,1.05,$1.05,1.05,n,,1.0000
+09/19/2024,566e780c9e8b4adfa1a4d4cdebe2289e,,Christina Cole,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$48.95,48.95,$48.95,48.95,y,09/21/2024,1.0000
+09/19/2024,566e780c9e8b4adfa1a4d4cdebe2289e,,Christina Cole,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$50.00,-50.00,-$50.00,-50.00,n,,1.0000
+09/19/2024,b645303817824e538eef8047117a7a41,,Rebekah Ruppe,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$0.95,0.95,$0.95,0.95,n,,1.0000
+09/19/2024,b645303817824e538eef8047117a7a41,,Rebekah Ruppe,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$44.05,44.05,$44.05,44.05,y,09/21/2024,1.0000
+09/19/2024,b645303817824e538eef8047117a7a41,,Rebekah Ruppe,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$45.00,-45.00,-$45.00,-45.00,n,,1.0000
+09/20/2024,92cac4f9c4e6454e850b8ab484d63887,,Christine and Joe Cavezza,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$0.57,0.57,$0.57,0.57,n,,1.0000
+09/20/2024,92cac4f9c4e6454e850b8ab484d63887,,Christine and Joe Cavezza,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$24.43,24.43,$24.43,24.43,y,09/21/2024,1.0000
+09/20/2024,92cac4f9c4e6454e850b8ab484d63887,,Christine and Joe Cavezza,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$25.00,-25.00,-$25.00,-25.00,n,,1.0000
+09/20/2024,bb848d97d7804512a01fdcf1caef1e2e,,Kim Shahadi,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$0.57,0.57,$0.57,0.57,n,,1.0000
+09/20/2024,bb848d97d7804512a01fdcf1caef1e2e,,Kim Shahadi,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$24.43,24.43,$24.43,24.43,y,09/21/2024,1.0000
+09/20/2024,bb848d97d7804512a01fdcf1caef1e2e,,Kim Shahadi,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$25.00,-25.00,-$25.00,-25.00,n,,1.0000
+09/20/2024,426be6194b3a4422a536398859bbc1fc,,Louise Monroe,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$0.48,0.48,$0.48,0.48,n,,1.0000
+09/20/2024,426be6194b3a4422a536398859bbc1fc,,Louise Monroe,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$19.52,19.52,$19.52,19.52,y,09/21/2024,1.0000
+09/20/2024,426be6194b3a4422a536398859bbc1fc,,Louise Monroe,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$20.00,-20.00,-$20.00,-20.00,n,,1.0000
+09/20/2024,3dc21c38700e42b3ac1276bfb897c076,,Michelle Ryan,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$0.48,0.48,$0.48,0.48,n,,1.0000
+09/20/2024,3dc21c38700e42b3ac1276bfb897c076,,Michelle Ryan,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$19.52,19.52,$19.52,19.52,y,09/21/2024,1.0000
+09/20/2024,3dc21c38700e42b3ac1276bfb897c076,,Michelle Ryan,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$20.00,-20.00,-$20.00,-20.00,n,,1.0000
+09/20/2024,4fb65e22a23f41db86f6c99f34108aee,,Regina Decarlo,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$0.48,0.48,$0.48,0.48,n,,1.0000
+09/20/2024,4fb65e22a23f41db86f6c99f34108aee,,Regina Decarlo,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$19.52,19.52,$19.52,19.52,y,09/21/2024,1.0000
+09/20/2024,4fb65e22a23f41db86f6c99f34108aee,,Regina Decarlo,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$20.00,-20.00,-$20.00,-20.00,n,,1.0000
+09/20/2024,381e4c8397b740d0865dfd73224b79ad,,Marisa Barnes,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$0.38,0.38,$0.38,0.38,n,,1.0000
+09/20/2024,381e4c8397b740d0865dfd73224b79ad,,Marisa Barnes,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$14.62,14.62,$14.62,14.62,y,09/21/2024,1.0000
+09/20/2024,381e4c8397b740d0865dfd73224b79ad,,Marisa Barnes,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$15.00,-15.00,-$15.00,-15.00,n,,1.0000
+09/20/2024,3fa647a872e84979a538c69c47a0569d,,Square Inc Tx1571 SQx0920,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$15.60,15.60,$15.60,15.60,n,,1.0000
+09/20/2024,3fa647a872e84979a538c69c47a0569d,,Square Inc Tx1571 SQx0920,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,$534.40,534.40,$534.40,534.40,y,10/11/2024,1.0000
+09/20/2024,3fa647a872e84979a538c69c47a0569d,,Square Inc Tx1571 SQx0920,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$550.00,-550.00,-$550.00,-550.00,n,,1.0000
+09/21/2024,20100833daef495d98a7cb0d8e7d32e3,,Romy Marchesani,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$1.14,1.14,$1.14,1.14,n,,1.0000
+09/21/2024,20100833daef495d98a7cb0d8e7d32e3,,Romy Marchesani,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$53.86,53.86,$53.86,53.86,y,09/21/2024,1.0000
+09/21/2024,20100833daef495d98a7cb0d8e7d32e3,,Romy Marchesani,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$55.00,-55.00,-$55.00,-55.00,n,,1.0000
+09/21/2024,8a4308bec17b4be39ebb5978e3e3deb3,,Mary Montoto,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$0.86,0.86,$0.86,0.86,n,,1.0000
+09/21/2024,8a4308bec17b4be39ebb5978e3e3deb3,,Mary Montoto,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$39.14,39.14,$39.14,39.14,y,09/21/2024,1.0000
+09/21/2024,8a4308bec17b4be39ebb5978e3e3deb3,,Mary Montoto,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$40.00,-40.00,-$40.00,-40.00,n,,1.0000
+09/21/2024,41e0d2ad409647c7bb2465f6e6d73b25,,Jennifer Colon,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$0.66,0.66,$0.66,0.66,n,,1.0000
+09/21/2024,41e0d2ad409647c7bb2465f6e6d73b25,,Jennifer Colon,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$29.34,29.34,$29.34,29.34,y,09/21/2024,1.0000
+09/21/2024,41e0d2ad409647c7bb2465f6e6d73b25,,Jennifer Colon,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$30.00,-30.00,-$30.00,-30.00,n,,1.0000
+09/21/2024,6c7b9aa6fd3242539615bd696e365048,,Marisa Barnes,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$0.66,0.66,$0.66,0.66,n,,1.0000
+09/21/2024,6c7b9aa6fd3242539615bd696e365048,,Marisa Barnes,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$29.34,29.34,$29.34,29.34,y,09/21/2024,1.0000
+09/21/2024,6c7b9aa6fd3242539615bd696e365048,,Marisa Barnes,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$30.00,-30.00,-$30.00,-30.00,n,,1.0000
+09/21/2024,e4a6e36a206e4fceaeb759b06910dbd3,,Joshua Kratchman,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$0.38,0.38,$0.38,0.38,n,,1.0000
+09/21/2024,e4a6e36a206e4fceaeb759b06910dbd3,,Joshua Kratchman,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$14.62,14.62,$14.62,14.62,y,09/21/2024,1.0000
+09/21/2024,e4a6e36a206e4fceaeb759b06910dbd3,,Joshua Kratchman,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$15.00,-15.00,-$15.00,-15.00,n,,1.0000
+09/21/2024,1e2a83c01f31429baebe422f1f0f6610,,Katharine Natuzzi,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$0.76,0.76,$0.76,0.76,n,,1.0000
+09/21/2024,1e2a83c01f31429baebe422f1f0f6610,,Katharine Natuzzi,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$34.24,34.24,$34.24,34.24,y,09/21/2024,1.0000
+09/21/2024,1e2a83c01f31429baebe422f1f0f6610,,Katharine Natuzzi,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$35.00,-35.00,-$35.00,-35.00,n,,1.0000
+09/21/2024,068129ca945c49b7b6691262dd2cf2cf,,Sean A,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$0.48,0.48,$0.48,0.48,n,,1.0000
+09/21/2024,068129ca945c49b7b6691262dd2cf2cf,,Sean A,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$19.52,19.52,$19.52,19.52,y,09/21/2024,1.0000
+09/21/2024,068129ca945c49b7b6691262dd2cf2cf,,Sean A,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$20.00,-20.00,-$20.00,-20.00,n,,1.0000
+09/21/2024,5739538f6c94463c85526fe56219fdb3,,Monica Triana,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$2.57,2.57,$2.57,2.57,n,,1.0000
+09/21/2024,5739538f6c94463c85526fe56219fdb3,,Monica Triana,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$127.43,127.43,$127.43,127.43,y,09/21/2024,1.0000
+09/21/2024,5739538f6c94463c85526fe56219fdb3,,Monica Triana,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$130.00,-130.00,-$130.00,-130.00,n,,1.0000
+09/21/2024,f1a18e64a9b044f8a6ed57c3be845af1,,Matt Natuzzi,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$0.48,0.48,$0.48,0.48,n,,1.0000
+09/21/2024,f1a18e64a9b044f8a6ed57c3be845af1,,Matt Natuzzi,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$19.52,19.52,$19.52,19.52,y,09/21/2024,1.0000
+09/21/2024,f1a18e64a9b044f8a6ed57c3be845af1,,Matt Natuzzi,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$20.00,-20.00,-$20.00,-20.00,n,,1.0000
+09/23/2024,3e6b90b6ff7e42cf987667cd8242d864,,Square Inc L95047 x0923P2,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$1.09,1.09,$1.09,1.09,n,,1.0000
+09/23/2024,3e6b90b6ff7e42cf987667cd8242d864,,Square Inc L95047 x0923P2,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,$28.91,28.91,$28.91,28.91,y,10/21/2024,1.0000
+09/23/2024,3e6b90b6ff7e42cf987667cd8242d864,,Square Inc L95047 x0923P2,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$30.00,-30.00,-$30.00,-30.00,n,,1.0000
+09/23/2024,0e34f38395124288a203b3d59524ff27,,Square Inc Tx1838 SQx0923,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$12.09,12.09,$12.09,12.09,n,,1.0000
+09/23/2024,0e34f38395124288a203b3d59524ff27,,Square Inc Tx1838 SQx0923,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,$406.91,406.91,$406.91,406.91,y,10/21/2024,1.0000
+09/23/2024,0e34f38395124288a203b3d59524ff27,,Square Inc Tx1838 SQx0923,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$419.00,-419.00,-$419.00,-419.00,n,,1.0000
+09/23/2024,1b9c637bdf2d413ca5be6af6ddde88e1,,Square Inc Tx1838 SQx0923,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$32.14,32.14,$32.14,32.14,n,,1.0000
+09/23/2024,1b9c637bdf2d413ca5be6af6ddde88e1,,Square Inc Tx1838 SQx0923,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,"$1,096.86",1096.86,"$1,096.86",1096.86,y,10/21/2024,1.0000
+09/23/2024,1b9c637bdf2d413ca5be6af6ddde88e1,,Square Inc Tx1838 SQx0923,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,"-$1,129.00",-1129.00,"-$1,129.00",-1129.00,n,,1.0000
+09/27/2024,fca4bee79c4a42068f4758165930813e,,Transactions through 09/27/2024 13:07:40,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$18.06,18.06,$18.06,18.06,n,,1.0000
+09/27/2024,fca4bee79c4a42068f4758165930813e,,Transactions through 09/27/2024 13:07:40,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$831.94,831.94,$831.94,831.94,y,02/28/2025,1.0000
+09/27/2024,fca4bee79c4a42068f4758165930813e,,Transactions through 09/27/2024 13:07:40,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$850.00,-850.00,-$850.00,-850.00,n,,1.0000
+09/30/2024,4fce883927254bed82fa24c26bfb178a,,Transactions through 09/30/2024 3:46:19,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$7.56,7.56,$7.56,7.56,n,,1.0000
+09/30/2024,4fce883927254bed82fa24c26bfb178a,,Transactions through 09/30/2024 3:46:19,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$345.44,345.44,$345.44,345.44,y,02/28/2025,1.0000
+09/30/2024,4fce883927254bed82fa24c26bfb178a,,Transactions through 09/30/2024 3:46:19,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$353.00,-353.00,-$353.00,-353.00,n,,1.0000
+09/30/2024,f92ae0cbc6284513a8b534b2a8db30c7,3136,Immaculate Designs,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,"$1,654.00",1654.00,"$1,654.00",1654.00,n,,1.0000
+09/30/2024,f92ae0cbc6284513a8b534b2a8db30c7,3136,Immaculate Designs,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,"-$1,654.00",-1654.00,"-$1,654.00",-1654.00,y,10/31/2024,1.0000
+10/07/2024,cbd91f16c10145f1b8648a3163813ae4,,Square Inc Tx3604 SQx1007,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$8.04,8.04,$8.04,8.04,n,,1.0000
+10/07/2024,cbd91f16c10145f1b8648a3163813ae4,,Square Inc Tx3604 SQx1007,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,$261.96,261.96,$261.96,261.96,y,10/31/2024,1.0000
+10/07/2024,cbd91f16c10145f1b8648a3163813ae4,,Square Inc Tx3604 SQx1007,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$270.00,-270.00,-$270.00,-270.00,n,,1.0000
+10/08/2024,5821a9c8946f49cf8c97530e72fc85a9,,Spiritwear Invoice #3127,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$94.00,94.00,$94.00,94.00,n,,1.0000
+10/08/2024,5821a9c8946f49cf8c97530e72fc85a9,,Spiritwear Invoice #3127,,CURRENCY::USD,,,,Liabilities:Accounts Payable:James Bogosian,James Bogosian,-$94.00,-94.00,-$94.00,-94.00,n,,1.0000
+10/13/2024,fa36097c5c9442419da42d17e4c10587,,Transactions through 10/12/2024 13:27:17,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$2.86,2.86,$2.86,2.86,n,,1.0000
+10/13/2024,fa36097c5c9442419da42d17e4c10587,,Transactions through 10/12/2024 13:27:17,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$132.14,132.14,$132.14,132.14,y,02/28/2025,1.0000
+10/13/2024,fa36097c5c9442419da42d17e4c10587,,Transactions through 10/12/2024 13:27:17,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$135.00,-135.00,-$135.00,-135.00,n,,1.0000
+10/21/2024,7cd1630223af43c58b8efdccac2e3247,,Square Inc Tx5213 SQx1021,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$3.91,3.91,$3.91,3.91,n,,1.0000
+10/21/2024,7cd1630223af43c58b8efdccac2e3247,,Square Inc Tx5213 SQx1021,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,$131.09,131.09,$131.09,131.09,y,10/31/2024,1.0000
+10/21/2024,7cd1630223af43c58b8efdccac2e3247,,Square Inc Tx5213 SQx1021,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$135.00,-135.00,-$135.00,-135.00,n,,1.0000
+10/26/2024,72f934dd5b3543c9bc53de48b92eecac,,Transactions through 10/26/2024 19:42:55,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$2.86,2.86,$2.86,2.86,n,,1.0000
+10/26/2024,72f934dd5b3543c9bc53de48b92eecac,,Transactions through 10/26/2024 19:42:55,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$132.14,132.14,$132.14,132.14,y,02/28/2025,1.0000
+10/26/2024,72f934dd5b3543c9bc53de48b92eecac,,Transactions through 10/26/2024 19:42:55,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$135.00,-135.00,-$135.00,-135.00,n,,1.0000
+12/04/2024,8aa58e28a3de4260ab3995fb871d04f9,,Square Inc Tx0445 SQx1204,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$10.09,10.09,$10.09,10.09,n,,1.0000
+12/04/2024,8aa58e28a3de4260ab3995fb871d04f9,,Square Inc Tx0445 SQx1204,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,$354.91,354.91,$354.91,354.91,y,12/31/2024,1.0000
+12/04/2024,8aa58e28a3de4260ab3995fb871d04f9,,Square Inc Tx0445 SQx1204,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$365.00,-365.00,-$365.00,-365.00,n,,1.0000
+12/05/2024,d0d04ddec61842338d5ad19585a1dbbb,,Square Inc Tx0611 SQx1205,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$4.46,4.46,$4.46,4.46,n,,1.0000
+12/05/2024,d0d04ddec61842338d5ad19585a1dbbb,,Square Inc Tx0611 SQx1205,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,$155.54,155.54,$155.54,155.54,y,12/31/2024,1.0000
+12/05/2024,d0d04ddec61842338d5ad19585a1dbbb,,Square Inc Tx0611 SQx1205,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$160.00,-160.00,-$160.00,-160.00,n,,1.0000
+12/13/2024,f59a36e7ddfc41be9a73aac1167ff348,3155,Christina Cole,,CURRENCY::USD,,,Fashion Show,Expenses:Fundraising:Spiritwear,Spiritwear,$231.02,231.02,$231.02,231.02,n,,1.0000
+12/13/2024,f59a36e7ddfc41be9a73aac1167ff348,3155,Christina Cole,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$231.02,-231.02,-$231.02,-231.02,y,12/31/2024,1.0000
+01/01/2025,481870c971d94c4ab914200f4d74fdb5,,Transactions through 12/20/2024 3:47:21,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$3.63,3.63,$3.63,3.63,n,,1.0000
+01/01/2025,481870c971d94c4ab914200f4d74fdb5,,Transactions through 12/20/2024 3:47:21,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$166.37,166.37,$166.37,166.37,y,02/28/2025,1.0000
+01/01/2025,481870c971d94c4ab914200f4d74fdb5,,Transactions through 12/20/2024 3:47:21,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$170.00,-170.00,-$170.00,-170.00,n,,1.0000
+03/25/2025,b93c560636804520ac3adce073670148,,Transactions through 03/25/2025 13:58:34,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$1.21,1.21,$1.21,1.21,n,,1.0000
+03/25/2025,b93c560636804520ac3adce073670148,,Transactions through 03/25/2025 13:58:34,,CURRENCY::USD,,,,Expenses:Program Services:Varsity Dinners,Varsity Dinners,$1.33,1.33,$1.33,1.33,n,,1.0000
+03/25/2025,b93c560636804520ac3adce073670148,,Transactions through 03/25/2025 13:58:34,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$116.46,116.46,$116.46,116.46,y,09/25/2025,1.0000
+03/25/2025,b93c560636804520ac3adce073670148,,Transactions through 03/25/2025 13:58:34,,CURRENCY::USD,,,,Income:Program Services:Varsity Dinners,Varsity Dinners,-$65.00,-65.00,-$65.00,-65.00,n,,1.0000
+03/25/2025,b93c560636804520ac3adce073670148,,Transactions through 03/25/2025 13:58:34,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$54.00,-54.00,-$54.00,-54.00,n,,1.0000
+06/07/2025,f0d5373832b04dcfa3cefc8e5819f04c,,Transactions through 06/03/2025 2:56:20,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$0.66,0.66,$0.66,0.66,n,,1.0000
+06/07/2025,f0d5373832b04dcfa3cefc8e5819f04c,,Transactions through 06/03/2025 2:56:20,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$787.97,787.97,$787.97,787.97,y,09/25/2025,1.0000
+06/07/2025,f0d5373832b04dcfa3cefc8e5819f04c,,Transactions through 06/03/2025 2:56:20,,CURRENCY::USD,,,,Expenses:Program Services:Varsity Dinners,Varsity Dinners,$16.37,16.37,$16.37,16.37,n,,1.0000
+06/07/2025,f0d5373832b04dcfa3cefc8e5819f04c,,Transactions through 06/03/2025 2:56:20,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$30.00,-30.00,-$30.00,-30.00,n,,1.0000
+06/07/2025,f0d5373832b04dcfa3cefc8e5819f04c,,Transactions through 06/03/2025 2:56:20,,CURRENCY::USD,,,,Income:Fundraising:Varsity Dinner Ad Book,Varsity Dinner Ad Book,-$775.00,-775.00,-$775.00,-775.00,n,,1.0000
+06/09/2025,ede035105e524c87b8fd1c97e652f07e,,Transactions through 06/10/2025 1:03:37,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$3.52,3.52,$3.52,3.52,n,,1.0000
+06/09/2025,ede035105e524c87b8fd1c97e652f07e,,Transactions through 06/10/2025 1:03:37,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$220.15,220.15,$220.15,220.15,y,09/25/2025,1.0000
+06/09/2025,ede035105e524c87b8fd1c97e652f07e,,Transactions through 06/10/2025 1:03:37,,CURRENCY::USD,,,,Expenses:Program Services:Varsity Dinners,Varsity Dinners,$1.33,1.33,$1.33,1.33,n,,1.0000
+06/09/2025,ede035105e524c87b8fd1c97e652f07e,,Transactions through 06/10/2025 1:03:37,,CURRENCY::USD,,,,Income:Program Services:Varsity Dinners,Varsity Dinners,-$65.00,-65.00,-$65.00,-65.00,n,,1.0000
+06/09/2025,ede035105e524c87b8fd1c97e652f07e,,Transactions through 06/10/2025 1:03:37,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$160.00,-160.00,-$160.00,-160.00,n,,1.0000
+06/11/2025,99dc0c1ad1604bb2a6584a80550759cc,,Square Inc T2163593 SQ250611,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$9.76,9.76,$9.76,9.76,n,,1.0000
+06/11/2025,99dc0c1ad1604bb2a6584a80550759cc,,Square Inc T2163593 SQ250611,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,$315.24,315.24,$315.24,315.24,y,07/01/2025,1.0000
+06/11/2025,99dc0c1ad1604bb2a6584a80550759cc,,Square Inc T2163593 SQ250611,,CURRENCY::USD,,,Spring Varsity Dinner sales,Income:Fundraising:Spiritwear,Spiritwear,-$325.00,-325.00,-$325.00,-325.00,n,,1.0000
+06/30/2025,537fb41344264752818e35f0edf2c6c2,,Transactions through 06/19/2025 15:43:40,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$0.95,0.95,$0.95,0.95,n,,1.0000
+06/30/2025,537fb41344264752818e35f0edf2c6c2,,Transactions through 06/19/2025 15:43:40,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$44.05,44.05,$44.05,44.05,y,09/25/2025,1.0000
+06/30/2025,537fb41344264752818e35f0edf2c6c2,,Transactions through 06/19/2025 15:43:40,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$45.00,-45.00,-$45.00,-45.00,n,,1.0000
+09/08/2025,f3da698d5bf7474c8f32432bccd289ff,Z2526006,Zelle To JAMES BOGOSIAN +1-888-931-2583,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$270.00,270.00,$270.00,270.00,n,,1.0000
+09/08/2025,f3da698d5bf7474c8f32432bccd289ff,Z2526006,Zelle To JAMES BOGOSIAN +1-888-931-2583,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$270.00,-270.00,-$270.00,-270.00,y,09/30/2025,1.0000
+09/19/2025,c3aeb1f0a85746cb9b7c2a2b92cd5a7f,,Transactions through 09/19/2025 14:06:36,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$24.17,24.17,$24.17,24.17,n,,1.0000
+09/19/2025,c3aeb1f0a85746cb9b7c2a2b92cd5a7f,,Transactions through 09/19/2025 14:06:36,,CURRENCY::USD,,,,Assets:Venmo,Venmo,"$1,121.83",1121.83,"$1,121.83",1121.83,y,09/25/2025,1.0000
+09/19/2025,c3aeb1f0a85746cb9b7c2a2b92cd5a7f,,Transactions through 09/19/2025 14:06:36,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,"-$1,146.00",-1146.00,"-$1,146.00",-1146.00,n,,1.0000
+09/19/2025,98ffe8041ded4015bd3bd291765af1ba,,Square Inc T2184187 SQ250919,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$19.85,19.85,$19.85,19.85,n,,1.0000
+09/19/2025,98ffe8041ded4015bd3bd291765af1ba,,Square Inc T2184187 SQ250919,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,$680.15,680.15,$680.15,680.15,y,10/11/2025,1.0000
+09/19/2025,98ffe8041ded4015bd3bd291765af1ba,,Square Inc T2184187 SQ250919,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$700.00,-700.00,-$700.00,-700.00,n,,1.0000
+09/21/2025,2a384e509efd498292b125bec4e9ac41,,Transactions through 09/20/2025 23:05:52,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$15.95,15.95,$15.95,15.95,n,,1.0000
+09/21/2025,2a384e509efd498292b125bec4e9ac41,,Transactions through 09/20/2025 23:05:52,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$748.05,748.05,$748.05,748.05,y,09/25/2025,1.0000
+09/21/2025,2a384e509efd498292b125bec4e9ac41,,Transactions through 09/20/2025 23:05:52,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$764.00,-764.00,-$764.00,-764.00,n,,1.0000
+09/22/2025,b7b2e2c603c748b687f103cb2bfe47dd,,Square Inc T2184470 SQ250922,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$12.25,12.25,$12.25,12.25,n,,1.0000
+09/22/2025,b7b2e2c603c748b687f103cb2bfe47dd,,Square Inc T2184470 SQ250922,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,$395.25,395.25,$395.25,395.25,y,10/11/2025,1.0000
+09/22/2025,b7b2e2c603c748b687f103cb2bfe47dd,,Square Inc T2184470 SQ250922,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$407.50,-407.50,-$407.50,-407.50,n,,1.0000
+09/22/2025,c76ab1a87985449ca079868ae09e844b,,Square Inc T2184470 SQ250922,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$9.90,9.90,$9.90,9.90,n,,1.0000
+09/22/2025,c76ab1a87985449ca079868ae09e844b,,Square Inc T2184470 SQ250922,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,$335.10,335.10,$335.10,335.10,y,10/11/2025,1.0000
+09/22/2025,c76ab1a87985449ca079868ae09e844b,,Square Inc T2184470 SQ250922,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$345.00,-345.00,-$345.00,-345.00,n,,1.0000
+09/22/2025,34fac62e9aec4301ab82c3d701aa049f,,Square Inc T2184476 SQ250922,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$34.38,34.38,$34.38,34.38,n,,1.0000
+09/22/2025,34fac62e9aec4301ab82c3d701aa049f,,Square Inc T2184476 SQ250922,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,"$1,160.62",1160.62,"$1,160.62",1160.62,y,10/11/2025,1.0000
+09/22/2025,34fac62e9aec4301ab82c3d701aa049f,,Square Inc T2184476 SQ250922,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,"-$1,195.00",-1195.00,"-$1,195.00",-1195.00,n,,1.0000
+09/22/2025,51eed5a6dd65406c9a7e0fe80b5207ce,,Square Inc T2184476 SQ250922,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$27.74,27.74,$27.74,27.74,n,,1.0000
+09/22/2025,51eed5a6dd65406c9a7e0fe80b5207ce,,Square Inc T2184476 SQ250922,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,$922.26,922.26,$922.26,922.26,y,10/11/2025,1.0000
+09/22/2025,51eed5a6dd65406c9a7e0fe80b5207ce,,Square Inc T2184476 SQ250922,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$950.00,-950.00,-$950.00,-950.00,n,,1.0000
+09/22/2025,110c9eabcc224677a580fd61d6b56948,Z2526007, Zelle To THOMAS LANCASTER +1-888-931-2583 ,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$780.00,780.00,$780.00,780.00,n,,1.0000
+09/22/2025,110c9eabcc224677a580fd61d6b56948,Z2526007, Zelle To THOMAS LANCASTER +1-888-931-2583 ,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$780.00,-780.00,-$780.00,-780.00,y,10/11/2025,1.0000
+09/23/2025,d438dcdb633a454eb4f70eb186a66c58,Z2526008, Zelle To BRYON COLE +1-888-931-2583 ,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$241.80,241.80,$241.80,241.80,n,,1.0000
+09/23/2025,d438dcdb633a454eb4f70eb186a66c58,Z2526008, Zelle To BRYON COLE +1-888-931-2583 ,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$241.80,-241.80,-$241.80,-241.80,y,10/11/2025,1.0000
+09/29/2025,1621aea9791c45c28fe5a5d9d85d0667,,Glen Rock Football Game Sales,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$2.38,2.38,$2.38,2.38,n,,1.0000
+09/29/2025,1621aea9791c45c28fe5a5d9d85d0667,,Glen Rock Football Game Sales,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,$77.62,77.62,$77.62,77.62,y,10/27/2025,1.0000
+09/29/2025,1621aea9791c45c28fe5a5d9d85d0667,,Glen Rock Football Game Sales,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$80.00,-80.00,-$80.00,-80.00,n,,1.0000
+10/06/2025,a5bfba22e6254a7ca47aef3d6e115af8,,Homecoming Spiritwear Square,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$12.42,12.42,$12.42,12.42,n,,1.0000
+10/06/2025,a5bfba22e6254a7ca47aef3d6e115af8,,Homecoming Spiritwear Square,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,$407.58,407.58,$407.58,407.58,y,10/31/2025,1.0000
+10/06/2025,a5bfba22e6254a7ca47aef3d6e115af8,,Homecoming Spiritwear Square,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$420.00,-420.00,-$420.00,-420.00,n,,1.0000
+10/20/2025,1346b1b3c1a54e75aa61e286ee33ef0f,Z2526014,James Bogosian - Rally Towels,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$416.52,416.52,$416.52,416.52,n,,1.0000
+10/20/2025,1346b1b3c1a54e75aa61e286ee33ef0f,Z2526014,James Bogosian - Rally Towels,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$416.52,-416.52,-$416.52,-416.52,y,10/31/2025,1.0000
+10/27/2025,d5e7d8fdd59f4fd3bfebf17cf5c419d9,,Square Inc T2189265 SQ251027,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$10.08,10.08,$10.08,10.08,n,,1.0000
+10/27/2025,d5e7d8fdd59f4fd3bfebf17cf5c419d9,,Square Inc T2189265 SQ251027,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,$342.92,342.92,$342.92,342.92,y,10/31/2025,1.0000
+10/27/2025,d5e7d8fdd59f4fd3bfebf17cf5c419d9,,Square Inc T2189265 SQ251027,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$353.00,-353.00,-$353.00,-353.00,n,,1.0000
+10/27/2025,f90882b80e4a4175928412e7a79e3a4a,Z2526018,Kelly Lancaster - Glitter Sale,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,"$1,040.00",1040.00,"$1,040.00",1040.00,n,,1.0000
+10/27/2025,f90882b80e4a4175928412e7a79e3a4a,Z2526018,Kelly Lancaster - Glitter Sale,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,"-$1,040.00",-1040.00,"-$1,040.00",-1040.00,y,10/31/2025,1.0000
+11/03/2025,ae58337bf3c04bbaafbc642e9add1e5c,,Square Inc T2190227 SQ251103,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$5.02,5.02,$5.02,5.02,n,,1.0000
+11/03/2025,ae58337bf3c04bbaafbc642e9add1e5c,,Square Inc T2190227 SQ251103,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,$164.98,164.98,$164.98,164.98,y,11/30/2025,1.0000
+11/03/2025,ae58337bf3c04bbaafbc642e9add1e5c,,Square Inc T2190227 SQ251103,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$170.00,-170.00,-$170.00,-170.00,n,,1.0000
+11/11/2025,a54f3491304d40cb8fbc8bbe470367e0,,Transactions through 11/10/2025 17:08:07,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$3.83,3.83,$3.83,3.83,n,,1.0000
+11/11/2025,a54f3491304d40cb8fbc8bbe470367e0,,Transactions through 11/10/2025 17:08:07,,CURRENCY::USD,,,,Expenses:Fundraising:Sponsorships,Sponsorships,$4.85,4.85,$4.85,4.85,n,,1.0000
+11/11/2025,a54f3491304d40cb8fbc8bbe470367e0,,Transactions through 11/10/2025 17:08:07,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$427.32,427.32,$427.32,427.32,y,11/16/2025,1.0000
+11/11/2025,a54f3491304d40cb8fbc8bbe470367e0,,Transactions through 11/10/2025 17:08:07,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$186.00,-186.00,-$186.00,-186.00,n,,1.0000
+11/11/2025,a54f3491304d40cb8fbc8bbe470367e0,,Transactions through 11/10/2025 17:08:07,,CURRENCY::USD,,,,Income:Fundraising:Sponsorships,Sponsorships,-$250.00,-250.00,-$250.00,-250.00,n,,1.0000
+11/15/2025,9ba0ce0c27c24678a9c23514646339aa,Z2526022,Reimbursement to Kelly Lancaster,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$117.00,117.00,$117.00,117.00,n,,1.0000
+11/15/2025,9ba0ce0c27c24678a9c23514646339aa,Z2526022,Reimbursement to Kelly Lancaster,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$117.00,-117.00,-$117.00,-117.00,y,11/30/2025,1.0000
+12/03/2025,a8fcc770594b490eaf73af33a9a7bd60,,Square Inc T2194678 SQ251203,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$10.10,10.10,$10.10,10.10,n,,1.0000
+12/03/2025,a8fcc770594b490eaf73af33a9a7bd60,,Square Inc T2194678 SQ251203,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,$396.06,396.06,$396.06,396.06,y,01/01/2026,1.0000
+12/03/2025,a8fcc770594b490eaf73af33a9a7bd60,,Square Inc T2194678 SQ251203,,CURRENCY::USD,,,,Expenses:Program Services:Varsity Dinners,Varsity Dinners,$1.84,1.84,$1.84,1.84,n,,1.0000
+12/03/2025,a8fcc770594b490eaf73af33a9a7bd60,,Square Inc T2194678 SQ251203,,CURRENCY::USD,,,Fall Varsity Dinner door ticket,Income:Program Services:Varsity Dinners,Varsity Dinners,-$65.00,-65.00,-$65.00,-65.00,n,,1.0000
+12/03/2025,a8fcc770594b490eaf73af33a9a7bd60,,Square Inc T2194678 SQ251203,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$343.00,-343.00,-$343.00,-343.00,n,,1.0000
+12/03/2025,65936a4d0687460794a337e3b5820489,,Transactions through 12/03/2025 0:11:45,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$1.62,1.62,$1.62,1.62,n,,1.0000
+12/03/2025,65936a4d0687460794a337e3b5820489,,Transactions through 12/03/2025 0:11:45,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$864.48,864.48,$864.48,864.48,y,01/01/2026,1.0000
+12/03/2025,65936a4d0687460794a337e3b5820489,,Transactions through 12/03/2025 0:11:45,,CURRENCY::USD,,,,Expenses:Fundraising:Varsity Dinner Ad Book,Varsity Dinner Ad Book,$16.90,16.90,$16.90,16.90,n,,1.0000
+12/03/2025,65936a4d0687460794a337e3b5820489,,Transactions through 12/03/2025 0:11:45,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$75.00,-75.00,-$75.00,-75.00,n,,1.0000
+12/03/2025,65936a4d0687460794a337e3b5820489,,Transactions through 12/03/2025 0:11:45,,CURRENCY::USD,,,,Income:Fundraising:Varsity Dinner Ad Book,Varsity Dinner Ad Book,-$808.00,-808.00,-$808.00,-808.00,n,,1.0000
+02/02/2026,4d2114ba5daa462a80772495d7082c58,EFT2526003,Logo Knits,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$605.05,605.05,$605.05,605.05,n,,1.0000
+02/02/2026,4d2114ba5daa462a80772495d7082c58,EFT2526003,Logo Knits,,CURRENCY::USD,,,Knit Blankets,Assets:Blue Foundry:Checking,Checking,-$605.05,-605.05,-$605.05,-605.05,y,03/01/2026,1.0000
+02/09/2026,8b757caef40b4ed79ef7dfaa763277cd,,Logo Knits - Credit Card Charge Refund,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,-$17.05,-17.05,-$17.05,-17.05,n,,1.0000
+02/09/2026,8b757caef40b4ed79ef7dfaa763277cd,,Logo Knits - Credit Card Charge Refund,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,$17.05,17.05,$17.05,17.05,y,03/01/2026,1.0000
+03/25/2026,4e9cd2eaf5a844158ae6a69fd37cab81,,Winter Dinner Square Sales,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$3.70,3.70,$3.70,3.70,n,,1.0000
+03/25/2026,4e9cd2eaf5a844158ae6a69fd37cab81,,Winter Dinner Square Sales,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,$121.30,121.30,$121.30,121.30,y,04/01/2026,1.0000
+03/25/2026,4e9cd2eaf5a844158ae6a69fd37cab81,,Winter Dinner Square Sales,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$125.00,-125.00,-$125.00,-125.00,n,,1.0000
+04/27/2026,ad83774026d3438e9461c32e2c901179,,Treefest Sales,,CURRENCY::USD,,,,Expenses:Fundraising:Spiritwear,Spiritwear,$1.21,1.21,$1.21,1.21,n,,1.0000
+04/27/2026,ad83774026d3438e9461c32e2c901179,,Treefest Sales,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,$33.79,33.79,$33.79,33.79,y,04/30/2026,1.0000
+04/27/2026,ad83774026d3438e9461c32e2c901179,,Treefest Sales,,CURRENCY::USD,,,,Income:Fundraising:Spiritwear,Spiritwear,-$35.00,-35.00,-$35.00,-35.00,n,,1.0000
+11/12/2024,6acaf2462c334ad1a7d725bd53a8da46,,Transactions through 11/12/2024 16:18:15,,CURRENCY::USD,,,,Expenses:Fundraising:Sponsorships,Sponsorships,$13.50,13.50,$13.50,13.50,n,,1.0000
+11/12/2024,6acaf2462c334ad1a7d725bd53a8da46,,Transactions through 11/12/2024 16:18:15,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$906.73,906.73,$906.73,906.73,y,02/28/2025,1.0000
+11/12/2024,6acaf2462c334ad1a7d725bd53a8da46,,Transactions through 11/12/2024 16:18:15,,CURRENCY::USD,,,,Expenses:Program Services:Varsity Dinners,Varsity Dinners,$4.77,4.77,$4.77,4.77,n,,1.0000
+11/12/2024,6acaf2462c334ad1a7d725bd53a8da46,,Transactions through 11/12/2024 16:18:15,,CURRENCY::USD,,,,Income:Fundraising:Varsity Dinner Ad Book,Varsity Dinner Ad Book,-$225.00,-225.00,-$225.00,-225.00,n,,1.0000
+11/12/2024,6acaf2462c334ad1a7d725bd53a8da46,,Transactions through 11/12/2024 16:18:15,,CURRENCY::USD,,,,Income:Fundraising:Sponsorships,Sponsorships,-$700.00,-700.00,-$700.00,-700.00,n,,1.0000
+11/22/2024,a08a49e736d24fbe97ab23473e274a2f,,Transactions through 11/21/2024 17:30:28,,CURRENCY::USD,,,,Expenses:Fundraising:Sponsorships,Sponsorships,$13.50,13.50,$13.50,13.50,n,,1.0000
+11/22/2024,a08a49e736d24fbe97ab23473e274a2f,,Transactions through 11/21/2024 17:30:28,,CURRENCY::USD,,,,Assets:Venmo,Venmo,"$1,322.69",1322.69,"$1,322.69",1322.69,y,02/28/2025,1.0000
+11/22/2024,a08a49e736d24fbe97ab23473e274a2f,,Transactions through 11/21/2024 17:30:28,,CURRENCY::USD,,,,Expenses:Program Services:Varsity Dinners,Varsity Dinners,$13.81,13.81,$13.81,13.81,n,,1.0000
+11/22/2024,a08a49e736d24fbe97ab23473e274a2f,,Transactions through 11/21/2024 17:30:28,,CURRENCY::USD,,,,Income:Fundraising:Varsity Dinner Ad Book,Varsity Dinner Ad Book,-$650.00,-650.00,-$650.00,-650.00,n,,1.0000
+11/22/2024,a08a49e736d24fbe97ab23473e274a2f,,Transactions through 11/21/2024 17:30:28,,CURRENCY::USD,,,,Income:Fundraising:Sponsorships,Sponsorships,-$700.00,-700.00,-$700.00,-700.00,n,,1.0000
+05/12/2025,8f60dc4e50f048ba98ab01abee573520,3167,Impressive Printing,,CURRENCY::USD,,,,Expenses:Fundraising:Sponsorships,Sponsorships,$15.35,15.35,$15.35,15.35,n,,1.0000
+05/12/2025,8f60dc4e50f048ba98ab01abee573520,3167,Impressive Printing,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$15.35,-15.35,-$15.35,-15.35,y,06/01/2025,1.0000
+04/30/2025,1e8ebabd4c314ada8cb675c779c46328,Z2425008,Zelle To JAMES BOGOSIAN +1-888-931-2583,,CURRENCY::USD,,,,Expenses:Program Services:Athletic Department Donations,Athletic Department Donations,"$3,700.00",3700.00,"$3,700.00",3700.00,n,,1.0000
+04/30/2025,1e8ebabd4c314ada8cb675c779c46328,Z2425008,Zelle To JAMES BOGOSIAN +1-888-931-2583,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,"-$3,700.00",-3700.00,"-$3,700.00",-3700.00,y,05/19/2025,1.0000
+07/25/2025,5a50fd9b1a8641af8cd42725af760c9a,Z2526002, Zelle To BRYON COLE +1-888-931-2583 ,,CURRENCY::USD,,,,Expenses:Program Services:Community Support,Community Support,$200.00,200.00,$200.00,200.00,n,,1.0000
+07/25/2025,5a50fd9b1a8641af8cd42725af760c9a,Z2526002, Zelle To BRYON COLE +1-888-931-2583 ,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$200.00,-200.00,-$200.00,-200.00,y,07/31/2025,1.0000
+11/19/2024,86d460a4a323416d8cedd132bf9e4c8b,,2024/2025 Scholarships,,CURRENCY::USD,,,,Expenses:Program Services:Scholarships,Scholarships,"$12,000.00",12000.00,"$12,000.00",12000.00,n,,1.0000
+11/19/2024,86d460a4a323416d8cedd132bf9e4c8b,,2024/2025 Scholarships,,CURRENCY::USD,,,,Liabilities:Accounts Payable:Scholarships,Scholarships,"-$12,000.00",-12000.00,"-$12,000.00",-12000.00,n,,1.0000
+09/09/2025,09c450762e734607af3148ba9a324c60,,2025/2026 Scholarships,,CURRENCY::USD,,,,Expenses:Program Services:Scholarships,Scholarships,"$10,000.00",10000.00,"$10,000.00",10000.00,n,,1.0000
+09/09/2025,09c450762e734607af3148ba9a324c60,,2025/2026 Scholarships,,CURRENCY::USD,,,,Liabilities:Accounts Payable:Scholarships,Scholarships,"-$10,000.00",-10000.00,"-$10,000.00",-10000.00,n,,1.0000
+04/14/2026,fc1ccf08cd79434b9a26f318cd2b2317,,2025/2026 Scholarships,,CURRENCY::USD,,,,Expenses:Program Services:Scholarships,Scholarships,"$4,000.00",4000.00,"$4,000.00",4000.00,n,,1.0000
+04/14/2026,fc1ccf08cd79434b9a26f318cd2b2317,,2025/2026 Scholarships,,CURRENCY::USD,,,,Liabilities:Accounts Payable:Scholarships,Scholarships,"-$4,000.00",-4000.00,"-$4,000.00",-4000.00,n,,1.0000
+10/03/2024,848b17dbec7e4718832b436bfd4dad53,3140,Bill O'Shea's Flowers,,CURRENCY::USD,,,,Expenses:Program Services:Student / Coach Awards,Student / Coach Awards,$261.80,261.80,$261.80,261.80,n,,1.0000
+10/03/2024,848b17dbec7e4718832b436bfd4dad53,3140,Bill O'Shea's Flowers,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$261.80,-261.80,-$261.80,-261.80,y,10/31/2024,1.0000
+11/04/2024,b6de3914f14d43098d4a8a29c2be5f26,3151,Bill O'Shea's Flowers,,CURRENCY::USD,,,,Expenses:Program Services:Student / Coach Awards,Student / Coach Awards,$97.10,97.10,$97.10,97.10,n,,1.0000
+11/04/2024,b6de3914f14d43098d4a8a29c2be5f26,3151,Bill O'Shea's Flowers,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$97.10,-97.10,-$97.10,-97.10,y,11/30/2024,1.0000
+12/11/2024,595bc6a8826d44ed9d063177e4923222,3154,Leezar Sporting Goods,,CURRENCY::USD,,,,Expenses:Program Services:Student / Coach Awards,Student / Coach Awards,"$1,404.00",1404.00,"$1,404.00",1404.00,n,,1.0000
+12/11/2024,595bc6a8826d44ed9d063177e4923222,3154,Leezar Sporting Goods,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,"-$1,404.00",-1404.00,"-$1,404.00",-1404.00,y,12/31/2024,1.0000
+01/07/2025,dae999eb96104a5ea85f73a02e6bb47a,3159,Garmerce - VOID - Lost in mail,,CURRENCY::USD,,,,Expenses:Program Services:Student / Coach Awards,Student / Coach Awards,$0.00,0.00,$0.00,0.00,n,,0.0000
+01/07/2025,dae999eb96104a5ea85f73a02e6bb47a,3159,Garmerce - VOID - Lost in mail,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,$0.00,0.00,$0.00,0.00,y,02/01/2025,0.0000
+01/23/2025,a66937370ad842d2b21ce4352174bcf4,3161,James Bogosian,,CURRENCY::USD,,,,Expenses:Program Services:Student / Coach Awards,Student / Coach Awards,"$1,200.00",1200.00,"$1,200.00",1200.00,n,,1.0000
+01/23/2025,a66937370ad842d2b21ce4352174bcf4,3161,James Bogosian,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,"-$1,200.00",-1200.00,"-$1,200.00",-1200.00,y,02/01/2025,1.0000
+02/03/2025,b302430646a74f3ea7f7597fbe0aa79d,3163,Bill O'Shea's Flowers,,CURRENCY::USD,,,,Expenses:Program Services:Student / Coach Awards,Student / Coach Awards,$379.70,379.70,$379.70,379.70,n,,1.0000
+02/03/2025,b302430646a74f3ea7f7597fbe0aa79d,3163,Bill O'Shea's Flowers,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$379.70,-379.70,-$379.70,-379.70,y,03/01/2025,1.0000
+02/28/2025,24d433d0263740e1a802d26207e3a2c2,ACH2425001,Swimming Team Jackets,,CURRENCY::USD,,,,Expenses:Program Services:Student / Coach Awards,Student / Coach Awards,"$1,200.00",1200.00,"$1,200.00",1200.00,n,,1.0000
+02/28/2025,24d433d0263740e1a802d26207e3a2c2,ACH2425001,Swimming Team Jackets,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,"-$1,200.00",-1200.00,"-$1,200.00",-1200.00,y,04/01/2025,1.0000
+03/12/2025,6a84047e016647a48a1f71510639d636,ACH2425002,Boys Basketball Jackets,,CURRENCY::USD,,,,Expenses:Program Services:Student / Coach Awards,Student / Coach Awards,"$1,376.00",1376.00,"$1,376.00",1376.00,n,,1.0000
+03/12/2025,6a84047e016647a48a1f71510639d636,ACH2425002,Boys Basketball Jackets,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,"-$1,376.00",-1376.00,"-$1,376.00",-1376.00,y,04/01/2025,1.0000
+05/03/2025,75e58e2a91f84ff7937b1818efa3a388,3168,Bill O'Shea's Flowers,,CURRENCY::USD,,,,Expenses:Program Services:Student / Coach Awards,Student / Coach Awards,$241.00,241.00,$241.00,241.00,n,,1.0000
+05/03/2025,75e58e2a91f84ff7937b1818efa3a388,3168,Bill O'Shea's Flowers,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$241.00,-241.00,-$241.00,-241.00,y,06/01/2025,1.0000
+05/21/2025,540d8fea5c4b4ca7b1e49100fbcbeb33,Z2425010,Zelle To JAMES BOGOSIAN +1-888-931-2583,,CURRENCY::USD,,,,Expenses:Program Services:Student / Coach Awards,Student / Coach Awards,$800.00,800.00,$800.00,800.00,n,,1.0000
+05/21/2025,540d8fea5c4b4ca7b1e49100fbcbeb33,Z2425010,Zelle To JAMES BOGOSIAN +1-888-931-2583,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$800.00,-800.00,-$800.00,-800.00,y,06/20/2025,1.0000
+06/03/2025,d0e5aa0de0ad4025921d4baf806c440a,Z2425012, Zelle To BRYON COLE +1-888-931-2583 ,,CURRENCY::USD,,,Gift for Deb Jimenez,Expenses:Program Services:Student / Coach Awards,Student / Coach Awards,$600.00,600.00,$600.00,600.00,n,,1.0000
+06/03/2025,d0e5aa0de0ad4025921d4baf806c440a,Z2425012, Zelle To BRYON COLE +1-888-931-2583 ,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$600.00,-600.00,-$600.00,-600.00,y,07/01/2025,1.0000
+06/09/2025,7783b29d212d4ebe81ad1f374fdf71ac,ACH2425003,JAMES GREGORY SALE ID NBR: NONE,,CURRENCY::USD,,,,Expenses:Program Services:Student / Coach Awards,Student / Coach Awards,"$1,314.00",1314.00,"$1,314.00",1314.00,n,,1.0000
+06/09/2025,7783b29d212d4ebe81ad1f374fdf71ac,ACH2425003,JAMES GREGORY SALE ID NBR: NONE,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,"-$1,314.00",-1314.00,"-$1,314.00",-1314.00,y,07/01/2025,1.0000
+06/12/2025,439e86ac67a84fc484f880964fd3312e,ACH2425004,JAMES GREGORY SALE ID NBR: NONE,,CURRENCY::USD,,,Softball Jackets,Expenses:Program Services:Student / Coach Awards,Student / Coach Awards,"$1,319.00",1319.00,"$1,319.00",1319.00,n,,1.0000
+06/12/2025,439e86ac67a84fc484f880964fd3312e,ACH2425004,JAMES GREGORY SALE ID NBR: NONE,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,"-$1,319.00",-1319.00,"-$1,319.00",-1319.00,y,07/01/2025,1.0000
+10/06/2025,852ad019b9254488be72938c0e34e288,BP2526001,Bill O'Shea's Flowers,,CURRENCY::USD,,,,Expenses:Program Services:Student / Coach Awards,Student / Coach Awards,$228.90,228.90,$228.90,228.90,n,,1.0000
+10/06/2025,852ad019b9254488be72938c0e34e288,BP2526001,Bill O'Shea's Flowers,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$228.90,-228.90,-$228.90,-228.90,y,10/31/2025,1.0000
+12/01/2025,c2e64698cf5e4e6d9b96eed166fda9b8,Z2526023,Christina Cole - Gift Cards,,CURRENCY::USD,,,,Expenses:Program Services:Student / Coach Awards,Student / Coach Awards,$250.00,250.00,$250.00,250.00,n,,1.0000
+12/01/2025,c2e64698cf5e4e6d9b96eed166fda9b8,Z2526023,Christina Cole - Gift Cards,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$250.00,-250.00,-$250.00,-250.00,y,01/01/2026,1.0000
+12/08/2025,f5987f6a10004a9da072e98225cc7e25,Z2526024,Prestige Awards - Fall Dinner,,CURRENCY::USD,,,,Expenses:Program Services:Student / Coach Awards,Student / Coach Awards,$812.15,812.15,$812.15,812.15,n,,1.0000
+12/08/2025,f5987f6a10004a9da072e98225cc7e25,Z2526024,Prestige Awards - Fall Dinner,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$812.15,-812.15,-$812.15,-812.15,y,01/01/2026,1.0000
+12/15/2025,c4c9667179474fd385f6d736bea0c145,EFT2526001,Football Championship Jackets,,CURRENCY::USD,,,,Expenses:Program Services:Student / Coach Awards,Student / Coach Awards,"$2,088.00",2088.00,"$2,088.00",2088.00,n,,1.0000
+12/15/2025,c4c9667179474fd385f6d736bea0c145,EFT2526001,Football Championship Jackets,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,"-$2,088.00",-2088.00,"-$2,088.00",-2088.00,y,01/01/2026,1.0000
+02/05/2026,451fa4cd574d49a087201c5e82d33f4b,BP2526002,Bill O'Shea's Flowers,,CURRENCY::USD,,,,Expenses:Program Services:Student / Coach Awards,Student / Coach Awards,$296.50,296.50,$296.50,296.50,n,,1.0000
+02/05/2026,451fa4cd574d49a087201c5e82d33f4b,BP2526002,Bill O'Shea's Flowers,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$296.50,-296.50,-$296.50,-296.50,y,03/01/2026,1.0000
+02/11/2026,692aeef025a54cd99fa2eb55ed7deba7,EFT2526004,Turn 2 Sports LLC,,CURRENCY::USD,,,,Expenses:Program Services:Student / Coach Awards,Student / Coach Awards,$960.00,960.00,$960.00,960.00,n,,1.0000
+02/11/2026,692aeef025a54cd99fa2eb55ed7deba7,EFT2526004,Turn 2 Sports LLC,,CURRENCY::USD,,,Volleyball Jackets,Assets:Blue Foundry:Checking,Checking,-$960.00,-960.00,-$960.00,-960.00,y,03/01/2026,1.0000
+02/18/2026,9c27918e2d984456bdfef642e292cc45,EFT2526005,Turn 2 Sports LLC,,CURRENCY::USD,,,Cheer Jackets,Expenses:Program Services:Student / Coach Awards,Student / Coach Awards,"$1,105.00",1105.00,"$1,105.00",1105.00,n,,1.0000
+02/18/2026,9c27918e2d984456bdfef642e292cc45,EFT2526005,Turn 2 Sports LLC,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,"-$1,105.00",-1105.00,"-$1,105.00",-1105.00,y,03/01/2026,1.0000
+03/23/2026,10ae1da03f1c420aab6f7c37dbe52324,Z2526027,Prestige Awards - Winter Dinner,,CURRENCY::USD,,,,Expenses:Program Services:Student / Coach Awards,Student / Coach Awards,$676.50,676.50,$676.50,676.50,n,,1.0000
+03/23/2026,10ae1da03f1c420aab6f7c37dbe52324,Z2526027,Prestige Awards - Winter Dinner,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$676.50,-676.50,-$676.50,-676.50,y,04/01/2026,1.0000
+03/26/2026,ae16a4f965aa423e82c3520fba555510,EFT2526006,Girls Swim Jackets,,CURRENCY::USD,,,,Expenses:Program Services:Student / Coach Awards,Student / Coach Awards,$975.75,975.75,$975.75,975.75,n,,1.0000
+03/26/2026,ae16a4f965aa423e82c3520fba555510,EFT2526006,Girls Swim Jackets,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$975.75,-975.75,-$975.75,-975.75,y,04/01/2026,1.0000
+04/28/2026,60f819f057034eaebccc8aa4a0f6b601,EFT2526007,Bowling Jackets,,CURRENCY::USD,,,,Expenses:Program Services:Student / Coach Awards,Student / Coach Awards,$100.00,100.00,$100.00,100.00,n,,1.0000
+04/28/2026,60f819f057034eaebccc8aa4a0f6b601,EFT2526007,Bowling Jackets,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$100.00,-100.00,-$100.00,-100.00,y,04/30/2026,1.0000
+04/28/2026,6f88059899f74569b117fa03109e41a6,EFT2526007,Bowling Jackets,,CURRENCY::USD,,,,Expenses:Program Services:Student / Coach Awards,Student / Coach Awards,$452.00,452.00,$452.00,452.00,n,,1.0000
+04/28/2026,6f88059899f74569b117fa03109e41a6,EFT2526007,Bowling Jackets,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$452.00,-452.00,-$452.00,-452.00,y,04/30/2026,1.0000
+05/02/2026,8fe065a92d50405fbe7e75c0c9b485e9,BP2526003,Bill O'Shea's Flowers,,CURRENCY::USD,,,,Expenses:Program Services:Student / Coach Awards,Student / Coach Awards,$314.75,314.75,$314.75,314.75,n,,1.0000
+05/02/2026,8fe065a92d50405fbe7e75c0c9b485e9,BP2526003,Bill O'Shea's Flowers,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$314.75,-314.75,-$314.75,-314.75,n,,1.0000
+11/17/2024,889f6cb00a584c1c9f6ccd9a94b8c150,,Transactions through 11/15/2024 13:32:05,,CURRENCY::USD,,,,Expenses:Program Services:Varsity Dinners,Varsity Dinners,$5.82,5.82,$5.82,5.82,n,,1.0000
+11/17/2024,889f6cb00a584c1c9f6ccd9a94b8c150,,Transactions through 11/15/2024 13:32:05,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$269.18,269.18,$269.18,269.18,y,02/28/2025,1.0000
+11/17/2024,889f6cb00a584c1c9f6ccd9a94b8c150,,Transactions through 11/15/2024 13:32:05,,CURRENCY::USD,,,,Income:Fundraising:Varsity Dinner Ad Book,Varsity Dinner Ad Book,-$275.00,-275.00,-$275.00,-275.00,n,,1.0000
+11/19/2024,8c418ef82ff44124926b8a74c0ef421e,,Transactions through 11/19/2024 11:52:17,,CURRENCY::USD,,,,Expenses:Program Services:Varsity Dinners,Varsity Dinners,$4.19,4.19,$4.19,4.19,n,,1.0000
+11/19/2024,8c418ef82ff44124926b8a74c0ef421e,,Transactions through 11/19/2024 11:52:17,,CURRENCY::USD,,,,Assets:Venmo,Venmo,$195.81,195.81,$195.81,195.81,y,02/28/2025,1.0000
+11/19/2024,8c418ef82ff44124926b8a74c0ef421e,,Transactions through 11/19/2024 11:52:17,,CURRENCY::USD,,,,Income:Fundraising:Varsity Dinner Ad Book,Varsity Dinner Ad Book,-$200.00,-200.00,-$200.00,-200.00,n,,1.0000
+12/03/2024,f6ce4709adcf4054b5aa6d227c5a3d51,,Fall Varsity Dinner Tip Cash,,CURRENCY::USD,,,,Expenses:Program Services:Varsity Dinners,Varsity Dinners,$200.00,200.00,$200.00,200.00,n,,1.0000
+12/03/2024,f6ce4709adcf4054b5aa6d227c5a3d51,,Fall Varsity Dinner Tip Cash,,CURRENCY::USD,,,,Assets:Cash Boxes:Snack Shack,Snack Shack,-$200.00,-200.00,-$200.00,-200.00,n,,1.0000
+12/03/2024,1f83f48556b145f3b27649f052fe6224,3153,Impressive Printing,,CURRENCY::USD,,,,Expenses:Program Services:Varsity Dinners,Varsity Dinners,$626.50,626.50,$626.50,626.50,n,,1.0000
+12/03/2024,1f83f48556b145f3b27649f052fe6224,3153,Impressive Printing,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$626.50,-626.50,-$626.50,-626.50,y,01/18/2025,1.0000
+12/05/2024,18abe142c5124fa3bd872975fa48b2fa,1016,The Fiesta,,CURRENCY::USD,,,,Expenses:Program Services:Varsity Dinners,Varsity Dinners,"$13,128.75",13128.75,"$13,128.75",13128.75,n,,1.0000
+12/05/2024,18abe142c5124fa3bd872975fa48b2fa,1016,The Fiesta,,CURRENCY::USD,,,,Assets:Blue Foundry:Raffle Checking,Raffle Checking,"-$13,128.75",-13128.75,"-$13,128.75",-13128.75,y,12/31/2024,1.0000
+12/24/2024,d2ad46c69b0949f88bf51f0e33213083,3157,Prestige Awards,,CURRENCY::USD,,,,Expenses:Program Services:Varsity Dinners,Varsity Dinners,$542.40,542.40,$542.40,542.40,n,,1.0000
+12/24/2024,d2ad46c69b0949f88bf51f0e33213083,3157,Prestige Awards,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$542.40,-542.40,-$542.40,-542.40,y,01/18/2025,1.0000
+03/13/2025,07aa6c5dbcf24db0b0474708dee9b4c5,,Transactions through 03/11/2025 14:26:42,,CURRENCY::USD,,,,Expenses:Program Services:Varsity Dinners,Varsity Dinners,$27.51,27.51,$27.51,27.51,n,,1.0000
+03/13/2025,07aa6c5dbcf24db0b0474708dee9b4c5,,Transactions through 03/11/2025 14:26:42,,CURRENCY::USD,,,,Assets:Venmo,Venmo,"$1,262.49",1262.49,"$1,262.49",1262.49,y,09/25/2025,1.0000
+03/13/2025,07aa6c5dbcf24db0b0474708dee9b4c5,,Transactions through 03/11/2025 14:26:42,,CURRENCY::USD,,,,Income:Fundraising:Varsity Dinner Ad Book,Varsity Dinner Ad Book,"-$1,290.00",-1290.00,"-$1,290.00",-1290.00,n,,1.0000
+03/20/2025,fba363cae3f7474f99a9ea67359475a0,1017,The Fiesta,,CURRENCY::USD,,,,Expenses:Program Services:Varsity Dinners,Varsity Dinners,"$10,000.00",10000.00,"$10,000.00",10000.00,n,,1.0000
+03/20/2025,fba363cae3f7474f99a9ea67359475a0,1017,The Fiesta,,CURRENCY::USD,,,,Assets:Blue Foundry:Raffle Checking,Raffle Checking,"-$10,000.00",-10000.00,"-$10,000.00",-10000.00,y,03/31/2025,1.0000
+03/24/2025,b4433ff804ea43f58b81e8e07bf44d59,3165,Impressive Printing,,CURRENCY::USD,,,,Expenses:Program Services:Varsity Dinners,Varsity Dinners,$626.50,626.50,$626.50,626.50,n,,1.0000
+03/24/2025,b4433ff804ea43f58b81e8e07bf44d59,3165,Impressive Printing,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$626.50,-626.50,-$626.50,-626.50,y,04/14/2025,1.0000
+03/25/2025,a2f342b59a374cb59c6a5c4252b90541,3166,The Fiesta,,CURRENCY::USD,,,,Expenses:Program Services:Varsity Dinners,Varsity Dinners,"$2,969.14",2969.14,"$2,969.14",2969.14,n,,1.0000
+03/25/2025,a2f342b59a374cb59c6a5c4252b90541,3166,The Fiesta,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,"-$2,969.14",-2969.14,"-$2,969.14",-2969.14,y,04/14/2025,1.0000
+03/25/2025,b96c8a9f7d334453a772a54731d17657,Z2425001,James Bogosian,,CURRENCY::USD,,,,Expenses:Program Services:Varsity Dinners,Varsity Dinners,$677.95,677.95,$677.95,677.95,n,,1.0000
+03/25/2025,b96c8a9f7d334453a772a54731d17657,Z2425001,James Bogosian,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$677.95,-677.95,-$677.95,-677.95,y,04/14/2025,1.0000
+06/09/2025,d66861a5f7034048a0e47fd61a749425,,Fiesta tip cash,,CURRENCY::USD,,,,Expenses:Program Services:Varsity Dinners,Varsity Dinners,$200.00,200.00,$200.00,200.00,n,,1.0000
+06/09/2025,d66861a5f7034048a0e47fd61a749425,,Fiesta tip cash,,CURRENCY::USD,,,,Expenses:Program Services:Varsity Dinners,Varsity Dinners,$200.00,200.00,$200.00,200.00,n,,1.0000
+06/09/2025,d66861a5f7034048a0e47fd61a749425,,Fiesta tip cash,,CURRENCY::USD,,,,Assets:Cash Boxes:Snack Shack,Snack Shack,-$400.00,-400.00,-$400.00,-400.00,n,,1.0000
+06/09/2025,706ec3b3a19648d5a9961bf4a010e2da,Z2425013, Zelle To JEAN POLLARI +1-888-931-2583 ,,CURRENCY::USD,,,,Expenses:Program Services:Varsity Dinners,Varsity Dinners,"$1,357.55",1357.55,"$1,357.55",1357.55,n,,1.0000
+06/09/2025,706ec3b3a19648d5a9961bf4a010e2da,Z2425013, Zelle To JEAN POLLARI +1-888-931-2583 ,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,"-$1,357.55",-1357.55,"-$1,357.55",-1357.55,y,07/01/2025,1.0000
+06/11/2025,985c525f773a4a29bad24376d840f397,3181,Check 3181,,CURRENCY::USD,,,Fiesta,Expenses:Program Services:Varsity Dinners,Varsity Dinners,"$12,818.99",12818.99,"$12,818.99",12818.99,n,,1.0000
+06/11/2025,985c525f773a4a29bad24376d840f397,3181,Check 3181,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,"-$12,818.99",-12818.99,"-$12,818.99",-12818.99,y,07/01/2025,1.0000
+06/11/2025,74719a09d5474055884f6a14ebba26ec,3182,Check 3182,,CURRENCY::USD,,,Program Printing,Expenses:Program Services:Varsity Dinners,Varsity Dinners,$597.77,597.77,$597.77,597.77,n,,1.0000
+06/11/2025,74719a09d5474055884f6a14ebba26ec,3182,Check 3182,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$597.77,-597.77,-$597.77,-597.77,y,07/01/2025,1.0000
+12/02/2025,55cf0dfab9b64281b1837dbb2fa57a23,,Fall Varsity Dinner Tip,,CURRENCY::USD,,,,Expenses:Program Services:Varsity Dinners,Varsity Dinners,$200.00,200.00,$200.00,200.00,n,,1.0000
+12/02/2025,55cf0dfab9b64281b1837dbb2fa57a23,,Fall Varsity Dinner Tip,,CURRENCY::USD,,,,Assets:Cash Boxes:Spiritwear,Spiritwear,-$200.00,-200.00,-$200.00,-200.00,n,,1.0000
+12/03/2025,e6b7d01a336a4801a5d848a307dbf4a4,3188,Check 3188,,CURRENCY::USD,,,,Expenses:Program Services:Varsity Dinners,Varsity Dinners,$784.00,784.00,$784.00,784.00,n,,1.0000
+12/03/2025,e6b7d01a336a4801a5d848a307dbf4a4,3188,Check 3188,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$784.00,-784.00,-$784.00,-784.00,y,01/01/2026,1.0000
+12/04/2025,76ae39c079ac446e86a75bbacb84d7e9,3189,Check 3189,,CURRENCY::USD,,,,Expenses:Program Services:Varsity Dinners,Varsity Dinners,"$12,728.43",12728.43,"$12,728.43",12728.43,n,,1.0000
+12/04/2025,76ae39c079ac446e86a75bbacb84d7e9,3189,Check 3189,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,"-$12,728.43",-12728.43,"-$12,728.43",-12728.43,y,01/01/2026,1.0000
+03/23/2026,c945ca3bbfd54ef9ad68ee7e8a58cdb1,,Winter Varsity Dinner Tip,,CURRENCY::USD,,,,Expenses:Program Services:Varsity Dinners,Varsity Dinners,$200.00,200.00,$200.00,200.00,n,,1.0000
+03/23/2026,c945ca3bbfd54ef9ad68ee7e8a58cdb1,,Winter Varsity Dinner Tip,,CURRENCY::USD,,,,Assets:Cash Boxes:Snack Shack,Snack Shack,-$200.00,-200.00,-$200.00,-200.00,n,,1.0000
+03/23/2026,469c97fd8eb34d33b2f4de538fe08e98,3191,The Fiesta,,CURRENCY::USD,,,,Expenses:Program Services:Varsity Dinners,Varsity Dinners,"$11,374.16",11374.16,"$11,374.16",11374.16,n,,1.0000
+03/23/2026,469c97fd8eb34d33b2f4de538fe08e98,3191,The Fiesta,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,"-$11,374.16",-11374.16,"-$11,374.16",-11374.16,y,04/01/2026,1.0000
+03/30/2026,36e42036c9e34c3489008840605a3a20,3190,Impressive Printing,,CURRENCY::USD,,,,Expenses:Program Services:Varsity Dinners,Varsity Dinners,$534.12,534.12,$534.12,534.12,n,,1.0000
+03/30/2026,36e42036c9e34c3489008840605a3a20,3190,Impressive Printing,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$534.12,-534.12,-$534.12,-534.12,y,04/27/2026,1.0000
+07/29/2024,f486c66128fa46219207cbeca100ad0f,3126,Legalized Games of Chance Control Commission,,CURRENCY::USD,,,,Expenses:Raffles,Raffles,$100.00,100.00,$100.00,100.00,n,,1.0000
+07/29/2024,f486c66128fa46219207cbeca100ad0f,3126,Legalized Games of Chance Control Commission,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$100.00,-100.00,-$100.00,-100.00,y,09/01/2024,1.0000
+09/28/2024,8fdf5d12a0394cc9b72d4345367741e3,3135,Legalized Games of Chance Control Commission,,CURRENCY::USD,,,,Expenses:Raffles,Raffles,$20.00,20.00,$20.00,20.00,n,,1.0000
+09/28/2024,8fdf5d12a0394cc9b72d4345367741e3,3135,Legalized Games of Chance Control Commission,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$20.00,-20.00,-$20.00,-20.00,y,10/31/2024,1.0000
+10/01/2024,1fec1ff869c84daa8cc1b467b184e0a7,3137,Borough of Woodridge,,CURRENCY::USD,,,,Expenses:Raffles,Raffles,$20.00,20.00,$20.00,20.00,n,,1.0000
+10/01/2024,1fec1ff869c84daa8cc1b467b184e0a7,3137,Borough of Woodridge,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$20.00,-20.00,-$20.00,-20.00,y,10/31/2024,1.0000
+10/01/2024,65138c40b7a84929b0e6f1438978078a,3138,Legalized Games of Chance Control Commission,,CURRENCY::USD,,,,Expenses:Raffles,Raffles,$20.00,20.00,$20.00,20.00,n,,1.0000
+10/01/2024,65138c40b7a84929b0e6f1438978078a,3138,Legalized Games of Chance Control Commission,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$20.00,-20.00,-$20.00,-20.00,y,11/30/2024,1.0000
+10/25/2024,f43d59e7ceab43d6b1c81afe10b44a9f,3146,Impressive Printing,,CURRENCY::USD,,,,Expenses:Raffles,Raffles,$78.00,78.00,$78.00,78.00,n,,1.0000
+10/25/2024,f43d59e7ceab43d6b1c81afe10b44a9f,3146,Impressive Printing,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$78.00,-78.00,-$78.00,-78.00,y,10/31/2024,1.0000
+11/02/2024,53293fb38eed4c51b5a540ee99d09e08,3150,Legalized Games of Chance Control Commission,,CURRENCY::USD,,,,Expenses:Raffles,Raffles,$20.00,20.00,$20.00,20.00,n,,1.0000
+11/02/2024,53293fb38eed4c51b5a540ee99d09e08,3150,Legalized Games of Chance Control Commission,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$20.00,-20.00,-$20.00,-20.00,y,11/30/2024,1.0000
+06/16/2025,78396a88a3fd4bd29f83c29dc364c91f,1018,Check 1018,,CURRENCY::USD,,,Mega 50/50 winner,Expenses:Raffles,Raffles,"$1,590.00",1590.00,"$1,590.00",1590.00,n,,1.0000
+06/16/2025,78396a88a3fd4bd29f83c29dc364c91f,1018,Check 1018,,CURRENCY::USD,,,,Assets:Blue Foundry:Raffle Checking,Raffle Checking,"-$1,590.00",-1590.00,"-$1,590.00",-1590.00,y,07/01/2025,1.0000
+07/14/2025,a405898e8ab742c3baf7317ce0e2d3fc,3184,Check 3184,,CURRENCY::USD,,,,Expenses:Raffles,Raffles,$20.00,20.00,$20.00,20.00,n,,1.0000
+07/14/2025,a405898e8ab742c3baf7317ce0e2d3fc,3184,Check 3184,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$20.00,-20.00,-$20.00,-20.00,y,09/30/2025,1.0000
+07/16/2025,f548eb4acb074ef0a45178e4a501ed06,3183,Check 3183,,CURRENCY::USD,,,,Expenses:Raffles,Raffles,$20.00,20.00,$20.00,20.00,n,,1.0000
+07/16/2025,f548eb4acb074ef0a45178e4a501ed06,3183,Check 3183,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$20.00,-20.00,-$20.00,-20.00,y,07/31/2025,1.0000
+08/26/2025,fad3b26287464c79bbacdf426de51b84,3185,Check 3185,,CURRENCY::USD,,,,Expenses:Raffles,Raffles,$20.00,20.00,$20.00,20.00,n,,1.0000
+08/26/2025,fad3b26287464c79bbacdf426de51b84,3185,Check 3185,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$20.00,-20.00,-$20.00,-20.00,y,09/22/2025,1.0000
+08/28/2025,3bd6db3aa485489aaba0ef35351cc940,,Pompton Lakes Football Winner,,CURRENCY::USD,,,,Expenses:Raffles,Raffles,$325.00,325.00,$325.00,325.00,n,,1.0000
+08/28/2025,3bd6db3aa485489aaba0ef35351cc940,,Pompton Lakes Football Winner,,CURRENCY::USD,,,,Assets:Cash Boxes:Lottery,Lottery,-$325.00,-325.00,-$325.00,-325.00,n,,1.0000
+09/27/2025,54f8442a714743dbb7eec03c3e9f4856,,Glen Rock Football Game Winner,,CURRENCY::USD,,,,Expenses:Raffles,Raffles,$355.00,355.00,$355.00,355.00,n,,1.0000
+09/27/2025,54f8442a714743dbb7eec03c3e9f4856,,Glen Rock Football Game Winner,,CURRENCY::USD,,,,Assets:Cash Boxes:Lottery,Lottery,-$355.00,-355.00,-$355.00,-355.00,n,,1.0000
+10/04/2025,ff2c4c32d6d2420a80a6f9b48143f62b,,Homecoming Football Game Winner,,CURRENCY::USD,,,,Expenses:Raffles,Raffles,$585.00,585.00,$585.00,585.00,n,,1.0000
+10/04/2025,ff2c4c32d6d2420a80a6f9b48143f62b,,Homecoming Football Game Winner,,CURRENCY::USD,,,,Assets:Cash Boxes:Lottery,Lottery,-$585.00,-585.00,-$585.00,-585.00,n,,1.0000
+10/17/2025,5988a0f594684dbea251e253843aac2b,,Woodridge Football Game Winner,,CURRENCY::USD,,,,Expenses:Raffles,Raffles,$535.00,535.00,$535.00,535.00,n,,1.0000
+10/17/2025,5988a0f594684dbea251e253843aac2b,,Woodridge Football Game Winner,,CURRENCY::USD,,,,Assets:Cash Boxes:Lottery,Lottery,-$535.00,-535.00,-$535.00,-535.00,n,,1.0000
+10/24/2025,f4ec68538ab3447c979d22e3f774b9dc,,Butler Football Game Winner,,CURRENCY::USD,,,,Expenses:Raffles,Raffles,$620.00,620.00,$620.00,620.00,n,,1.0000
+10/24/2025,f4ec68538ab3447c979d22e3f774b9dc,,Butler Football Game Winner,,CURRENCY::USD,,,,Assets:Cash Boxes:Lottery,Lottery,-$620.00,-620.00,-$620.00,-620.00,n,,1.0000
+11/01/2025,49a21ac8499e401d8c9f967e55d2b73a,,Hoboken Football Game Winner,,CURRENCY::USD,,,,Expenses:Raffles,Raffles,$515.00,515.00,$515.00,515.00,n,,1.0000
+11/01/2025,49a21ac8499e401d8c9f967e55d2b73a,,Hoboken Football Game Winner,,CURRENCY::USD,,,,Assets:Cash Boxes:Lottery,Lottery,-$515.00,-515.00,-$515.00,-515.00,n,,1.0000
+11/07/2025,799cb90784244512947f04d34c9ee074,3187,NJ LGCCC,,CURRENCY::USD,,,,Expenses:Raffles,Raffles,$80.00,80.00,$80.00,80.00,n,,1.0000
+11/07/2025,799cb90784244512947f04d34c9ee074,3187,NJ LGCCC,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$80.00,-80.00,-$80.00,-80.00,y,11/30/2025,1.0000
+04/30/2026,830011c68b85478bad4a59fe3326412d,3192,Legalized Games of Chance Control Commission,,CURRENCY::USD,,,,Expenses:Raffles,Raffles,$100.00,100.00,$100.00,100.00,n,,1.0000
+04/30/2026,830011c68b85478bad4a59fe3326412d,3192,Legalized Games of Chance Control Commission,,CURRENCY::USD,,,,Assets:Blue Foundry:Checking,Checking,-$100.00,-100.00,-$100.00,-100.00,n,,1.0000
