@@ -197,7 +197,44 @@ tr:last-child td {
 .min-price { color: var(--accent); }
 .max-price { color: #f87171; }
 
-/* Receipts styling */
+/* Receipt links inside comparison cards */
+.receipt-links {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-top: 1rem;
+  padding-top: 0.75rem;
+  border-top: 1px solid rgba(255,255,255,0.08);
+}
+
+.receipt-links a {
+  display: inline-block;
+  padding: 0.25rem 0.6rem;
+  background: rgba(59, 130, 246, 0.15);
+  color: #60a5fa;
+  border: 1px solid rgba(59, 130, 246, 0.3);
+  border-radius: 6px;
+  font-size: 0.75rem;
+  font-family: 'Fira Code', monospace;
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
+
+.receipt-links a:hover {
+  background: rgba(59, 130, 246, 0.3);
+  color: #93bbfc;
+  border-color: rgba(59, 130, 246, 0.5);
+  transform: translateY(-1px);
+}
+
+.link-separator {
+  color: #475569;
+  font-size: 0.75rem;
+  user-select: none;
+}
+
+/* Receipts styling (legacy) */
 .receipt-block {
   background: #0f172a;
   border-left: 4px solid var(--primary);
