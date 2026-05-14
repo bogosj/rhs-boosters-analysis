@@ -1,0 +1,1135 @@
+{
+  "comparisons": [
+    {
+      "name": "pick n pack candy",
+      "min_price": 8.98,
+      "max_price": 17.96,
+      "pct_change": 100.0,
+      "entries": [
+        {
+          "unit_price": 17.96,
+          "quantity": 1,
+          "date": "2025-08-27",
+          "receipt": "Z2526005",
+          "year": "2025-2026",
+          "vendor": "Gannett Media Co"
+        },
+        {
+          "unit_price": 8.98,
+          "quantity": 1,
+          "date": "2025-10-14",
+          "receipt": "Z2526012",
+          "year": "2025-2026",
+          "vendor": "BJ's Wholesale Club"
+        }
+      ]
+    },
+    {
+      "name": "new amsterdam pink whitney 50ml",
+      "min_price": 1.0,
+      "max_price": 1.39,
+      "pct_change": 39.0,
+      "entries": [
+        {
+          "unit_price": 1.0,
+          "quantity": 10,
+          "date": "2025-09-27",
+          "receipt": "Z2526010",
+          "year": "2025-2026",
+          "vendor": "Metro Wine And Liquors (East Rutherford, NJ)"
+        },
+        {
+          "unit_price": 1.39,
+          "quantity": 2,
+          "date": "2025-09-27",
+          "receipt": "Z2526010",
+          "year": "2025-2026",
+          "vendor": "Metro Wine And Liquors (East Rutherford, NJ)"
+        }
+      ]
+    },
+    {
+      "name": "paw print t-shirt",
+      "min_price": 16.0,
+      "max_price": 20.0,
+      "pct_change": 25.0,
+      "entries": [
+        {
+          "unit_price": 16.0,
+          "quantity": 1,
+          "date": "2024-09-12",
+          "receipt": "Check 3143",
+          "year": "2024-2025",
+          "vendor": "Logo Knits (Ocean, NJ)"
+        },
+        {
+          "unit_price": 16.0,
+          "quantity": 14,
+          "date": "2024-09-30",
+          "receipt": "Check 3136",
+          "year": "2024-2025",
+          "vendor": "Immaculate Designs (Michael Santomenna)"
+        },
+        {
+          "unit_price": 20.0,
+          "quantity": 3,
+          "date": "2025-10-27",
+          "receipt": "Z2526018",
+          "year": "2025-2026",
+          "vendor": "Immaculate Designs (Michael Santomenna)"
+        },
+        {
+          "unit_price": 20.0,
+          "quantity": 2,
+          "date": "2025-11-15",
+          "receipt": "Z2526022",
+          "year": "2025-2026",
+          "vendor": "Immaculate Designs (Michael Santomenna)"
+        }
+      ]
+    },
+    {
+      "name": "g500 black tees",
+      "min_price": 10.0,
+      "max_price": 12.0,
+      "pct_change": 20.0,
+      "entries": [
+        {
+          "unit_price": 10.0,
+          "quantity": 30,
+          "date": "2024-09-17",
+          "receipt": "Check 3131 - VOID",
+          "year": "2024-2025",
+          "vendor": "NX Level Printing Group (Passaic, NJ)"
+        },
+        {
+          "unit_price": 12.0,
+          "quantity": 5,
+          "date": "2024-09-17",
+          "receipt": "Check 3131 - VOID",
+          "year": "2024-2025",
+          "vendor": "NX Level Printing Group (Passaic, NJ)"
+        }
+      ]
+    },
+    {
+      "name": "mild cheddar cheese sauce",
+      "min_price": 7.54,
+      "max_price": 8.69,
+      "pct_change": 15.3,
+      "entries": [
+        {
+          "unit_price": 7.54,
+          "quantity": 2,
+          "date": "2025-10-02",
+          "receipt": "Z2526011",
+          "year": "2025-2026",
+          "vendor": "Restaurant Depot"
+        },
+        {
+          "unit_price": 8.69,
+          "quantity": 1,
+          "date": "2025-10-29",
+          "receipt": "Z2526020",
+          "year": "2025-2026",
+          "vendor": "Amazon"
+        }
+      ]
+    },
+    {
+      "name": "1/4 zip fleece with printing and embroidery",
+      "min_price": 60.0,
+      "max_price": 68.0,
+      "pct_change": 13.3,
+      "entries": [
+        {
+          "unit_price": 68.0,
+          "quantity": 18,
+          "date": "2024-12-10",
+          "receipt": "Check 3154",
+          "year": "2024-2025",
+          "vendor": "Leezar Sporting Goods (Caldwell, NJ)"
+        },
+        {
+          "unit_price": 60.0,
+          "quantity": 3,
+          "date": "2024-12-10",
+          "receipt": "Check 3154",
+          "year": "2024-2025",
+          "vendor": "Leezar Sporting Goods (Caldwell, NJ)"
+        }
+      ]
+    },
+    {
+      "name": "bulldog sweatpants",
+      "min_price": 22.0,
+      "max_price": 24.0,
+      "pct_change": 9.1,
+      "entries": [
+        {
+          "unit_price": 22.0,
+          "quantity": 4,
+          "date": "2025-09-20",
+          "receipt": "Z2526007",
+          "year": "2025-2026",
+          "vendor": "Immaculate Designs (Michael Santomenna)"
+        },
+        {
+          "unit_price": 24.0,
+          "quantity": 7,
+          "date": "2025-10-27",
+          "receipt": "Z2526018",
+          "year": "2025-2026",
+          "vendor": "Immaculate Designs (Michael Santomenna)"
+        },
+        {
+          "unit_price": 24.0,
+          "quantity": 1,
+          "date": "2025-11-15",
+          "receipt": "Z2526022",
+          "year": "2025-2026",
+          "vendor": "Immaculate Designs (Michael Santomenna)"
+        }
+      ]
+    },
+    {
+      "name": "one stop candy",
+      "min_price": 27.99,
+      "max_price": 29.99,
+      "pct_change": 7.1,
+      "entries": [
+        {
+          "unit_price": 27.99,
+          "quantity": 1,
+          "date": "2025-01-04",
+          "receipt": "Check 3158",
+          "year": "2024-2025",
+          "vendor": "BJ's Wholesale Club (E. Rutherford, NJ)"
+        },
+        {
+          "unit_price": 29.99,
+          "quantity": 1,
+          "date": "2025-01-15",
+          "receipt": "Check 3160",
+          "year": "2024-2025",
+          "vendor": "BJ's Wholesale Club (E. Rutherford, NJ)"
+        },
+        {
+          "unit_price": 29.99,
+          "quantity": 1,
+          "date": "2025-01-31",
+          "receipt": "Check 3162",
+          "year": "2024-2025",
+          "vendor": "BJ's Wholesale Club (E. Rutherford, NJ)"
+        },
+        {
+          "unit_price": 29.99,
+          "quantity": 1,
+          "date": "2025-01-31",
+          "receipt": "Check 3162",
+          "year": "2024-2025",
+          "vendor": "BJ's Wholesale Club (E. Rutherford, NJ)"
+        }
+      ]
+    },
+    {
+      "name": "airheads chewy fruit candy",
+      "min_price": 14.99,
+      "max_price": 15.99,
+      "pct_change": 6.7,
+      "entries": [
+        {
+          "unit_price": 15.99,
+          "quantity": 1,
+          "date": "2025-01-15",
+          "receipt": "Check 3160",
+          "year": "2024-2025",
+          "vendor": "BJ's Wholesale Club (E. Rutherford, NJ)"
+        },
+        {
+          "unit_price": 14.99,
+          "quantity": 1,
+          "date": "2025-08-27",
+          "receipt": "Z2526005",
+          "year": "2025-2026",
+          "vendor": "Gannett Media Co"
+        }
+      ]
+    },
+    {
+      "name": "fiesta ala carte menu",
+      "min_price": 26.45,
+      "max_price": 27.95,
+      "pct_change": 5.7,
+      "entries": [
+        {
+          "unit_price": 26.45,
+          "quantity": 364,
+          "date": "2024-12-03",
+          "receipt": "Raffle Check 1016",
+          "year": "2024-2025",
+          "vendor": "Fiesta Catering (Wood-Ridge, NJ)"
+        },
+        {
+          "unit_price": 26.45,
+          "quantity": 354,
+          "date": "2025-03-24",
+          "receipt": "Check 3166",
+          "year": "2024-2025",
+          "vendor": "Fiesta Catering (Wood-Ridge, NJ)"
+        },
+        {
+          "unit_price": 26.45,
+          "quantity": 354,
+          "date": "2025-03-24",
+          "receipt": "Raffle Check 1017",
+          "year": "2024-2025",
+          "vendor": "Fiesta Catering (Wood-Ridge, NJ)"
+        },
+        {
+          "unit_price": 27.45,
+          "quantity": 338,
+          "date": "2025-06-09",
+          "receipt": "Check 3181",
+          "year": "2024-2025",
+          "vendor": "Fiesta Catering (Wood-Ridge, NJ)"
+        },
+        {
+          "unit_price": 27.95,
+          "quantity": 330,
+          "date": "2025-12-02",
+          "receipt": "Check 3189",
+          "year": "2025-2026",
+          "vendor": "Fiesta Catering (Wood-Ridge, NJ)"
+        },
+        {
+          "unit_price": 27.95,
+          "quantity": 291,
+          "date": "2026-03-23",
+          "receipt": "Check 3191",
+          "year": "2025-2026",
+          "vendor": "Fiesta Catering (Wood-Ridge, NJ)"
+        }
+      ]
+    },
+    {
+      "name": "20 lb propane tank",
+      "min_price": 14.99,
+      "max_price": 15.25,
+      "pct_change": 1.7,
+      "entries": [
+        {
+          "unit_price": 15.25,
+          "quantity": 2,
+          "date": "2025-08-27",
+          "receipt": "Z2526005",
+          "year": "2025-2026",
+          "vendor": "Gannett Media Co"
+        },
+        {
+          "unit_price": 14.99,
+          "quantity": 3,
+          "date": "2025-10-20",
+          "receipt": "Z2526016",
+          "year": "2025-2026",
+          "vendor": "BJ's Wholesale Club (E. Rutherford, NJ)"
+        }
+      ]
+    }
+  ],
+  "stable": [
+    {
+      "name": "bulldog crewneck",
+      "price": 26.0,
+      "count": 3
+    },
+    {
+      "name": "coca-cola 35pk cans",
+      "price": 19.99,
+      "count": 2
+    },
+    {
+      "name": "cookie combo 16ct",
+      "price": 19.99,
+      "count": 2
+    },
+    {
+      "name": "custom embroidery",
+      "price": 60.0,
+      "count": 2
+    },
+    {
+      "name": "era crewneck",
+      "price": 26.0,
+      "count": 2
+    },
+    {
+      "name": "era hoodie",
+      "price": 36.0,
+      "count": 2
+    },
+    {
+      "name": "gatorade 20oz variety",
+      "price": 18.49,
+      "count": 2
+    },
+    {
+      "name": "hamburger rolls",
+      "price": 3.49,
+      "count": 2
+    },
+    {
+      "name": "haribo goldbears 12ct",
+      "price": 15.99,
+      "count": 5
+    },
+    {
+      "name": "hot dog rolls",
+      "price": 3.49,
+      "count": 2
+    },
+    {
+      "name": "king size pretzel",
+      "price": 11.99,
+      "count": 2
+    },
+    {
+      "name": "paw print crewneck",
+      "price": 28.0,
+      "count": 2
+    },
+    {
+      "name": "plaque | 4 years on a varsity sport awards",
+      "price": 16.95,
+      "count": 2
+    },
+    {
+      "name": "plaque | bulldog award with extensive engraving",
+      "price": 160.0,
+      "count": 2
+    },
+    {
+      "name": "plaque | captain awards",
+      "price": 18.95,
+      "count": 2
+    },
+    {
+      "name": "snack stand variety pack 30ct",
+      "price": 29.99,
+      "count": 4
+    },
+    {
+      "name": "soft drinks",
+      "price": 1.95,
+      "count": 5
+    },
+    {
+      "name": "swedish fish/sour patch variety 24ct",
+      "price": 22.49,
+      "count": 4
+    },
+    {
+      "name": "trophy | coaches awards",
+      "price": 15.95,
+      "count": 3
+    }
+  ],
+  "singles": [
+    {
+      "name": "11\"x17\" dye-sub white towel w/ 1 color imprint",
+      "price": 2.67,
+      "receipt": "Z2526014",
+      "date": "2025-10-20"
+    },
+    {
+      "name": "2xl big pride grey t-shirt",
+      "price": 19.0,
+      "receipt": "Check 3128",
+      "date": "2024-09-01"
+    },
+    {
+      "name": "2xl bulldogs beige t-shirt",
+      "price": 17.0,
+      "receipt": "Check 3128",
+      "date": "2024-09-01"
+    },
+    {
+      "name": "2xl bulldogs grey t-shirt",
+      "price": 17.0,
+      "receipt": "Check 3128",
+      "date": "2024-09-01"
+    },
+    {
+      "name": "2xl bulldogs navy crewneck",
+      "price": 29.0,
+      "receipt": "Check 3128",
+      "date": "2024-09-01"
+    },
+    {
+      "name": "2xl charges",
+      "price": 3.0,
+      "receipt": "Z2526007",
+      "date": "2025-09-20"
+    },
+    {
+      "name": "2xl paw print hoodies",
+      "price": 35.0,
+      "receipt": "Z2526018",
+      "date": "2025-10-27"
+    },
+    {
+      "name": "3 @",
+      "price": 100.0,
+      "receipt": "Z2526026",
+      "date": "2026-03-20"
+    },
+    {
+      "name": "3xl paw print t-shirts",
+      "price": 25.0,
+      "receipt": "Z2526022",
+      "date": "2025-11-15"
+    },
+    {
+      "name": "4-year varsity plaque",
+      "price": 15.95,
+      "receipt": "Z2425001",
+      "date": "2025-03-22"
+    },
+    {
+      "name": "6 @",
+      "price": 50.0,
+      "receipt": "Z2526026",
+      "date": "2026-03-20"
+    },
+    {
+      "name": "airheads chewy fruit candy, variety pack",
+      "price": 29.98,
+      "receipt": "Z2526004",
+      "date": "2025-08-26"
+    },
+    {
+      "name": "amazon $50 gift card",
+      "price": 50.0,
+      "receipt": "Z2425012",
+      "date": "2025-06-03"
+    },
+    {
+      "name": "amazon basics disposable plastic to-go cups and lids",
+      "price": 3.59,
+      "receipt": "Z2526012",
+      "date": "2025-10-14"
+    },
+    {
+      "name": "amazon gift card",
+      "price": 50.0,
+      "receipt": "Z2526023",
+      "date": "2025-11-28"
+    },
+    {
+      "name": "anchors",
+      "price": 14.98,
+      "receipt": "Z2526005",
+      "date": "2025-08-27"
+    },
+    {
+      "name": "bacon topping",
+      "price": 29.24,
+      "receipt": "Z2425009",
+      "date": "2025-05-05"
+    },
+    {
+      "name": "big pride grey t-shirt",
+      "price": 16.0,
+      "receipt": "Check 3128",
+      "date": "2024-09-01"
+    },
+    {
+      "name": "bulldog duffle bag",
+      "price": 16.0,
+      "receipt": "Z2526018",
+      "date": "2025-10-27"
+    },
+    {
+      "name": "bulldog hoodie",
+      "price": 32.0,
+      "receipt": "Z2526018",
+      "date": "2025-10-27"
+    },
+    {
+      "name": "bulldog tote bag",
+      "price": 10.0,
+      "receipt": "Z2526018",
+      "date": "2025-10-27"
+    },
+    {
+      "name": "bulldogs beige t-shirt",
+      "price": 14.0,
+      "receipt": "Check 3128",
+      "date": "2024-09-01"
+    },
+    {
+      "name": "bulldogs grey t-shirt",
+      "price": 14.0,
+      "receipt": "Check 3128",
+      "date": "2024-09-01"
+    },
+    {
+      "name": "bulldogs pinkout t-shirt",
+      "price": 18.0,
+      "receipt": "Z2526007",
+      "date": "2025-09-20"
+    },
+    {
+      "name": "captain award plaque",
+      "price": 17.95,
+      "receipt": "Z2425001",
+      "date": "2025-03-22"
+    },
+    {
+      "name": "classic envelopes",
+      "price": 45.49,
+      "receipt": "Z2425004",
+      "date": "2025-04-07"
+    },
+    {
+      "name": "classic mix snacks",
+      "price": 19.99,
+      "receipt": "Check 3158",
+      "date": "2025-01-04"
+    },
+    {
+      "name": "coaches award trophy",
+      "price": 15.95,
+      "receipt": "Z2425001",
+      "date": "2025-03-22"
+    },
+    {
+      "name": "cool tangy candy",
+      "price": 19.99,
+      "receipt": "Check 3160",
+      "date": "2025-01-15"
+    },
+    {
+      "name": "cup noodles chicken",
+      "price": 7.71,
+      "receipt": "Z2526030",
+      "date": "2026-04-20"
+    },
+    {
+      "name": "custom knit blanket 63x63",
+      "price": 46.0,
+      "receipt": "EFT2526003",
+      "date": "2026-01-29"
+    },
+    {
+      "name": "dbx-7hc+ wireless",
+      "price": 6200.0,
+      "receipt": "Z2425008",
+      "date": "2025-04-30"
+    },
+    {
+      "name": "diet coke 35pk cans",
+      "price": 39.98,
+      "receipt": "Check 3130",
+      "date": "2024-09-12"
+    },
+    {
+      "name": "domino xtrfn gran",
+      "price": 5.79,
+      "receipt": "Check 3133",
+      "date": "2024-09-11"
+    },
+    {
+      "name": "era crewneck (white) 2xl",
+      "price": 29.0,
+      "receipt": "Check 3136",
+      "date": "2024-09-30"
+    },
+    {
+      "name": "ez toggle 10 pk",
+      "price": 15.98,
+      "receipt": "Z2526005",
+      "date": "2025-08-27"
+    },
+    {
+      "name": "ff big-c 1/2 crnkl 5lb",
+      "price": 28.33,
+      "receipt": "Z2526019",
+      "date": "2025-10-29"
+    },
+    {
+      "name": "fiesta unlimited soft drinks",
+      "price": 1.95,
+      "receipt": "Raffle Check 1016",
+      "date": "2024-12-03"
+    },
+    {
+      "name": "fight cancer crewneck",
+      "price": 26.0,
+      "receipt": "Z2526007",
+      "date": "2025-09-20"
+    },
+    {
+      "name": "fight cancer hoodie",
+      "price": 32.0,
+      "receipt": "Z2526007",
+      "date": "2025-09-20"
+    },
+    {
+      "name": "fight cancer long sleeve",
+      "price": 22.0,
+      "receipt": "Z2526007",
+      "date": "2025-09-20"
+    },
+    {
+      "name": "fight cancer t-shirt",
+      "price": 18.0,
+      "receipt": "Z2526007",
+      "date": "2025-09-20"
+    },
+    {
+      "name": "fight cancer v-neck",
+      "price": 20.0,
+      "receipt": "Z2526007",
+      "date": "2025-09-20"
+    },
+    {
+      "name": "fireball 50ml",
+      "price": 1.79,
+      "receipt": "Z2526010",
+      "date": "2025-09-27"
+    },
+    {
+      "name": "football t-shirt",
+      "price": 18.0,
+      "receipt": "Z2526007",
+      "date": "2025-09-20"
+    },
+    {
+      "name": "franks 10/1 nathan bf",
+      "price": 25.95,
+      "receipt": "Z2526009",
+      "date": "2025-09-25"
+    },
+    {
+      "name": "frito lay variety 50ct",
+      "price": 41.98,
+      "receipt": "Check 3130",
+      "date": "2024-09-12"
+    },
+    {
+      "name": "frozen brownie rocky road",
+      "price": 25.38,
+      "receipt": "Check 3141",
+      "date": "2024-09-20"
+    },
+    {
+      "name": "frozen mozzarella sticks",
+      "price": 25.18,
+      "receipt": "Z2425009",
+      "date": "2025-05-05"
+    },
+    {
+      "name": "giftcard",
+      "price": 250.0,
+      "receipt": "Z2425011",
+      "date": "2025-05-27"
+    },
+    {
+      "name": "glitter oven & gri 4/1gal",
+      "price": 16.13,
+      "receipt": "Z2526020",
+      "date": "2025-10-29"
+    },
+    {
+      "name": "halloween sprinkle caramel apple 24-pack",
+      "price": 109.98,
+      "receipt": "Check 3148",
+      "date": "2024-10-22"
+    },
+    {
+      "name": "hershey variety 30ct",
+      "price": 28.49,
+      "receipt": "Check 3162",
+      "date": "2025-01-31"
+    },
+    {
+      "name": "jack daniels tennessee apple 50ml",
+      "price": 2.99,
+      "receipt": "Z2526010",
+      "date": "2025-09-27"
+    },
+    {
+      "name": "jack daniels tennessee honey 50ml",
+      "price": 2.99,
+      "receipt": "Z2526010",
+      "date": "2025-09-27"
+    },
+    {
+      "name": "james noted that blue foundry was unable to dispense",
+      "price": 150.0,
+      "receipt": "Z2526029",
+      "date": "2026-04-06"
+    },
+    {
+      "name": "jumbo pretzels (restaurant depot)",
+      "price": 14.11,
+      "receipt": "Z2425009",
+      "date": "2025-05-05"
+    },
+    {
+      "name": "jumbo pretzels 24ct",
+      "price": 14.11,
+      "receipt": "Check 3149",
+      "date": "2024-10-30"
+    },
+    {
+      "name": "l black t-shirt w/logo on front & back",
+      "price": 18.0,
+      "receipt": "Z2526006",
+      "date": "2025-09-08"
+    },
+    {
+      "name": "lid hot 10z",
+      "price": 25.11,
+      "receipt": "Check 3144",
+      "date": "2024-10-15"
+    },
+    {
+      "name": "lipton brisk iced tea",
+      "price": 18.99,
+      "receipt": "Check 3162",
+      "date": "2025-01-31"
+    },
+    {
+      "name": "m black t-shirt w/logo on front & back",
+      "price": 18.0,
+      "receipt": "Z2526006",
+      "date": "2025-09-08"
+    },
+    {
+      "name": "men's ua command warm-up full zip",
+      "price": 60.0,
+      "receipt": "ACH2425001",
+      "date": "2025-02-28"
+    },
+    {
+      "name": "men's ua rival stretch woven full-zip",
+      "price": 57.0,
+      "receipt": "ACH2425002",
+      "date": "2025-03-10"
+    },
+    {
+      "name": "mr. clean degreaser pro",
+      "price": 21.35,
+      "receipt": "Z2526020",
+      "date": "2025-10-29"
+    },
+    {
+      "name": "mr. clean product",
+      "price": 12.99,
+      "receipt": "Z2526005",
+      "date": "2025-08-27"
+    },
+    {
+      "name": "nacho chips 50ct",
+      "price": 20.99,
+      "receipt": "Check 3162",
+      "date": "2025-01-31"
+    },
+    {
+      "name": "oil profry liq z/t 35lb",
+      "price": 48.74,
+      "receipt": "Z2526009",
+      "date": "2025-09-25"
+    },
+    {
+      "name": "oreo 30ct",
+      "price": 13.99,
+      "receipt": "Check 3158",
+      "date": "2025-01-04"
+    },
+    {
+      "name": "p spring wat",
+      "price": 8.29,
+      "receipt": "Check 3142",
+      "date": "2024-10-13"
+    },
+    {
+      "name": "paw print hoodie",
+      "price": 32.0,
+      "receipt": "Z2526018",
+      "date": "2025-10-27"
+    },
+    {
+      "name": "paw print long sleeve shirt",
+      "price": 24.0,
+      "receipt": "Z2526018",
+      "date": "2025-10-27"
+    },
+    {
+      "name": "personalized note cards",
+      "price": 74.99,
+      "receipt": "Z2425004",
+      "date": "2025-04-07"
+    },
+    {
+      "name": "pinkout t-shirt",
+      "price": 18.0,
+      "receipt": "Z2526007",
+      "date": "2025-09-20"
+    },
+    {
+      "name": "plaque | 12 varsity letter award plaque",
+      "price": 46.0,
+      "receipt": "Z2425013",
+      "date": "2025-06-09"
+    },
+    {
+      "name": "plaque | 3 varsity sports in one year awards",
+      "price": 15.95,
+      "receipt": "Z2425013",
+      "date": "2025-06-09"
+    },
+    {
+      "name": "plaque | 4 years on varsity awards",
+      "price": 15.95,
+      "receipt": "Z2425013",
+      "date": "2025-06-09"
+    },
+    {
+      "name": "plaque | captain awards for spring sports",
+      "price": 17.95,
+      "receipt": "Z2425013",
+      "date": "2025-06-09"
+    },
+    {
+      "name": "plaque | captains' award plaques",
+      "price": 17.95,
+      "receipt": "Check 3157",
+      "date": "2024-12-24"
+    },
+    {
+      "name": "plaque | four years on a varsity sport plaques",
+      "price": 15.95,
+      "receipt": "Check 3157",
+      "date": "2024-12-24"
+    },
+    {
+      "name": "plaque | large special awards",
+      "price": 65.0,
+      "receipt": "Z2425013",
+      "date": "2025-06-09"
+    },
+    {
+      "name": "pot holdrs sq ter",
+      "price": 5.42,
+      "receipt": "Check 3133",
+      "date": "2024-09-11"
+    },
+    {
+      "name": "r hoodie",
+      "price": 48.0,
+      "receipt": "Z2526018",
+      "date": "2025-10-27"
+    },
+    {
+      "name": "r-kay plastic bowls - 100 count microwavable disposable bowls",
+      "price": 9.99,
+      "receipt": "Z2526012",
+      "date": "2025-10-14"
+    },
+    {
+      "name": "rainbow sprinkle caramel apple 24-pack",
+      "price": 109.98,
+      "receipt": "Check 3148",
+      "date": "2024-10-22"
+    },
+    {
+      "name": "rutherford booster club sweatshirts with logo embroidered",
+      "price": 45.0,
+      "receipt": "Z2526025",
+      "date": "2025-12-11"
+    },
+    {
+      "name": "s black t-shirt w/logo on front & back",
+      "price": 18.0,
+      "receipt": "Z2526006",
+      "date": "2025-09-08"
+    },
+    {
+      "name": "s.o.s steel wool soap pads, lemon fresh, 10 count",
+      "price": 3.98,
+      "receipt": "Z2526012",
+      "date": "2025-10-14"
+    },
+    {
+      "name": "set up charge",
+      "price": 25.0,
+      "receipt": "EFT2526007",
+      "date": "2026-04-20"
+    },
+    {
+      "name": "skrewball peanut butter whiskey 50ml",
+      "price": 2.99,
+      "receipt": "Z2526010",
+      "date": "2025-09-27"
+    },
+    {
+      "name": "sour patch kids",
+      "price": 22.49,
+      "receipt": "Z2526016",
+      "date": "2025-10-20"
+    },
+    {
+      "name": "sour patch watermelon",
+      "price": 22.49,
+      "receipt": "Z2526016",
+      "date": "2025-10-20"
+    },
+    {
+      "name": "spoon wood 24in hd ea",
+      "price": 6.88,
+      "receipt": "Check 3133",
+      "date": "2024-09-11"
+    },
+    {
+      "name": "sport-tek\u00ae fleece-lined colorblock jacket",
+      "price": 54.0,
+      "receipt": "ACH2425003",
+      "date": "2025-06-06"
+    },
+    {
+      "name": "srbb honey mustard",
+      "price": 1.89,
+      "receipt": "Check 3133",
+      "date": "2024-09-11"
+    },
+    {
+      "name": "srbb salt iodized",
+      "price": 0.99,
+      "receipt": "Check 3133",
+      "date": "2024-09-11"
+    },
+    {
+      "name": "stripe crewneck",
+      "price": 42.0,
+      "receipt": "Z2526018",
+      "date": "2025-10-27"
+    },
+    {
+      "name": "stripe hoodie",
+      "price": 45.0,
+      "receipt": "Z2526018",
+      "date": "2025-10-27"
+    },
+    {
+      "name": "test strips qac 50pk",
+      "price": 10.01,
+      "receipt": "Check 3133",
+      "date": "2024-09-11"
+    },
+    {
+      "name": "test strp chlorine 2btl",
+      "price": 7.92,
+      "receipt": "Check 3133",
+      "date": "2024-09-11"
+    },
+    {
+      "name": "the original plain caramel apple 24-pack",
+      "price": 54.99,
+      "receipt": "Check 3148",
+      "date": "2024-10-22"
+    },
+    {
+      "name": "trophy | coaches' award trophies",
+      "price": 15.95,
+      "receipt": "Check 3157",
+      "date": "2024-12-24"
+    },
+    {
+      "name": "ua challenger men's track jacket",
+      "price": 57.0,
+      "receipt": "EFT2526007",
+      "date": "2026-04-20"
+    },
+    {
+      "name": "ua icon fleece men's full-zip hoodie",
+      "price": 58.0,
+      "receipt": "EFT2526001",
+      "date": "2025-12-03"
+    },
+    {
+      "name": "ua icon fleece women's oversized 1/2 zip",
+      "price": 50.0,
+      "receipt": "EFT2526005",
+      "date": "2026-02-18"
+    },
+    {
+      "name": "ua team knit men's full zip",
+      "price": 50.0,
+      "receipt": "EFT2526007",
+      "date": "2026-04-20"
+    },
+    {
+      "name": "ua team knit warm up men's full zip",
+      "price": 50.25,
+      "receipt": "EFT2526006",
+      "date": "2026-03-26"
+    },
+    {
+      "name": "ua team knit warm up women's full zip",
+      "price": 50.25,
+      "receipt": "EFT2526006",
+      "date": "2026-03-26"
+    },
+    {
+      "name": "under armour - icon fleece men's 1/4 zip",
+      "price": 60.0,
+      "receipt": "EFT2526004",
+      "date": "2026-02-09"
+    },
+    {
+      "name": "under armour - men's rival fleece 1/4 zip pullover",
+      "price": 60.0,
+      "receipt": "EFT2526004",
+      "date": "2026-02-09"
+    },
+    {
+      "name": "under armour rival stretch woven jacket",
+      "price": 57.0,
+      "receipt": "ACH2425004",
+      "date": "2025-06-11"
+    },
+    {
+      "name": "vevor stainless steel work table",
+      "price": 107.99,
+      "receipt": "Z2425003",
+      "date": "2025-03-28"
+    },
+    {
+      "name": "welch's fruit snacks variety",
+      "price": 14.99,
+      "receipt": "Z2526005",
+      "date": "2025-08-27"
+    },
+    {
+      "name": "wellsley farms marinara sauce, 2 pk./25 oz.",
+      "price": 7.49,
+      "receipt": "Z2526012",
+      "date": "2025-10-14"
+    },
+    {
+      "name": "wf canola 35",
+      "price": 40.99,
+      "receipt": "Check 3142",
+      "date": "2024-10-13"
+    },
+    {
+      "name": "yoyorain white \"thank you\" t-shirt bags, 100 pcs",
+      "price": 7.45,
+      "receipt": "Z2526008",
+      "date": "2025-09-10"
+    }
+  ]
+}
